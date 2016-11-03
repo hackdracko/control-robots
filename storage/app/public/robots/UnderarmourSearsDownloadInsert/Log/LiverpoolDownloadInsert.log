@@ -1,0 +1,60 @@
+12-10-2016@14:19:52 INFO  (Utileria.java:486)     - UTIL: No se renombro el archivo con fecha 09102016, ya se renombro o no existe, pasando al siguiente archivo
+12-10-2016@14:19:55 INFO  (SearsInsert.java:224)     - Data truncated for column 'inventario' at row 1
+12-10-2016@14:19:55 INFO  (SearsInsert.java:225)     - Query-> com.mysql.jdbc.JDBC4PreparedStatement@4e960cc9: INSERT INTO tempSears(id,fecha,fechaarchivo,fechacarga,tienda,ean,sku,estilo,descripcion,inventario,pedidos,ventas,com,cobertura,costo,naturaleza,estatusArticulo,codigoTemporada,modaBasico,marca,importacion) VALUES(null,'2016-10-09','2016-10-09','2016-10-12 14:19:54','0','2900712673746','59169569','1254920-001','BOTA GLENROCK CAB UNDER ARMOUR 1254920-001','6,893.11','0','0','0','0','947.80','FIRME','ACTIVO','PRIMAVERA-VERANO','NO BASICO','UNDER ARMOUR','NACIONAL')
+12-10-2016@14:19:55 INFO  (SearsInsert.java:121)     - Error ocurrido mientras se cargaban datos del archivo Juguetron Spinmaster a la base de datos.Data truncated for column 'inventario' at row 1
+12-10-2016@14:19:55 INFO  (SearsInsert.java:81)     - INSERT: Termina insersión de portal Sears Underamour venta diaria
+12-10-2016@14:19:55 INFO  (SearsInsert.java:76)     - INSERT: Comienza inserción de portal Sears Underamour venta diaria
+12-10-2016@14:19:55 INFO  (Utileria.java:474)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears\sears_10102016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears\sears_10102016.csv
+12-10-2016@14:19:55 INFO  (Utileria.java:486)     - UTIL: No se renombro el archivo con fecha 10102016, ya se renombro o no existe, pasando al siguiente archivo
+12-10-2016@14:19:58 INFO  (SearsInsert.java:224)     - Data truncated for column 'inventario' at row 1
+12-10-2016@14:19:58 INFO  (SearsInsert.java:225)     - Query-> com.mysql.jdbc.JDBC4PreparedStatement@23fad329: INSERT INTO tempSears(id,fecha,fechaarchivo,fechacarga,tienda,ean,sku,estilo,descripcion,inventario,pedidos,ventas,com,cobertura,costo,naturaleza,estatusArticulo,codigoTemporada,modaBasico,marca,importacion) VALUES(null,'2016-10-10','2016-10-10','2016-10-12 14:19:57','0','2900712980196','59772095','1271517-100','PLAYERA MANGA CORTA DAM UNDER ARMOUR 1271517-100','3,098.28','0','0','0','0','284.01','FIRME','DESCONTINUADO','PRIMAVERA-VERANO','NO BASICO','UNDER ARMOUR','NACIONAL')
+12-10-2016@14:19:58 INFO  (SearsInsert.java:121)     - Error ocurrido mientras se cargaban datos del archivo Juguetron Spinmaster a la base de datos.Data truncated for column 'inventario' at row 1
+12-10-2016@14:19:58 INFO  (SearsInsert.java:81)     - INSERT: Termina insersión de portal Sears Underamour venta diaria
+12-10-2016@14:19:58 INFO  (SearsInsert.java:76)     - INSERT: Comienza inserción de portal Sears Underamour venta diaria
+12-10-2016@14:19:58 INFO  (Utileria.java:474)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears\sears_11102016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears\sears_11102016.csv
+12-10-2016@14:19:58 INFO  (Utileria.java:486)     - UTIL: No se renombro el archivo con fecha 11102016, ya se renombro o no existe, pasando al siguiente archivo
+12-10-2016@14:20:01 INFO  (SearsInsert.java:224)     - Data truncated for column 'inventario' at row 1
+12-10-2016@14:20:01 INFO  (SearsInsert.java:225)     - Query-> com.mysql.jdbc.JDBC4PreparedStatement@3f5a51b5: INSERT INTO tempSears(id,fecha,fechaarchivo,fechacarga,tienda,ean,sku,estilo,descripcion,inventario,pedidos,ventas,com,cobertura,costo,naturaleza,estatusArticulo,codigoTemporada,modaBasico,marca,importacion) VALUES(null,'2016-10-11','2016-10-11','2016-10-12 14:20:00','0','2900712977288','59764666','1257474-907','LEGGING CAB UNDER ARMOUR 1257474-907','2,066.38','0','0','0','0','378.84','FIRME','DESCONTINUADO','PRIMAVERA-VERANO','NO BASICO','UNDER ARMOUR','NACIONAL')
+12-10-2016@14:20:01 INFO  (SearsInsert.java:121)     - Error ocurrido mientras se cargaban datos del archivo Juguetron Spinmaster a la base de datos.Data truncated for column 'inventario' at row 1
+12-10-2016@14:20:01 INFO  (SearsInsert.java:81)     - INSERT: Termina insersión de portal Sears Underamour venta diaria
+12-10-2016@14:20:01 INFO  (SearsInsert.java:76)     - INSERT: Comienza inserción de portal Sears Underamour venta diaria
+12-10-2016@14:20:01 INFO  (Utileria.java:474)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears\sears_12102016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears\sears_12102016.csv
+12-10-2016@14:20:01 INFO  (Utileria.java:486)     - UTIL: No se renombro el archivo con fecha 12102016, ya se renombro o no existe, pasando al siguiente archivo
+12-10-2016@14:20:03 INFO  (SearsInsert.java:141)     - C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears\sears_12102016.csv (El sistema no puede encontrar el archivo especificado)
+12-10-2016@14:20:03 INFO  (SearsInsert.java:121)     - LOAD: Error al executar archivo CSVC:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears\sears_12102016.csv (El sistema no puede encontrar el archivo especificado)
+12-10-2016@14:20:03 INFO  (SearsInsert.java:81)     - INSERT: Termina insersión de portal Sears Underamour venta diaria
+19-10-2016@10:08:09 INFO  (SearsDownload.java:82)     - MAIN: Se ejecuta Juguetron underarmour
+19-10-2016@10:08:10 INFO  (Utileria.java:193)     - C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears
+19-10-2016@10:08:11 INFO  (Utileria.java:259)     - old date: Wed Oct 12 00:00:00 CDT 2016
+19-10-2016@10:08:11 INFO  (Utileria.java:259)     - old date: Thu Oct 13 00:00:00 CDT 2016
+19-10-2016@10:08:11 INFO  (Utileria.java:259)     - old date: Fri Oct 14 00:00:00 CDT 2016
+19-10-2016@10:08:11 INFO  (Utileria.java:259)     - old date: Sat Oct 15 00:00:00 CDT 2016
+19-10-2016@10:08:11 INFO  (Utileria.java:259)     - old date: Sun Oct 16 00:00:00 CDT 2016
+19-10-2016@10:08:11 INFO  (Utileria.java:259)     - old date: Mon Oct 17 00:00:00 CDT 2016
+19-10-2016@10:08:11 INFO  (Utileria.java:259)     - old date: Tue Oct 18 00:00:00 CDT 2016
+19-10-2016@10:08:11 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaciÃ³n/descarga del link/archivo
+19-10-2016@10:08:11 INFO  (SearsDownload.java:96)     - MAIN: Comienza descarga de archivo sears_12102016
+01-11-2016@15:54:33 INFO  (SearsDownload.java:82)     - MAIN: Se ejecuta Juguetron underarmour
+01-11-2016@15:54:44 INFO  (Utileria.java:193)     - C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\sears
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Wed Oct 12 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Thu Oct 13 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Fri Oct 14 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Sat Oct 15 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Sun Oct 16 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Mon Oct 17 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Tue Oct 18 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Wed Oct 19 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Thu Oct 20 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Fri Oct 21 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Sat Oct 22 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Sun Oct 23 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Mon Oct 24 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Tue Oct 25 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Wed Oct 26 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Thu Oct 27 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Fri Oct 28 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Sat Oct 29 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Sun Oct 30 00:00:00 CDT 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:259)     - old date: Mon Oct 31 00:00:00 CST 2016
+01-11-2016@15:54:46 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaciÃ³n/descarga del link/archivo
+01-11-2016@15:54:46 INFO  (SearsDownload.java:96)     - MAIN: Comienza descarga de archivo sears_12102016

@@ -1,0 +1,921 @@
+19-09-2016@17:31:43 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+19-09-2016@17:31:43 INFO  (Utileria.java:283)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-12-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-12-2016.csv
+19-09-2016@17:31:43 INFO  (Utileria.java:295)     - UTIL: No se renombro el archivo con fecha 09-12-2016, ya se renombro o no existe, pasando al siguiente archivo
+19-09-2016@17:31:45 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-12-2016 no existe o no se a descargado aun. Pasando al siguiente
+19-09-2016@17:31:45 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+19-09-2016@17:31:45 INFO  (Utileria.java:283)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-13-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-13-2016.csv
+19-09-2016@17:31:45 INFO  (Utileria.java:295)     - UTIL: No se renombro el archivo con fecha 09-13-2016, ya se renombro o no existe, pasando al siguiente archivo
+19-09-2016@17:31:47 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-13-2016 no existe o no se a descargado aun. Pasando al siguiente
+19-09-2016@17:31:47 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+19-09-2016@17:31:47 INFO  (Utileria.java:283)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-14-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-14-2016.csv
+19-09-2016@17:31:47 INFO  (Utileria.java:295)     - UTIL: No se renombro el archivo con fecha 09-14-2016, ya se renombro o no existe, pasando al siguiente archivo
+19-09-2016@17:31:49 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-14-2016 no existe o no se a descargado aun. Pasando al siguiente
+19-09-2016@17:31:49 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+19-09-2016@17:31:49 INFO  (Utileria.java:283)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-15-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-15-2016.csv
+19-09-2016@17:31:49 INFO  (Utileria.java:295)     - UTIL: No se renombro el archivo con fecha 09-15-2016, ya se renombro o no existe, pasando al siguiente archivo
+19-09-2016@17:31:51 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-15-2016 no existe o no se a descargado aun. Pasando al siguiente
+19-09-2016@17:31:51 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+19-09-2016@17:31:51 INFO  (Utileria.java:283)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-16-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-16-2016.csv
+19-09-2016@17:31:51 INFO  (Utileria.java:295)     - UTIL: No se renombro el archivo con fecha 09-16-2016, ya se renombro o no existe, pasando al siguiente archivo
+19-09-2016@17:31:53 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-16-2016 no existe o no se a descargado aun. Pasando al siguiente
+19-09-2016@17:31:53 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+19-09-2016@17:31:53 INFO  (Utileria.java:283)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-17-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-17-2016.csv
+19-09-2016@17:31:53 INFO  (Utileria.java:295)     - UTIL: No se renombro el archivo con fecha 09-17-2016, ya se renombro o no existe, pasando al siguiente archivo
+19-09-2016@17:31:55 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-17-2016 no existe o no se a descargado aun. Pasando al siguiente
+19-09-2016@17:31:55 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+19-09-2016@17:31:55 INFO  (Utileria.java:283)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-18-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-18-2016.csv
+19-09-2016@17:31:55 INFO  (Utileria.java:295)     - UTIL: No se renombro el archivo con fecha 09-18-2016, ya se renombro o no existe, pasando al siguiente archivo
+19-09-2016@17:31:57 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-18-2016 no existe o no se a descargado aun. Pasando al siguiente
+19-09-2016@17:31:57 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+19-09-2016@17:31:57 INFO  (Utileria.java:283)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-19-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-19-2016.csv
+19-09-2016@17:31:57 INFO  (Utileria.java:286)     - RENAME: El archivo 09-19-2016 existe
+19-09-2016@17:31:57 INFO  (Utileria.java:289)     - UTIL: Extencion de archivo walmart con fecha 09-19-2016 correctamente cambiado
+19-09-2016@17:31:59 INFO  (WalmartInsert.java:113)     - READ: El archivo 09-19-2016 existe
+19-09-2016@17:31:59 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-19-2016.csv
+19-09-2016@17:31:59 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+19-09-2016@17:31:59 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 09-19-2016
+19-09-2016@17:31:59 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+19-09-2016@17:31:59 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-09-19' AND x.posQty>0 GROUP BY x.id
+19-09-2016@17:31:59 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:18:53 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@13:18:54 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@13:18:54 INFO  (Utileria.java:127)     - old date: Sun Jun 12 00:00:00 CDT 2016
+21-09-2016@13:18:54 INFO  (Utileria.java:127)     - old date: Mon Jun 13 00:00:00 CDT 2016
+21-09-2016@13:18:54 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:18:54 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_06-12-2016
+21-09-2016@13:19:15 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:19:16 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_06-12-2016
+21-09-2016@13:22:44 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/Outbound07/spi2020_481880463_9DB2A14CX86D6X444FXAD65X9D73D5450CEA.txt
+21-09-2016@13:22:48 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:22:52 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:22:52 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_06-13-2016
+21-09-2016@13:23:11 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:23:12 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_06-13-2016
+21-09-2016@13:25:43 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/Outbound07/spi2020_481880501_EDF568C6XA9DFX4D6DXB313X8FF735FD7ABA.txt
+21-09-2016@13:25:46 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:25:50 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@13:25:50 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@13:25:58 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-09-06
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Wed Sep 07 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Thu Sep 08 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Fri Sep 09 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Sat Sep 10 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Sun Sep 11 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Mon Sep 12 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Tue Sep 13 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Wed Sep 14 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Thu Sep 15 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Fri Sep 16 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Sat Sep 17 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Sun Sep 18 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Mon Sep 19 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Tue Sep 20 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (Utileria.java:247)     - old date: Wed Sep 21 00:00:00 CDT 2016
+21-09-2016@13:25:58 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:25:58 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.csv
+21-09-2016@13:25:58 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-07-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:00 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-07-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:00 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:00 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-08-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-08-2016.csv
+21-09-2016@13:26:00 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-08-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:02 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-08-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:02 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:02 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-09-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-09-2016.csv
+21-09-2016@13:26:02 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-09-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:04 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-09-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:04 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:04 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-10-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-10-2016.csv
+21-09-2016@13:26:04 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-10-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:06 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-10-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:06 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:06 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-11-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-11-2016.csv
+21-09-2016@13:26:06 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-11-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:08 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-11-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:08 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:08 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-12-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-12-2016.csv
+21-09-2016@13:26:08 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-12-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:10 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-12-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:10 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:10 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-13-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-13-2016.csv
+21-09-2016@13:26:10 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-13-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:12 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-13-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:12 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:12 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-14-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-14-2016.csv
+21-09-2016@13:26:12 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-14-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:14 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-14-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:14 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:14 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-15-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-15-2016.csv
+21-09-2016@13:26:14 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-15-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:16 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-15-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:16 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:16 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-16-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-16-2016.csv
+21-09-2016@13:26:16 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-16-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:18 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-16-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:18 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:18 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-17-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-17-2016.csv
+21-09-2016@13:26:18 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-17-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:20 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-17-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:20 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:20 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-18-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-18-2016.csv
+21-09-2016@13:26:20 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-18-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:22 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-18-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:22 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:22 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-19-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-19-2016.csv
+21-09-2016@13:26:22 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-19-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:24 INFO  (WalmartInsert.java:113)     - READ: El archivo 09-19-2016 existe
+21-09-2016@13:26:24 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-19-2016.csv
+21-09-2016@13:26:24 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+21-09-2016@13:26:24 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 09-19-2016
+21-09-2016@13:26:24 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+21-09-2016@13:26:24 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-09-19' AND x.posQty>0 GROUP BY x.id
+21-09-2016@13:26:25 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:25 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-20-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-20-2016.csv
+21-09-2016@13:26:25 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-20-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:27 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-20-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:27 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:26:27 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-21-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-21-2016.csv
+21-09-2016@13:26:27 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-21-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:26:29 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-21-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:26:29 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:27:30 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@13:27:31 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@13:27:31 INFO  (Utileria.java:127)     - old date: Tue Jul 05 00:00:00 CDT 2016
+21-09-2016@13:27:31 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:27:31 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_07-05-2016
+21-09-2016@13:27:52 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:27:53 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_07-05-2016
+21-09-2016@13:27:53 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=481880762&status=D&Extension=txt&filename=/Outbound07/spi2020_481880762_4D4CC66FXE08FX41B2X8D69X1ED36C23E09A&reqname=evolve_webbot_07-05-2016,481880762
+21-09-2016@13:27:53 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:27:56 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@13:27:57 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@13:28:04 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-09-06
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Wed Sep 07 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Thu Sep 08 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Fri Sep 09 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Sat Sep 10 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Sun Sep 11 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Mon Sep 12 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Tue Sep 13 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Wed Sep 14 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Thu Sep 15 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Fri Sep 16 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Sat Sep 17 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Sun Sep 18 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Mon Sep 19 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Tue Sep 20 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (Utileria.java:247)     - old date: Wed Sep 21 00:00:00 CDT 2016
+21-09-2016@13:28:04 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:28:04 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.csv
+21-09-2016@13:28:04 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-07-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:28:06 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-07-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:28:06 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:28:06 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-08-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-08-2016.csv
+21-09-2016@13:28:06 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-08-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:29:10 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@13:29:11 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@13:29:11 INFO  (Utileria.java:127)     - old date: Tue Jul 05 00:00:00 CDT 2016
+21-09-2016@13:29:11 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:29:11 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_07-05-2016
+21-09-2016@13:29:32 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:29:32 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_07-05-2016
+21-09-2016@13:29:33 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=481880762&status=R&Extension=txt&filename=/Outbound07/spi2020_481880762_4D4CC66FXE08FX41B2X8D69X1ED36C23E09A&reqname=evolve_webbot_07-05-2016,481880762
+21-09-2016@13:29:33 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:29:36 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@13:29:37 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@13:29:43 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-09-06
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Wed Sep 07 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Thu Sep 08 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Fri Sep 09 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Sat Sep 10 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Sun Sep 11 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Mon Sep 12 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Tue Sep 13 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Wed Sep 14 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Thu Sep 15 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Fri Sep 16 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Sat Sep 17 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Sun Sep 18 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Mon Sep 19 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Tue Sep 20 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (Utileria.java:247)     - old date: Wed Sep 21 00:00:00 CDT 2016
+21-09-2016@13:29:43 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:29:43 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.csv
+21-09-2016@13:29:43 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-07-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:29:45 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-07-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:29:45 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:29:45 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-08-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-08-2016.csv
+21-09-2016@13:29:45 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-08-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:29:47 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-08-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:29:47 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:29:47 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-09-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-09-2016.csv
+21-09-2016@13:29:47 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-09-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:29:49 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-09-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:29:49 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:29:49 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-10-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-10-2016.csv
+21-09-2016@13:29:49 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-10-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:29:51 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-10-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:29:51 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:29:51 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-11-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-11-2016.csv
+21-09-2016@13:29:51 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-11-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:29:53 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-11-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:29:53 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:29:53 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-12-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-12-2016.csv
+21-09-2016@13:29:53 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-12-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:29:55 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-12-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:29:55 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:29:55 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-13-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-13-2016.csv
+21-09-2016@13:29:55 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-13-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:29:57 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-13-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:29:57 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:29:57 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-14-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-14-2016.csv
+21-09-2016@13:29:57 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-14-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:29:59 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-14-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:29:59 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:29:59 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-15-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-15-2016.csv
+21-09-2016@13:29:59 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-15-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:30:01 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-15-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:30:01 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:30:01 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-16-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-16-2016.csv
+21-09-2016@13:30:01 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-16-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:30:03 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-16-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:30:03 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:30:03 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-17-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-17-2016.csv
+21-09-2016@13:30:03 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-17-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:30:05 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-17-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:30:05 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:30:06 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-18-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-18-2016.csv
+21-09-2016@13:30:06 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-18-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:30:08 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-18-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:30:08 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:30:08 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-19-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-19-2016.csv
+21-09-2016@13:30:08 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-19-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:30:10 INFO  (WalmartInsert.java:113)     - READ: El archivo 09-19-2016 existe
+21-09-2016@13:30:10 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-19-2016.csv
+21-09-2016@13:30:10 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+21-09-2016@13:30:10 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 09-19-2016
+21-09-2016@13:30:10 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+21-09-2016@13:30:10 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-09-19' AND x.posQty>0 GROUP BY x.id
+21-09-2016@13:30:10 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:30:10 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-20-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-20-2016.csv
+21-09-2016@13:30:10 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-20-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:30:12 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-20-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:30:12 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:30:12 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-21-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-21-2016.csv
+21-09-2016@13:30:12 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-21-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:30:14 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-21-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:30:14 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:31:40 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@13:31:40 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@13:31:40 INFO  (Utileria.java:127)     - old date: Tue Jul 05 00:00:00 CDT 2016
+21-09-2016@13:31:40 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:31:40 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_07-05-2016
+21-09-2016@13:32:01 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:32:01 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_07-05-2016
+21-09-2016@13:35:30 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/Outbound07/spi2020_481880762_4D4CC66FXE08FX41B2X8D69X1ED36C23E09A.txt
+21-09-2016@13:35:35 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:35:38 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@13:35:39 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@13:36:22 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@13:36:23 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@13:36:23 INFO  (Utileria.java:127)     - old date: Sat Jul 30 00:00:00 CDT 2016
+21-09-2016@13:36:23 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:36:23 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_07-30-2016
+21-09-2016@13:36:43 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:36:44 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_07-30-2016
+21-09-2016@13:36:44 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=481880838&status=D&Extension=txt&filename=/Outbound07/spi2020_481880838_C0C17CC6X9613X4E4FX8D9FX8F40268A81FA&reqname=evolve_webbot_07-30-2016,481880838
+21-09-2016@13:39:53 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:39:56 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@13:39:57 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@13:41:12 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@13:41:13 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@13:41:13 INFO  (Utileria.java:127)     - old date: Wed Aug 10 00:00:00 CDT 2016
+21-09-2016@13:41:13 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:41:13 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_08-10-2016
+21-09-2016@13:41:34 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:41:34 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_08-10-2016
+21-09-2016@13:44:10 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/Outbound06/spi2020_481880931_8411BED8XBF29X4A00X8D35X025532FA458D.txt
+21-09-2016@13:44:14 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:44:18 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@13:44:19 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@13:45:25 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@13:45:25 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@13:45:25 INFO  (Utileria.java:127)     - old date: Sun Aug 21 00:00:00 CDT 2016
+21-09-2016@13:45:25 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:45:25 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_08-21-2016
+21-09-2016@13:45:46 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:45:47 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_08-21-2016
+21-09-2016@13:45:47 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=481881027&status=D&Extension=txt&filename=/Outbound06/spi2020_481881027_CDB0F9B0X3751X4D73X9D66XB7DEA15A1B4C&reqname=evolve_webbot_08-21-2016,481881027
+21-09-2016@13:45:47 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:45:51 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@13:45:51 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@13:45:58 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-09-06
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Wed Sep 07 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Thu Sep 08 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Fri Sep 09 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Sat Sep 10 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Sun Sep 11 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Mon Sep 12 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Tue Sep 13 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Wed Sep 14 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Thu Sep 15 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Fri Sep 16 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Sat Sep 17 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Sun Sep 18 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Mon Sep 19 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Tue Sep 20 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (Utileria.java:247)     - old date: Wed Sep 21 00:00:00 CDT 2016
+21-09-2016@13:45:58 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:45:58 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.csv
+21-09-2016@13:45:58 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-07-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:46:22 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@13:46:23 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@13:46:23 INFO  (Utileria.java:127)     - old date: Sun Aug 21 00:00:00 CDT 2016
+21-09-2016@13:46:23 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:46:23 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_08-21-2016
+21-09-2016@13:46:44 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:46:44 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_08-21-2016
+21-09-2016@13:50:05 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/Outbound06/spi2020_481881027_CDB0F9B0X3751X4D73X9D66XB7DEA15A1B4C.txt
+21-09-2016@13:50:09 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:50:12 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@13:50:13 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@13:51:37 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@13:51:38 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@13:51:38 INFO  (Utileria.java:127)     - old date: Thu Aug 25 00:00:00 CDT 2016
+21-09-2016@13:51:38 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@13:51:38 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_08-25-2016
+21-09-2016@13:51:59 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@13:51:59 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_08-25-2016
+21-09-2016@13:54:32 INFO  (WalmartDownload.java:156)     - Url : https://retaillink.wal-mart.com/Outbound06/spi2020_481881112_5D5E20F9X78ECX40D7X8E2DXBB9383F73CAC.txt
+21-09-2016@13:54:37 INFO  (WalmartDownload.java:171)     - [-]Termina la creaci髇 del archivo
+21-09-2016@13:54:40 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@13:54:41 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@13:54:48 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-09-06
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Wed Sep 07 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Thu Sep 08 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Fri Sep 09 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Sat Sep 10 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Sun Sep 11 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Mon Sep 12 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Tue Sep 13 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Wed Sep 14 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Thu Sep 15 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Fri Sep 16 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Sat Sep 17 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Sun Sep 18 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Mon Sep 19 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Tue Sep 20 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (Utileria.java:247)     - old date: Wed Sep 21 00:00:00 CDT 2016
+21-09-2016@13:54:48 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:54:48 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-07-2016.csv
+21-09-2016@13:54:48 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-07-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:54:50 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-07-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:54:50 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:54:50 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-08-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-08-2016.csv
+21-09-2016@13:54:50 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-08-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:54:52 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-08-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:54:52 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:54:52 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-09-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-09-2016.csv
+21-09-2016@13:54:52 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-09-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:54:54 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-09-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:54:54 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:54:54 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-10-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-10-2016.csv
+21-09-2016@13:54:54 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-10-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:54:56 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-10-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:54:56 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:54:56 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-11-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-11-2016.csv
+21-09-2016@13:54:56 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-11-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:54:58 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-11-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:54:58 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:54:58 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-12-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-12-2016.csv
+21-09-2016@13:54:58 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-12-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:55:00 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-12-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:55:00 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:55:00 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-13-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-13-2016.csv
+21-09-2016@13:55:00 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-13-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@13:55:02 INFO  (WalmartInsert.java:130)     - READ: El archivo con fecha: 09-13-2016 no existe o no se a descargado aun. Pasando al siguiente
+21-09-2016@13:55:02 INFO  (WalmartInsert.java:76)     - INSERT: Comienza insersi贸n de portal Walmart Cesarfer venta diaria
+21-09-2016@13:55:02 INFO  (Utileria.java:286)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-14-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_09-14-2016.csv
+21-09-2016@13:55:02 INFO  (Utileria.java:298)     - UTIL: No se renombro el archivo con fecha 09-14-2016, ya se renombro o no existe, pasando al siguiente archivo
+21-09-2016@14:06:29 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@14:06:29 INFO  (Utileria.java:81)     - walmart_09-19-2016.csv
+21-09-2016@14:06:29 INFO  (Utileria.java:127)     - old date: Sun Jun 12 00:00:00 CDT 2016
+21-09-2016@14:06:29 INFO  (Utileria.java:127)     - old date: Mon Jun 13 00:00:00 CDT 2016
+21-09-2016@14:06:29 INFO  (Utileria.java:272)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+21-09-2016@14:06:29 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_06-12-2016
+21-09-2016@14:06:50 INFO  (WalmartDownload.java:144)     - Logueo correcto
+21-09-2016@14:06:51 INFO  (WalmartDownload.java:148)     - Reporte : evolve_webbot_06-12-2016
+21-09-2016@14:20:38 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@14:20:39 INFO  (Utileria.java:81)     - walmart_09-21-2016.csv
+21-09-2016@14:20:39 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@14:20:40 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@14:26:05 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@14:26:05 INFO  (Utileria.java:81)     - walmart_09-21-2016.csv
+21-09-2016@14:26:05 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@14:26:06 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@14:31:44 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@14:31:45 INFO  (Utileria.java:81)     - walmart_09-21-2016.csv
+21-09-2016@14:31:45 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@14:31:46 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@14:31:52 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+21-09-2016@14:32:38 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@14:32:39 INFO  (Utileria.java:81)     - walmart_09-21-2016.csv
+21-09-2016@14:32:39 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@14:32:40 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@14:32:46 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+21-09-2016@14:37:26 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+21-09-2016@14:37:26 INFO  (Utileria.java:81)     - walmart_09-21-2016.csv
+21-09-2016@14:37:26 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+21-09-2016@14:37:27 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+21-09-2016@14:37:33 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+21-09-2016@14:37:33 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:00:17 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:00:17 INFO  (Utileria.java:81)     - walmart_09-21-2016.csv
+22-09-2016@10:00:17 INFO  (Utileria.java:127)     - old date: Thu Sep 22 00:00:00 CDT 2016
+22-09-2016@10:00:17 INFO  (Utileria.java:273)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+22-09-2016@10:00:17 INFO  (WalmartDownload.java:58)     - Comienza descarga de archivo walmart_09-22-2016
+22-09-2016@10:02:45 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:02:45 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:02:45 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:02:46 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:02:54 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-13
+22-09-2016@10:02:54 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:09:43 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:09:43 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:09:43 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:09:44 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:09:51 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-13
+22-09-2016@10:09:51 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:12:17 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:12:17 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:12:17 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:12:18 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:12:24 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-13
+22-09-2016@10:12:24 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:14:11 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:14:11 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:14:11 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:14:12 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:14:19 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-13
+22-09-2016@10:14:19 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:18:13 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:18:14 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:18:14 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:18:15 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:18:21 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+22-09-2016@10:18:21 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:19:00 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:19:00 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:19:00 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:19:01 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:19:08 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Jun 12 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Jun 13 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Jun 14 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Jun 15 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Jun 16 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Jun 17 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Jun 18 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Jun 19 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Jun 20 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Jun 21 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Jun 22 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Jun 23 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Jun 24 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Jun 25 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Jun 26 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Jun 27 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Jun 28 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Jun 29 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Jun 30 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Jul 01 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Jul 02 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Jul 03 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Jul 04 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Jul 05 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Jul 06 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Jul 07 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Jul 08 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Jul 09 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Jul 10 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Jul 11 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Jul 12 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Jul 13 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Jul 14 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Jul 15 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Jul 16 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Jul 17 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Jul 18 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Jul 19 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Jul 20 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Jul 21 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Jul 22 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Jul 23 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Jul 24 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Jul 25 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Jul 26 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Jul 27 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Jul 28 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Jul 29 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Jul 30 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Jul 31 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Aug 01 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Aug 02 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Aug 03 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Aug 04 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Aug 05 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Aug 06 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Aug 07 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Aug 08 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Aug 09 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Aug 10 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Aug 11 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Aug 12 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Aug 13 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Aug 14 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Aug 15 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Aug 16 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Aug 17 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Aug 18 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Aug 19 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Aug 20 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Aug 21 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Aug 22 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Aug 23 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Aug 24 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Aug 25 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Aug 26 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Aug 27 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Aug 28 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Aug 29 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Aug 30 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Aug 31 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Sep 01 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Sep 02 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Sep 03 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Sep 04 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Sep 05 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Sep 06 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Sep 07 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Sep 08 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Sep 09 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Sep 10 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Sep 11 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Sep 12 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Sep 13 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Sep 14 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Sep 15 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Fri Sep 16 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sat Sep 17 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Sun Sep 18 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Mon Sep 19 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Tue Sep 20 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Wed Sep 21 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (Utileria.java:252)     - old date: Thu Sep 22 00:00:00 CDT 2016
+22-09-2016@10:19:08 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:19:08 INFO  (Utileria.java:291)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-12-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-12-2016.csv
+22-09-2016@10:19:08 INFO  (Utileria.java:294)     - RENAME: El archivo 06-12-2016 existe
+22-09-2016@10:19:08 INFO  (Utileria.java:297)     - UTIL: Extencion de archivo walmart con fecha 06-12-2016 correctamente cambiado
+22-09-2016@10:19:59 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:19:59 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:19:59 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:20:00 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:20:07 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Jun 12 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Jun 13 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Jun 14 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Jun 15 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Jun 16 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Jun 17 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Jun 18 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Jun 19 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Jun 20 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Jun 21 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Jun 22 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Jun 23 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Jun 24 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Jun 25 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Jun 26 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Jun 27 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Jun 28 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Jun 29 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Jun 30 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Jul 01 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Jul 02 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Jul 03 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Jul 04 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Jul 05 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Jul 06 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Jul 07 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Jul 08 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Jul 09 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Jul 10 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Jul 11 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Jul 12 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Jul 13 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Jul 14 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Jul 15 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Jul 16 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Jul 17 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Jul 18 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Jul 19 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Jul 20 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Jul 21 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Jul 22 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Jul 23 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Jul 24 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Jul 25 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Jul 26 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Jul 27 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Jul 28 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Jul 29 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Jul 30 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Jul 31 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Aug 01 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Aug 02 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Aug 03 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Aug 04 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Aug 05 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Aug 06 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Aug 07 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Aug 08 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Aug 09 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Aug 10 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Aug 11 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Aug 12 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Aug 13 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Aug 14 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Aug 15 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Aug 16 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Aug 17 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Aug 18 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Aug 19 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Aug 20 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Aug 21 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Aug 22 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Aug 23 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Aug 24 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Aug 25 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Aug 26 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Aug 27 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Aug 28 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Aug 29 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Aug 30 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Aug 31 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Sep 01 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Sep 02 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Sep 03 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Sep 04 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Sep 05 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Sep 06 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Sep 07 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Sep 08 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Sep 09 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Sep 10 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Sep 11 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Sep 12 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Sep 13 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Sep 14 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Sep 15 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Fri Sep 16 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sat Sep 17 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Sun Sep 18 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Mon Sep 19 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Tue Sep 20 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Wed Sep 21 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (Utileria.java:253)     - old date: Thu Sep 22 00:00:00 CDT 2016
+22-09-2016@10:20:07 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:20:07 INFO  (Utileria.java:292)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-12-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-12-2016.csv
+22-09-2016@10:20:07 INFO  (Utileria.java:304)     - UTIL: No se renombro el archivo con fecha 06-12-2016, ya se renombro o no existe, pasando al siguiente archivo
+22-09-2016@10:20:57 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:20:58 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:20:58 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:20:59 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:21:05 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Jun 12 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Jun 13 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Jun 14 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Jun 15 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Jun 16 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Jun 17 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Jun 18 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Jun 19 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Jun 20 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Jun 21 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Jun 22 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Jun 23 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Jun 24 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Jun 25 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Jun 26 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Jun 27 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Jun 28 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Jun 29 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Jun 30 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Jul 01 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Jul 02 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Jul 03 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Jul 04 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Jul 05 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Jul 06 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Jul 07 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Jul 08 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Jul 09 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Jul 10 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Jul 11 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Jul 12 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Jul 13 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Jul 14 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Jul 15 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Jul 16 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Jul 17 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Jul 18 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Jul 19 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Jul 20 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Jul 21 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Jul 22 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Jul 23 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Jul 24 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Jul 25 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Jul 26 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Jul 27 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Jul 28 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Jul 29 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Jul 30 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Jul 31 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Aug 01 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Aug 02 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Aug 03 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Aug 04 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Aug 05 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Aug 06 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Aug 07 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Aug 08 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Aug 09 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Aug 10 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Aug 11 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Aug 12 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Aug 13 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Aug 14 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Aug 15 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Aug 16 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Aug 17 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Aug 18 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Aug 19 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Aug 20 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Aug 21 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Aug 22 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Aug 23 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Aug 24 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Aug 25 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Aug 26 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Aug 27 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Aug 28 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Aug 29 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Aug 30 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Aug 31 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Sep 01 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Sep 02 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Sep 03 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Sep 04 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Sep 05 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Sep 06 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Sep 07 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Sep 08 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Sep 09 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Sep 10 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Sep 11 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Sep 12 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Sep 13 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Sep 14 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Sep 15 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Fri Sep 16 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sat Sep 17 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Sun Sep 18 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Mon Sep 19 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Tue Sep 20 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Wed Sep 21 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (Utileria.java:254)     - old date: Thu Sep 22 00:00:00 CDT 2016
+22-09-2016@10:21:05 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:21:06 INFO  (Utileria.java:293)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-12-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-12-2016.csv
+22-09-2016@10:21:06 INFO  (Utileria.java:305)     - UTIL: No se renombro el archivo con fecha 06-12-2016, ya se renombro o no existe, pasando al siguiente archivo
+22-09-2016@10:22:29 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:22:30 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:22:30 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:22:30 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:22:37 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+22-09-2016@10:23:30 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:23:31 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:23:31 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:23:32 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:23:38 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+22-09-2016@10:25:42 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:25:42 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:25:42 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:25:43 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:25:50 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-06-11
+22-09-2016@10:25:50 INFO  (Utileria.java:252)     - old date: Sun Jun 12 00:00:00 CDT 2016
+22-09-2016@10:25:50 INFO  (Utileria.java:252)     - old date: Mon Jun 13 00:00:00 CDT 2016
+22-09-2016@10:25:50 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:25:50 INFO  (Utileria.java:291)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-12-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-12-2016.csv
+22-09-2016@10:25:50 INFO  (Utileria.java:303)     - UTIL: No se renombro el archivo con fecha 06-12-2016, ya se renombro o no existe, pasando al siguiente archivo
+22-09-2016@10:25:52 INFO  (WalmartInsert.java:113)     - READ: El archivo 06-12-2016 existe
+22-09-2016@10:25:52 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-12-2016.csv
+22-09-2016@10:26:14 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+22-09-2016@10:26:14 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 06-12-2016
+22-09-2016@10:26:14 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+22-09-2016@10:26:14 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-06-12' AND x.posQty>0 GROUP BY x.id
+22-09-2016@10:26:14 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:26:14 INFO  (Utileria.java:291)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-13-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-13-2016.csv
+22-09-2016@10:26:14 INFO  (Utileria.java:294)     - RENAME: El archivo 06-13-2016 existe
+22-09-2016@10:26:14 INFO  (Utileria.java:297)     - UTIL: Extencion de archivo walmart con fecha 06-13-2016 correctamente cambiado
+22-09-2016@10:26:16 INFO  (WalmartInsert.java:113)     - READ: El archivo 06-13-2016 existe
+22-09-2016@10:26:16 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_06-13-2016.csv
+22-09-2016@10:26:31 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+22-09-2016@10:26:31 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 06-13-2016
+22-09-2016@10:26:31 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+22-09-2016@10:26:31 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-06-13' AND x.posQty>0 GROUP BY x.id
+22-09-2016@10:26:32 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:29:01 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:29:01 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:29:01 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:29:02 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:29:09 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-07-04
+22-09-2016@10:29:09 INFO  (Utileria.java:252)     - old date: Tue Jul 05 00:00:00 CDT 2016
+22-09-2016@10:29:09 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:29:09 INFO  (Utileria.java:291)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_07-05-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_07-05-2016.csv
+22-09-2016@10:29:09 INFO  (Utileria.java:294)     - RENAME: El archivo 07-05-2016 existe
+22-09-2016@10:29:09 INFO  (Utileria.java:297)     - UTIL: Extencion de archivo walmart con fecha 07-05-2016 correctamente cambiado
+22-09-2016@10:29:11 INFO  (WalmartInsert.java:113)     - READ: El archivo 07-05-2016 existe
+22-09-2016@10:29:11 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_07-05-2016.csv
+22-09-2016@10:29:26 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+22-09-2016@10:29:26 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 07-05-2016
+22-09-2016@10:29:26 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+22-09-2016@10:29:26 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-07-05' AND x.posQty>0 GROUP BY x.id
+22-09-2016@10:29:26 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:31:12 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:31:12 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:31:12 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:31:13 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:31:20 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-07-29
+22-09-2016@10:31:20 INFO  (Utileria.java:252)     - old date: Sat Jul 30 00:00:00 CDT 2016
+22-09-2016@10:31:20 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:31:20 INFO  (Utileria.java:291)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_07-30-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_07-30-2016.csv
+22-09-2016@10:31:20 INFO  (Utileria.java:294)     - RENAME: El archivo 07-30-2016 existe
+22-09-2016@10:31:20 INFO  (Utileria.java:297)     - UTIL: Extencion de archivo walmart con fecha 07-30-2016 correctamente cambiado
+22-09-2016@10:31:22 INFO  (WalmartInsert.java:113)     - READ: El archivo 07-30-2016 existe
+22-09-2016@10:31:22 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_07-30-2016.csv
+22-09-2016@10:31:38 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+22-09-2016@10:31:38 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 07-30-2016
+22-09-2016@10:31:38 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+22-09-2016@10:31:38 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-07-30' AND x.posQty>0 GROUP BY x.id
+22-09-2016@10:31:39 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:32:20 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:32:21 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:32:21 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:32:22 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:32:28 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-08-09
+22-09-2016@10:32:28 INFO  (Utileria.java:252)     - old date: Wed Aug 10 00:00:00 CDT 2016
+22-09-2016@10:32:28 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:32:28 INFO  (Utileria.java:291)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_08-10-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_08-10-2016.csv
+22-09-2016@10:32:28 INFO  (Utileria.java:294)     - RENAME: El archivo 08-10-2016 existe
+22-09-2016@10:32:28 INFO  (Utileria.java:297)     - UTIL: Extencion de archivo walmart con fecha 08-10-2016 correctamente cambiado
+22-09-2016@10:32:30 INFO  (WalmartInsert.java:113)     - READ: El archivo 08-10-2016 existe
+22-09-2016@10:32:30 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_08-10-2016.csv
+22-09-2016@10:32:47 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+22-09-2016@10:32:47 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 08-10-2016
+22-09-2016@10:32:47 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+22-09-2016@10:32:47 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-08-10' AND x.posQty>0 GROUP BY x.id
+22-09-2016@10:32:47 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:34:01 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:34:02 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:34:02 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:34:02 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:34:09 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-08-20
+22-09-2016@10:34:09 INFO  (Utileria.java:252)     - old date: Sun Aug 21 00:00:00 CDT 2016
+22-09-2016@10:34:09 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:34:09 INFO  (Utileria.java:291)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_08-21-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_08-21-2016.csv
+22-09-2016@10:34:09 INFO  (Utileria.java:294)     - RENAME: El archivo 08-21-2016 existe
+22-09-2016@10:34:09 INFO  (Utileria.java:297)     - UTIL: Extencion de archivo walmart con fecha 08-21-2016 correctamente cambiado
+22-09-2016@10:34:11 INFO  (WalmartInsert.java:113)     - READ: El archivo 08-21-2016 existe
+22-09-2016@10:34:11 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_08-21-2016.csv
+22-09-2016@10:34:27 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+22-09-2016@10:34:27 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 08-21-2016
+22-09-2016@10:34:27 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+22-09-2016@10:34:27 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-08-21' AND x.posQty>0 GROUP BY x.id
+22-09-2016@10:34:27 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria
+22-09-2016@10:36:03 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+22-09-2016@10:36:04 INFO  (Utileria.java:81)     - walmart_09-22-2016.csv
+22-09-2016@10:36:04 INFO  (WalmartDownload.java:70)     - [-]Termina ejecuci髇 del portal Walmart Spinmaster
+22-09-2016@10:36:04 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+22-09-2016@10:36:11 INFO  (WalmartInsert.java:65)     - Ultima Fecha: 2016-08-24
+22-09-2016@10:36:11 INFO  (Utileria.java:252)     - old date: Thu Aug 25 00:00:00 CDT 2016
+22-09-2016@10:36:11 INFO  (WalmartInsert.java:76)     - INSERT: Comienza inserci髇 de portal Walmart Cesarfer venta diaria
+22-09-2016@10:36:11 INFO  (Utileria.java:291)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_08-25-2016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_08-25-2016.csv
+22-09-2016@10:36:11 INFO  (Utileria.java:294)     - RENAME: El archivo 08-25-2016 existe
+22-09-2016@10:36:11 INFO  (Utileria.java:297)     - UTIL: Extencion de archivo walmart con fecha 08-25-2016 correctamente cambiado
+22-09-2016@10:36:13 INFO  (WalmartInsert.java:113)     - READ: El archivo 08-25-2016 existe
+22-09-2016@10:36:13 INFO  (WalmartInsert.java:145)     - LOAD: procesando archivo: C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\walmart\walmart_08-25-2016.csv
+22-09-2016@10:36:29 INFO  (WalmartInsert.java:228)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+22-09-2016@10:36:29 INFO  (WalmartInsert.java:241)     - Fecha para insertar en concentradov: 08-25-2016
+22-09-2016@10:36:29 INFO  (WalmartInsert.java:258)     - INSERT: Comienza Inserci贸n de datos Walmart-Cesarfer
+22-09-2016@10:36:29 INFO  (WalmartInsert.java:296)     - INSERT SQL: INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'WALMART', ct.id AS idTienda, ct.idTiendaReal, ct.grupo, ct.formato, ct.cadena, ct.sucursal, ct.promotoria, ct.chksum, cp.id, cp.upc, cp.item, cp.division, cp.categoria, cp.subCategoria, cp.modelo, cp.material, cp.chksum, cp.nombre, cp.costoUnidad, x.posQty, x.posSales, x.invOnHand, x.invOnHandRetail, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempwalmart x, cubogeneral.cattiendas ct, catproductos cp WHERE ct.idTiendaReal = x.numTienda AND CONCAT('00',cp.skuWalmart) = x.ean AND ct.grupo = 11 AND x.fechaCreacion = '2016-08-25' AND x.posQty>0 GROUP BY x.id
+22-09-2016@10:36:29 INFO  (WalmartInsert.java:96)     - [-]Termina insersi贸n de portal Walmart Cesarfer venta diaria

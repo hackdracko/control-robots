@@ -1,0 +1,487 @@
+28-09-2016@10:10:35 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:35 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:35 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:35 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:35 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:35 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_05082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_05082016.csv
+28-09-2016@10:10:35 INFO  (Utileria.java:298)     - RENAME: El archivo 05082016 existe
+28-09-2016@10:10:35 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 05082016 correctamente cambiado
+28-09-2016@10:10:37 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:37 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:37 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:37 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:37 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:37 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:37 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_06082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_06082016.csv
+28-09-2016@10:10:37 INFO  (Utileria.java:298)     - RENAME: El archivo 06082016 existe
+28-09-2016@10:10:37 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 06082016 correctamente cambiado
+28-09-2016@10:10:40 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:40 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:40 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:40 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:40 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:40 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:40 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_07082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_07082016.csv
+28-09-2016@10:10:40 INFO  (Utileria.java:298)     - RENAME: El archivo 07082016 existe
+28-09-2016@10:10:40 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 07082016 correctamente cambiado
+28-09-2016@10:10:42 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:42 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:42 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:42 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:42 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:42 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:42 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_08082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_08082016.csv
+28-09-2016@10:10:42 INFO  (Utileria.java:298)     - RENAME: El archivo 08082016 existe
+28-09-2016@10:10:42 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 08082016 correctamente cambiado
+28-09-2016@10:10:44 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:44 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:44 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:44 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:44 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:44 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:44 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_09082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_09082016.csv
+28-09-2016@10:10:44 INFO  (Utileria.java:298)     - RENAME: El archivo 09082016 existe
+28-09-2016@10:10:44 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 09082016 correctamente cambiado
+28-09-2016@10:10:47 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:47 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:47 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:47 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:47 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:47 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:47 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_10082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_10082016.csv
+28-09-2016@10:10:47 INFO  (Utileria.java:298)     - RENAME: El archivo 10082016 existe
+28-09-2016@10:10:47 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 10082016 correctamente cambiado
+28-09-2016@10:10:49 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:49 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:49 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:49 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:49 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:49 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:49 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_11082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_11082016.csv
+28-09-2016@10:10:49 INFO  (Utileria.java:298)     - RENAME: El archivo 11082016 existe
+28-09-2016@10:10:49 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 11082016 correctamente cambiado
+28-09-2016@10:10:51 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:51 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:51 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:51 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:51 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:51 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:51 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_12082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_12082016.csv
+28-09-2016@10:10:51 INFO  (Utileria.java:298)     - RENAME: El archivo 12082016 existe
+28-09-2016@10:10:51 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 12082016 correctamente cambiado
+28-09-2016@10:10:53 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:53 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:53 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:53 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:53 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:53 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:53 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_13082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_13082016.csv
+28-09-2016@10:10:53 INFO  (Utileria.java:298)     - RENAME: El archivo 13082016 existe
+28-09-2016@10:10:53 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 13082016 correctamente cambiado
+28-09-2016@10:10:56 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:56 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:56 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:56 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:56 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:56 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:56 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_14082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_14082016.csv
+28-09-2016@10:10:56 INFO  (Utileria.java:298)     - RENAME: El archivo 14082016 existe
+28-09-2016@10:10:56 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 14082016 correctamente cambiado
+28-09-2016@10:10:59 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:10:59 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:10:59 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:59 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:10:59 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:59 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:10:59 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_15082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_15082016.csv
+28-09-2016@10:10:59 INFO  (Utileria.java:298)     - RENAME: El archivo 15082016 existe
+28-09-2016@10:10:59 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 15082016 correctamente cambiado
+28-09-2016@10:11:01 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:01 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:01 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:01 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:01 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:01 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:01 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_16082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_16082016.csv
+28-09-2016@10:11:01 INFO  (Utileria.java:298)     - RENAME: El archivo 16082016 existe
+28-09-2016@10:11:01 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 16082016 correctamente cambiado
+28-09-2016@10:11:03 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:03 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:03 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:03 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:03 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:03 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:03 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_17082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_17082016.csv
+28-09-2016@10:11:03 INFO  (Utileria.java:298)     - RENAME: El archivo 17082016 existe
+28-09-2016@10:11:03 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 17082016 correctamente cambiado
+28-09-2016@10:11:05 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:05 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:05 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:05 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:05 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:05 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:05 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_18082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_18082016.csv
+28-09-2016@10:11:05 INFO  (Utileria.java:298)     - RENAME: El archivo 18082016 existe
+28-09-2016@10:11:05 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 18082016 correctamente cambiado
+28-09-2016@10:11:08 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:08 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:08 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:08 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:08 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:08 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:08 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_19082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_19082016.csv
+28-09-2016@10:11:08 INFO  (Utileria.java:298)     - RENAME: El archivo 19082016 existe
+28-09-2016@10:11:08 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 19082016 correctamente cambiado
+28-09-2016@10:11:10 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:10 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:10 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:10 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:10 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:10 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:10 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_20082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_20082016.csv
+28-09-2016@10:11:10 INFO  (Utileria.java:298)     - RENAME: El archivo 20082016 existe
+28-09-2016@10:11:10 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 20082016 correctamente cambiado
+28-09-2016@10:11:12 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:12 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:12 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:12 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:12 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:12 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:12 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_21082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_21082016.csv
+28-09-2016@10:11:12 INFO  (Utileria.java:298)     - RENAME: El archivo 21082016 existe
+28-09-2016@10:11:12 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 21082016 correctamente cambiado
+28-09-2016@10:11:15 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:15 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:15 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:15 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:15 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:15 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:15 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_22082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_22082016.csv
+28-09-2016@10:11:15 INFO  (Utileria.java:298)     - RENAME: El archivo 22082016 existe
+28-09-2016@10:11:15 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 22082016 correctamente cambiado
+28-09-2016@10:11:17 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:17 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:17 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:17 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:17 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:17 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:17 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_23082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_23082016.csv
+28-09-2016@10:11:17 INFO  (Utileria.java:298)     - RENAME: El archivo 23082016 existe
+28-09-2016@10:11:17 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 23082016 correctamente cambiado
+28-09-2016@10:11:19 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:19 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:19 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:19 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:19 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:19 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:19 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_24082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_24082016.csv
+28-09-2016@10:11:19 INFO  (Utileria.java:298)     - RENAME: El archivo 24082016 existe
+28-09-2016@10:11:19 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 24082016 correctamente cambiado
+28-09-2016@10:11:21 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:21 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:21 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:21 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:21 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:21 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:21 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_25082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_25082016.csv
+28-09-2016@10:11:21 INFO  (Utileria.java:298)     - RENAME: El archivo 25082016 existe
+28-09-2016@10:11:21 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 25082016 correctamente cambiado
+28-09-2016@10:11:23 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:23 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:23 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:23 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:23 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:23 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:23 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_26082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_26082016.csv
+28-09-2016@10:11:23 INFO  (Utileria.java:298)     - RENAME: El archivo 26082016 existe
+28-09-2016@10:11:23 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 26082016 correctamente cambiado
+28-09-2016@10:11:26 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:26 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:26 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:26 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:26 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:26 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:26 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_27082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_27082016.csv
+28-09-2016@10:11:26 INFO  (Utileria.java:298)     - RENAME: El archivo 27082016 existe
+28-09-2016@10:11:26 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 27082016 correctamente cambiado
+28-09-2016@10:11:28 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:28 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:28 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:28 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:28 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:28 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:28 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_28082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_28082016.csv
+28-09-2016@10:11:28 INFO  (Utileria.java:298)     - RENAME: El archivo 28082016 existe
+28-09-2016@10:11:28 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 28082016 correctamente cambiado
+28-09-2016@10:11:30 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:30 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:30 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:30 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:30 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:30 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:30 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_29082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_29082016.csv
+28-09-2016@10:11:30 INFO  (Utileria.java:298)     - RENAME: El archivo 29082016 existe
+28-09-2016@10:11:30 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 29082016 correctamente cambiado
+28-09-2016@10:11:32 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:32 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:32 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:32 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:32 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:32 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:32 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_30082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_30082016.csv
+28-09-2016@10:11:32 INFO  (Utileria.java:298)     - RENAME: El archivo 30082016 existe
+28-09-2016@10:11:32 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 30082016 correctamente cambiado
+28-09-2016@10:11:35 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:35 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:35 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:35 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:35 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:35 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:35 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_31082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_31082016.csv
+28-09-2016@10:11:35 INFO  (Utileria.java:298)     - RENAME: El archivo 31082016 existe
+28-09-2016@10:11:35 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 31082016 correctamente cambiado
+28-09-2016@10:11:37 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:37 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:37 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:37 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:37 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:37 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:37 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_01092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_01092016.csv
+28-09-2016@10:11:37 INFO  (Utileria.java:298)     - RENAME: El archivo 01092016 existe
+28-09-2016@10:11:37 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 01092016 correctamente cambiado
+28-09-2016@10:11:39 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:39 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:39 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:39 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:39 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:39 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:39 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_02092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_02092016.csv
+28-09-2016@10:11:39 INFO  (Utileria.java:298)     - RENAME: El archivo 02092016 existe
+28-09-2016@10:11:39 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 02092016 correctamente cambiado
+28-09-2016@10:11:41 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:41 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:41 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:41 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:41 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:41 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:41 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_03092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_03092016.csv
+28-09-2016@10:11:41 INFO  (Utileria.java:298)     - RENAME: El archivo 03092016 existe
+28-09-2016@10:11:41 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 03092016 correctamente cambiado
+28-09-2016@10:11:43 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:43 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:43 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:43 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:43 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:43 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:44 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_04092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_04092016.csv
+28-09-2016@10:11:44 INFO  (Utileria.java:298)     - RENAME: El archivo 04092016 existe
+28-09-2016@10:11:44 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 04092016 correctamente cambiado
+28-09-2016@10:11:46 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:46 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:46 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:46 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:46 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:46 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:46 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_05092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_05092016.csv
+28-09-2016@10:11:46 INFO  (Utileria.java:298)     - RENAME: El archivo 05092016 existe
+28-09-2016@10:11:46 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 05092016 correctamente cambiado
+28-09-2016@10:11:48 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:48 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:48 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:48 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:48 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:48 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:48 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_06092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_06092016.csv
+28-09-2016@10:11:48 INFO  (Utileria.java:298)     - RENAME: El archivo 06092016 existe
+28-09-2016@10:11:48 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 06092016 correctamente cambiado
+28-09-2016@10:11:50 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:50 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:50 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:50 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:50 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:50 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:50 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_07092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_07092016.csv
+28-09-2016@10:11:50 INFO  (Utileria.java:298)     - RENAME: El archivo 07092016 existe
+28-09-2016@10:11:50 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 07092016 correctamente cambiado
+28-09-2016@10:11:52 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:52 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:52 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:52 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:52 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:52 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:52 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_08092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_08092016.csv
+28-09-2016@10:11:52 INFO  (Utileria.java:298)     - RENAME: El archivo 08092016 existe
+28-09-2016@10:11:52 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 08092016 correctamente cambiado
+28-09-2016@10:11:55 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:55 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:55 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:55 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:55 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:55 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:55 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_09092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_09092016.csv
+28-09-2016@10:11:55 INFO  (Utileria.java:298)     - RENAME: El archivo 09092016 existe
+28-09-2016@10:11:55 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 09092016 correctamente cambiado
+28-09-2016@10:11:57 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:11:57 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:11:57 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:57 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:11:57 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:57 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:11:57 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_10092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_10092016.csv
+28-09-2016@10:11:57 INFO  (Utileria.java:298)     - RENAME: El archivo 10092016 existe
+28-09-2016@10:11:57 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 10092016 correctamente cambiado
+28-09-2016@10:12:00 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:00 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:00 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:00 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:00 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:00 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:00 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_11092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_11092016.csv
+28-09-2016@10:12:00 INFO  (Utileria.java:298)     - RENAME: El archivo 11092016 existe
+28-09-2016@10:12:00 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 11092016 correctamente cambiado
+28-09-2016@10:12:02 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:02 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:02 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:02 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:02 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:02 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:02 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_12092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_12092016.csv
+28-09-2016@10:12:02 INFO  (Utileria.java:298)     - RENAME: El archivo 12092016 existe
+28-09-2016@10:12:02 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 12092016 correctamente cambiado
+28-09-2016@10:12:04 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:04 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:04 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:04 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:04 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:04 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:04 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_13092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_13092016.csv
+28-09-2016@10:12:04 INFO  (Utileria.java:298)     - RENAME: El archivo 13092016 existe
+28-09-2016@10:12:04 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 13092016 correctamente cambiado
+28-09-2016@10:12:06 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:06 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:06 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:06 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:06 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:06 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:06 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_14092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_14092016.csv
+28-09-2016@10:12:06 INFO  (Utileria.java:298)     - RENAME: El archivo 14092016 existe
+28-09-2016@10:12:06 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 14092016 correctamente cambiado
+28-09-2016@10:12:08 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:08 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:09 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:09 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:09 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:09 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:09 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_15092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_15092016.csv
+28-09-2016@10:12:09 INFO  (Utileria.java:298)     - RENAME: El archivo 15092016 existe
+28-09-2016@10:12:09 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 15092016 correctamente cambiado
+28-09-2016@10:12:11 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:11 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:11 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:11 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:11 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:11 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:11 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_16092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_16092016.csv
+28-09-2016@10:12:11 INFO  (Utileria.java:298)     - RENAME: El archivo 16092016 existe
+28-09-2016@10:12:11 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 16092016 correctamente cambiado
+28-09-2016@10:12:13 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:13 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:13 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:13 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:13 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:13 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:13 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_17092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_17092016.csv
+28-09-2016@10:12:13 INFO  (Utileria.java:298)     - RENAME: El archivo 17092016 existe
+28-09-2016@10:12:13 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 17092016 correctamente cambiado
+28-09-2016@10:12:15 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:15 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:15 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:15 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:15 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:15 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:15 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_18092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_18092016.csv
+28-09-2016@10:12:15 INFO  (Utileria.java:298)     - RENAME: El archivo 18092016 existe
+28-09-2016@10:12:15 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 18092016 correctamente cambiado
+28-09-2016@10:12:18 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:18 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:18 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:18 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:18 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:18 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:18 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_19092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_19092016.csv
+28-09-2016@10:12:18 INFO  (Utileria.java:298)     - RENAME: El archivo 19092016 existe
+28-09-2016@10:12:18 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 19092016 correctamente cambiado
+28-09-2016@10:12:20 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:20 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:20 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:20 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:20 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:20 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:20 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_20092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_20092016.csv
+28-09-2016@10:12:20 INFO  (Utileria.java:298)     - RENAME: El archivo 20092016 existe
+28-09-2016@10:12:20 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 20092016 correctamente cambiado
+28-09-2016@10:12:22 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:22 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:22 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:22 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:22 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:22 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:22 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_21092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_21092016.csv
+28-09-2016@10:12:22 INFO  (Utileria.java:298)     - RENAME: El archivo 21092016 existe
+28-09-2016@10:12:22 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 21092016 correctamente cambiado
+28-09-2016@10:12:24 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:24 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:24 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:24 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:24 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:24 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:24 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_22092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_22092016.csv
+28-09-2016@10:12:24 INFO  (Utileria.java:298)     - RENAME: El archivo 22092016 existe
+28-09-2016@10:12:24 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 22092016 correctamente cambiado
+28-09-2016@10:12:26 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:26 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:26 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:26 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:26 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:26 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:26 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_23092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_23092016.csv
+28-09-2016@10:12:26 INFO  (Utileria.java:307)     - UTIL: No se renombro el archivo con fecha 23092016, ya se renombro o no existe, pasando al siguiente archivo
+28-09-2016@10:12:28 INFO  (PalacioInsert.java:128)     - C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_23092016.csv (El sistema no puede encontrar el archivo especificado)
+28-09-2016@10:12:28 INFO  (PalacioInsert.java:108)     - Error al executar archivo CSVC:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_23092016.csv (El sistema no puede encontrar el archivo especificado)
+28-09-2016@10:12:28 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:28 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:28 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_24092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_24092016.csv
+28-09-2016@10:12:28 INFO  (Utileria.java:298)     - RENAME: El archivo 24092016 existe
+28-09-2016@10:12:28 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 24092016 correctamente cambiado
+28-09-2016@10:12:31 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:31 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:31 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:31 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:31 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:31 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:31 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_25092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_25092016.csv
+28-09-2016@10:12:31 INFO  (Utileria.java:298)     - RENAME: El archivo 25092016 existe
+28-09-2016@10:12:31 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 25092016 correctamente cambiado
+28-09-2016@10:12:33 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:33 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:33 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:33 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:33 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:33 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:33 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_26092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_26092016.csv
+28-09-2016@10:12:33 INFO  (Utileria.java:298)     - RENAME: El archivo 26092016 existe
+28-09-2016@10:12:33 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 26092016 correctamente cambiado
+28-09-2016@10:12:35 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:35 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:35 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:35 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:35 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:35 INFO  (PalacioInsert.java:73)     - [+]Comienza inserci髇 de portal Palacio Cesarfer venta diaria
+28-09-2016@10:12:35 INFO  (Utileria.java:295)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_27092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\palacio\palacio_27092016.csv
+28-09-2016@10:12:35 INFO  (Utileria.java:298)     - RENAME: El archivo 27092016 existe
+28-09-2016@10:12:35 INFO  (Utileria.java:301)     - UTIL: Extencion de archivo palacio con fecha 27092016 correctamente cambiado
+28-09-2016@10:12:37 INFO  (PalacioInsert.java:204)     - Registros de datos de CSV Palacio a BD exitoso
+28-09-2016@10:12:37 INFO  (PalacioInsert.java:240)     - [+]Comienza Inserci贸n de datos Palacio-Cesarfer
+28-09-2016@10:12:37 INFO  (PalacioInsert.java:258)     - Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:37 INFO  (PalacioInsert.java:108)     - Error ocurrido mientras se insertaban datos del archivo Palacio en concentradov.Table 'cubounderarmour.temppalacio' doesn't exist
+28-09-2016@10:12:37 INFO  (PalacioInsert.java:80)     - [-]Termina inserci髇 de portal Palacio Cesarfer venta diaria

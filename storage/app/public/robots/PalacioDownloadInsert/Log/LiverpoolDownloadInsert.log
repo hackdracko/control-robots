@@ -1,0 +1,732 @@
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Sep 04 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Sep 05 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Sep 06 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Sep 07 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Sep 08 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Sep 09 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Sep 10 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Sep 11 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Sep 12 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Sep 13 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Sep 14 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Sep 15 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Sep 16 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Sep 17 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Sep 18 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Sep 19 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Sep 20 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Sep 21 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Sep 22 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Sep 23 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Sep 24 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Sep 25 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Sep 26 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Sep 27 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Sep 28 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Sep 29 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Sep 30 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Oct 01 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Oct 02 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Oct 03 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Oct 04 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Oct 05 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Oct 06 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Oct 07 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Oct 08 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Oct 09 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Oct 10 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Oct 11 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Oct 12 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Oct 13 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Oct 14 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Oct 15 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Oct 16 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Oct 17 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Oct 18 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Oct 19 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Oct 20 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Oct 21 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Oct 22 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Oct 23 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Oct 24 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Oct 25 00:00:00 CDT 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Oct 26 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Oct 27 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Oct 28 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Oct 29 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Oct 30 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Oct 31 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Nov 01 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Nov 02 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Nov 03 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Nov 04 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Nov 05 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Nov 06 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Nov 07 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Nov 08 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Nov 09 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Nov 10 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Nov 11 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Nov 12 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Nov 13 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Nov 14 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Nov 15 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Nov 16 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Tue Nov 17 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Wed Nov 18 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Thu Nov 19 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Fri Nov 20 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sat Nov 21 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Sun Nov 22 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:200)     - old date: Mon Nov 23 00:00:00 CST 2015
+24-11-2015@17:09:19 INFO  (Utileria.java:266)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+24-11-2015@17:09:19 INFO  (LiverpoolDownload.java:70)     - MAIN: Comienza descarga de archivo liverpool_18082015
+24-11-2015@17:09:24 WARN  (LiverpoolDownload.java:138)     - ACCESS: ERROR Logeo, Usuario y/o Password incorrectos 
+25-11-2015@12:19:09 INFO  (LiverpoolDownload.java:56)     - MAIN: Se ejecuta Liverpool cesarfer
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Aug 18 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Aug 19 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Aug 20 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Aug 21 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Aug 22 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Aug 23 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Aug 24 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Aug 25 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Aug 26 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Aug 27 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Aug 28 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Aug 29 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Aug 30 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Aug 31 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Sep 01 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Sep 02 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Sep 03 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Sep 04 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Sep 05 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Sep 06 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Sep 07 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Sep 08 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Sep 09 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Sep 10 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Sep 11 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Sep 12 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Sep 13 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Sep 14 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Sep 15 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Sep 16 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Sep 17 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Sep 18 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Sep 19 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Sep 20 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Sep 21 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Sep 22 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Sep 23 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Sep 24 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Sep 25 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Sep 26 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Sep 27 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Sep 28 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Sep 29 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Sep 30 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Oct 01 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Oct 02 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Oct 03 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Oct 04 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Oct 05 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Oct 06 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Oct 07 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Oct 08 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Oct 09 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Oct 10 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Oct 11 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Oct 12 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Oct 13 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Oct 14 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Oct 15 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Oct 16 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Oct 17 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Oct 18 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Oct 19 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Oct 20 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Oct 21 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Oct 22 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Oct 23 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Oct 24 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Oct 25 00:00:00 CDT 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Oct 26 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Oct 27 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Oct 28 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Oct 29 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Oct 30 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Oct 31 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Nov 01 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Nov 02 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Nov 03 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Nov 04 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Nov 05 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Nov 06 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Nov 07 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Nov 08 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Nov 09 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Nov 10 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Nov 11 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Nov 12 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Nov 13 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Nov 14 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Nov 15 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Nov 16 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Nov 17 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Wed Nov 18 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Thu Nov 19 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Fri Nov 20 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sat Nov 21 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Sun Nov 22 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Mon Nov 23 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:200)     - old date: Tue Nov 24 00:00:00 CST 2015
+25-11-2015@12:19:11 INFO  (Utileria.java:266)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+25-11-2015@12:19:11 INFO  (LiverpoolDownload.java:70)     - MAIN: Comienza descarga de archivo liverpool_18082015
+25-11-2015@12:20:52 INFO  (LiverpoolDownload.java:56)     - MAIN: Se ejecuta Liverpool cesarfer
+25-11-2015@12:20:53 INFO  (Utileria.java:158)     - liverpool_17082015.csv
+26-11-2015@11:33:51 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+26-11-2015@11:33:52 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+26-11-2015@11:33:52 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+26-11-2015@11:33:52 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+26-11-2015@11:33:52 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+26-11-2015@11:33:52 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+26-11-2015@11:33:52 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+26-11-2015@11:33:52 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+26-11-2015@11:34:04 INFO  (PalacioDownload.java:159)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=11%2F21%2F2015+12%3A00%3A00+AM&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=11%2F21%2F2015+12%3A00%3A00+AM&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+26-11-2015@11:34:57 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+26-11-2015@11:34:58 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+26-11-2015@11:34:58 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+26-11-2015@11:34:58 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+26-11-2015@11:34:58 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+26-11-2015@11:34:58 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+26-11-2015@11:34:58 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+26-11-2015@11:34:58 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+26-11-2015@11:35:11 INFO  (PalacioDownload.java:159)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=11%2F21%2F2015+12%3A00%3A00+AM&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=11%2F21%2F2015+12%3A00%3A00+AM&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+26-11-2015@11:42:43 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+26-11-2015@11:42:44 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+26-11-2015@11:42:44 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+26-11-2015@11:42:44 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+26-11-2015@11:42:44 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+26-11-2015@11:42:44 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+26-11-2015@11:42:44 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+26-11-2015@11:42:44 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+26-11-2015@11:42:55 INFO  (PalacioDownload.java:157)     - 11%2F21%2F2015+12%3A00%3A00+AM&lsS2
+26-11-2015@11:42:55 INFO  (PalacioDownload.java:158)     - 11%2F21%2F2015+12%3A00%3A00+AM&lsM3
+26-11-2015@11:42:55 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=11%2F21%2F2015+12%3A00%3A00+AM&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=11%2F21%2F2015+12%3A00%3A00+AM&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+26-11-2015@13:18:42 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+26-11-2015@13:18:42 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+26-11-2015@13:18:42 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+26-11-2015@13:18:42 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+26-11-2015@13:18:42 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+26-11-2015@13:18:42 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+26-11-2015@13:18:42 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+26-11-2015@13:18:42 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+26-11-2015@13:18:53 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+26-11-2015@13:18:53 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+26-11-2015@13:18:53 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+26-11-2015@13:27:25 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+26-11-2015@13:27:26 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+26-11-2015@13:27:26 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+26-11-2015@13:27:26 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+26-11-2015@13:27:26 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+26-11-2015@13:27:26 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+26-11-2015@13:27:26 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+26-11-2015@13:27:26 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+26-11-2015@13:27:38 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+26-11-2015@13:27:38 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+26-11-2015@13:27:38 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+26-11-2015@13:29:09 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+26-11-2015@13:29:09 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+26-11-2015@13:29:09 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+26-11-2015@13:29:09 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+26-11-2015@13:29:09 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+26-11-2015@13:29:09 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+26-11-2015@13:29:09 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+26-11-2015@13:29:09 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+26-11-2015@13:29:23 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+26-11-2015@13:29:23 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+26-11-2015@13:29:23 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@10:23:56 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@10:23:57 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@10:23:57 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@10:23:57 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@10:23:57 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@10:23:57 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@10:23:57 INFO  (Utileria.java:201)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@10:23:57 INFO  (Utileria.java:201)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@10:23:57 INFO  (Utileria.java:201)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@10:23:57 INFO  (Utileria.java:201)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@10:23:57 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@10:23:57 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+30-11-2015@10:24:06 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+30-11-2015@10:24:06 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+30-11-2015@10:24:06 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@10:42:05 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@10:42:06 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@10:42:06 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@10:42:06 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@10:42:06 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@10:42:06 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@10:42:06 INFO  (Utileria.java:201)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@10:42:06 INFO  (Utileria.java:201)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@10:42:06 INFO  (Utileria.java:201)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@10:42:06 INFO  (Utileria.java:201)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@10:42:06 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@10:42:06 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+30-11-2015@10:42:18 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+30-11-2015@10:42:18 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+30-11-2015@10:42:18 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@10:54:34 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@10:54:35 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@10:54:35 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@10:54:35 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@10:54:35 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@10:54:35 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@10:54:35 INFO  (Utileria.java:201)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@10:54:35 INFO  (Utileria.java:201)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@10:54:35 INFO  (Utileria.java:201)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@10:54:35 INFO  (Utileria.java:201)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@10:54:35 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@10:54:35 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+30-11-2015@10:54:48 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+30-11-2015@10:54:48 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+30-11-2015@10:54:48 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@10:59:19 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@10:59:19 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@10:59:19 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@10:59:19 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@10:59:19 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@10:59:19 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@10:59:19 INFO  (Utileria.java:201)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@10:59:19 INFO  (Utileria.java:201)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@10:59:19 INFO  (Utileria.java:201)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@10:59:19 INFO  (Utileria.java:201)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@10:59:19 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@10:59:19 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+30-11-2015@10:59:31 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+30-11-2015@10:59:31 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+30-11-2015@10:59:31 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:00:43 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@11:00:43 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@11:00:43 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@11:00:43 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@11:00:43 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@11:00:43 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@11:00:43 INFO  (Utileria.java:201)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@11:00:43 INFO  (Utileria.java:201)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@11:00:43 INFO  (Utileria.java:201)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@11:00:43 INFO  (Utileria.java:201)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@11:00:43 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:00:43 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+30-11-2015@11:00:57 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+30-11-2015@11:00:57 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+30-11-2015@11:00:57 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:02:42 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@11:02:42 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@11:02:42 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@11:02:42 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@11:02:42 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@11:02:42 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@11:02:42 INFO  (Utileria.java:201)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@11:02:42 INFO  (Utileria.java:201)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@11:02:42 INFO  (Utileria.java:201)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@11:02:42 INFO  (Utileria.java:201)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@11:02:42 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:02:42 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+30-11-2015@11:02:52 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+30-11-2015@11:02:52 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+30-11-2015@11:02:52 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:05:06 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@11:05:07 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@11:05:07 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@11:05:07 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@11:05:07 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@11:05:07 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@11:05:07 INFO  (Utileria.java:201)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@11:05:07 INFO  (Utileria.java:201)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@11:05:07 INFO  (Utileria.java:201)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@11:05:07 INFO  (Utileria.java:201)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@11:05:07 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:05:07 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+30-11-2015@11:05:16 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+30-11-2015@11:05:16 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+30-11-2015@11:05:16 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:08:55 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@11:08:56 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@11:08:56 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@11:08:56 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@11:08:56 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@11:08:56 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@11:08:56 INFO  (Utileria.java:201)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@11:08:56 INFO  (Utileria.java:201)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@11:08:56 INFO  (Utileria.java:201)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@11:08:56 INFO  (Utileria.java:201)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@11:08:56 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:08:56 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+30-11-2015@11:09:06 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+30-11-2015@11:09:06 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+30-11-2015@11:09:06 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:29:50 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@11:29:51 INFO  (Utileria.java:201)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@11:29:51 INFO  (Utileria.java:201)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@11:29:51 INFO  (Utileria.java:201)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@11:29:51 INFO  (Utileria.java:201)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@11:29:51 INFO  (Utileria.java:201)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@11:29:51 INFO  (Utileria.java:201)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@11:29:51 INFO  (Utileria.java:201)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@11:29:51 INFO  (Utileria.java:201)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@11:29:51 INFO  (Utileria.java:201)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@11:29:51 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:29:51 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_21112015
+30-11-2015@11:30:01 INFO  (PalacioDownload.java:157)     - 21%2F11%2F2015+0%3A00%3A00&lsS2
+30-11-2015@11:30:01 INFO  (PalacioDownload.java:158)     - 21%2F11%2F2015+0%3A00%3A00&lsM3
+30-11-2015@11:30:01 INFO  (PalacioDownload.java:161)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=21%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=21%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:30:37 INFO  (PalacioDownload.java:325)     - [-]Generación de archivo txt completa
+30-11-2015@11:30:42 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:30:42 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_22112015
+30-11-2015@11:30:42 INFO  (PalacioDownload.java:237)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=22%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=22%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:31:18 INFO  (PalacioDownload.java:325)     - [-]Generación de archivo txt completa
+30-11-2015@11:31:23 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:31:23 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_23112015
+30-11-2015@11:31:23 INFO  (PalacioDownload.java:237)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=23%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=23%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:31:58 INFO  (PalacioDownload.java:325)     - [-]Generación de archivo txt completa
+30-11-2015@11:32:03 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:32:03 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_24112015
+30-11-2015@11:32:03 INFO  (PalacioDownload.java:237)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=24%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=24%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:32:37 INFO  (PalacioDownload.java:325)     - [-]Generación de archivo txt completa
+30-11-2015@11:32:42 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:32:42 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_25112015
+30-11-2015@11:32:42 INFO  (PalacioDownload.java:237)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=25%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=25%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:33:16 INFO  (PalacioDownload.java:325)     - [-]Generación de archivo txt completa
+30-11-2015@11:33:21 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:33:21 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_26112015
+30-11-2015@11:33:21 INFO  (PalacioDownload.java:237)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=26%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=26%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:33:55 INFO  (PalacioDownload.java:325)     - [-]Generación de archivo txt completa
+30-11-2015@11:34:00 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:34:00 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_27112015
+30-11-2015@11:34:00 INFO  (PalacioDownload.java:237)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=27%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=27%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:34:36 INFO  (PalacioDownload.java:325)     - [-]Generación de archivo txt completa
+30-11-2015@11:34:41 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:34:41 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_28112015
+30-11-2015@11:34:41 INFO  (PalacioDownload.java:237)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=28%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=28%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:35:15 INFO  (PalacioDownload.java:325)     - [-]Generación de archivo txt completa
+30-11-2015@11:35:20 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+30-11-2015@11:35:20 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_29112015
+30-11-2015@11:35:20 INFO  (PalacioDownload.java:237)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=29%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=29%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+30-11-2015@11:35:54 INFO  (PalacioDownload.java:325)     - [-]Generación de archivo txt completa
+30-11-2015@11:35:59 INFO  (PalacioDownload.java:82)     - [-]Termina ejecución del portal Palacio Cesarfer
+30-11-2015@11:36:00 INFO  (PalacioInsert.java:47)     - INSERT; Se ejecuta Palacio insert en cuenta: cesarfer
+30-11-2015@11:36:00 INFO  (PalacioInsert.java:66)     - ultima fecha: 20112015
+30-11-2015@11:36:00 INFO  (Utileria.java:243)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@11:36:00 INFO  (Utileria.java:243)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@11:36:00 INFO  (Utileria.java:243)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@11:36:00 INFO  (Utileria.java:243)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@11:36:00 INFO  (Utileria.java:243)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@11:36:00 INFO  (Utileria.java:243)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@11:36:00 INFO  (Utileria.java:243)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@11:36:00 INFO  (Utileria.java:243)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@11:36:00 INFO  (Utileria.java:243)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@11:36:00 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:00 INFO  (Utileria.java:283)     - RENAME: El archivo 21112015 existe
+30-11-2015@11:36:00 INFO  (Utileria.java:286)     - UTIL: Extencion de archivo palacio con fecha 21112015 correctamente cambiado
+30-11-2015@11:36:03 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:36:03 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:03 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:03 INFO  (Utileria.java:283)     - RENAME: El archivo 22112015 existe
+30-11-2015@11:36:03 INFO  (Utileria.java:286)     - UTIL: Extencion de archivo palacio con fecha 22112015 correctamente cambiado
+30-11-2015@11:36:05 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:36:05 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:05 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:05 INFO  (Utileria.java:283)     - RENAME: El archivo 23112015 existe
+30-11-2015@11:36:05 INFO  (Utileria.java:286)     - UTIL: Extencion de archivo palacio con fecha 23112015 correctamente cambiado
+30-11-2015@11:36:07 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:36:07 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:07 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:07 INFO  (Utileria.java:283)     - RENAME: El archivo 24112015 existe
+30-11-2015@11:36:07 INFO  (Utileria.java:286)     - UTIL: Extencion de archivo palacio con fecha 24112015 correctamente cambiado
+30-11-2015@11:36:09 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:36:09 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:09 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:09 INFO  (Utileria.java:283)     - RENAME: El archivo 25112015 existe
+30-11-2015@11:36:09 INFO  (Utileria.java:286)     - UTIL: Extencion de archivo palacio con fecha 25112015 correctamente cambiado
+30-11-2015@11:36:11 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:36:11 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:11 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:11 INFO  (Utileria.java:283)     - RENAME: El archivo 26112015 existe
+30-11-2015@11:36:11 INFO  (Utileria.java:286)     - UTIL: Extencion de archivo palacio con fecha 26112015 correctamente cambiado
+30-11-2015@11:36:13 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:36:13 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:13 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:13 INFO  (Utileria.java:283)     - RENAME: El archivo 27112015 existe
+30-11-2015@11:36:13 INFO  (Utileria.java:286)     - UTIL: Extencion de archivo palacio con fecha 27112015 correctamente cambiado
+30-11-2015@11:36:15 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:36:15 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:15 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:15 INFO  (Utileria.java:283)     - RENAME: El archivo 28112015 existe
+30-11-2015@11:36:15 INFO  (Utileria.java:286)     - UTIL: Extencion de archivo palacio con fecha 28112015 correctamente cambiado
+30-11-2015@11:36:17 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:36:17 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:17 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:36:17 INFO  (Utileria.java:283)     - RENAME: El archivo 29112015 existe
+30-11-2015@11:36:17 INFO  (Utileria.java:286)     - UTIL: Extencion de archivo palacio con fecha 29112015 correctamente cambiado
+30-11-2015@11:44:53 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@11:44:53 INFO  (PalacioDownload.java:82)     - [-]Termina ejecución del portal Palacio Cesarfer
+30-11-2015@11:44:55 INFO  (PalacioInsert.java:47)     - INSERT; Se ejecuta Palacio insert en cuenta: cesarfer
+30-11-2015@11:44:55 INFO  (PalacioInsert.java:66)     - ultima fecha: 20112015
+30-11-2015@11:44:55 INFO  (Utileria.java:243)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@11:44:55 INFO  (Utileria.java:243)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@11:44:55 INFO  (Utileria.java:243)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@11:44:55 INFO  (Utileria.java:243)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@11:44:55 INFO  (Utileria.java:243)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@11:44:55 INFO  (Utileria.java:243)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@11:44:55 INFO  (Utileria.java:243)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@11:44:55 INFO  (Utileria.java:243)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@11:44:55 INFO  (Utileria.java:243)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@11:44:55 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:44:55 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 21112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:44:57 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:44:57 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:44:57 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:44:57 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 22112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:44:59 INFO  (PalacioInsert.java:106)     - Error ocurrido mientras se cargaban datos del archivo Palacio Cesarfer a la base de datos.Data truncation: Data too long for column 'Modelo' at row 1
+30-11-2015@11:44:59 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:44:59 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:44:59 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 23112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:26 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+30-11-2015@11:48:26 INFO  (PalacioDownload.java:82)     - [-]Termina ejecución del portal Palacio Cesarfer
+30-11-2015@11:48:27 INFO  (PalacioInsert.java:47)     - INSERT; Se ejecuta Palacio insert en cuenta: cesarfer
+30-11-2015@11:48:27 INFO  (PalacioInsert.java:66)     - ultima fecha: 20112015
+30-11-2015@11:48:27 INFO  (Utileria.java:243)     - old date: Sat Nov 21 00:00:00 CST 2015
+30-11-2015@11:48:27 INFO  (Utileria.java:243)     - old date: Sun Nov 22 00:00:00 CST 2015
+30-11-2015@11:48:27 INFO  (Utileria.java:243)     - old date: Mon Nov 23 00:00:00 CST 2015
+30-11-2015@11:48:27 INFO  (Utileria.java:243)     - old date: Tue Nov 24 00:00:00 CST 2015
+30-11-2015@11:48:27 INFO  (Utileria.java:243)     - old date: Wed Nov 25 00:00:00 CST 2015
+30-11-2015@11:48:27 INFO  (Utileria.java:243)     - old date: Thu Nov 26 00:00:00 CST 2015
+30-11-2015@11:48:27 INFO  (Utileria.java:243)     - old date: Fri Nov 27 00:00:00 CST 2015
+30-11-2015@11:48:27 INFO  (Utileria.java:243)     - old date: Sat Nov 28 00:00:00 CST 2015
+30-11-2015@11:48:27 INFO  (Utileria.java:243)     - old date: Sun Nov 29 00:00:00 CST 2015
+30-11-2015@11:48:27 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:27 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 21112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:30 INFO  (PalacioInsert.java:198)     - Registros de datos de CSV Palacio a BD exitoso
+30-11-2015@11:48:30 INFO  (PalacioInsert.java:234)     - [+]Comienza Inserción de datos Palacio-Cesarfer
+30-11-2015@11:48:30 INFO  (Utileria.java:313)     - Registro de archivos en bd
+30-11-2015@11:48:30 INFO  (Utileria.java:321)     - Fecha split: 21112015
+30-11-2015@11:48:30 INFO  (Utileria.java:338)     - antes sql
+30-11-2015@11:48:30 INFO  (Utileria.java:340)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 5, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\palacio\palacio_21112015.csv', '2015-11-21', CURRENT_TIMESTAMP, 'palacio-cesarfer', '10997');
+30-11-2015@11:48:30 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:30 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:30 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 22112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:32 INFO  (PalacioInsert.java:198)     - Registros de datos de CSV Palacio a BD exitoso
+30-11-2015@11:48:32 INFO  (PalacioInsert.java:234)     - [+]Comienza Inserción de datos Palacio-Cesarfer
+30-11-2015@11:48:32 INFO  (Utileria.java:313)     - Registro de archivos en bd
+30-11-2015@11:48:32 INFO  (Utileria.java:321)     - Fecha split: 22112015
+30-11-2015@11:48:32 INFO  (Utileria.java:338)     - antes sql
+30-11-2015@11:48:32 INFO  (Utileria.java:340)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 5, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\palacio\palacio_22112015.csv', '2015-11-22', CURRENT_TIMESTAMP, 'palacio-cesarfer', '10997');
+30-11-2015@11:48:32 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:32 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:32 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 23112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:34 INFO  (PalacioInsert.java:198)     - Registros de datos de CSV Palacio a BD exitoso
+30-11-2015@11:48:34 INFO  (PalacioInsert.java:234)     - [+]Comienza Inserción de datos Palacio-Cesarfer
+30-11-2015@11:48:35 INFO  (Utileria.java:313)     - Registro de archivos en bd
+30-11-2015@11:48:35 INFO  (Utileria.java:321)     - Fecha split: 23112015
+30-11-2015@11:48:35 INFO  (Utileria.java:338)     - antes sql
+30-11-2015@11:48:35 INFO  (Utileria.java:340)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 5, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\palacio\palacio_23112015.csv', '2015-11-23', CURRENT_TIMESTAMP, 'palacio-cesarfer', '10997');
+30-11-2015@11:48:35 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:35 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:35 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 24112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:37 INFO  (PalacioInsert.java:198)     - Registros de datos de CSV Palacio a BD exitoso
+30-11-2015@11:48:37 INFO  (PalacioInsert.java:234)     - [+]Comienza Inserción de datos Palacio-Cesarfer
+30-11-2015@11:48:37 INFO  (Utileria.java:313)     - Registro de archivos en bd
+30-11-2015@11:48:37 INFO  (Utileria.java:321)     - Fecha split: 24112015
+30-11-2015@11:48:37 INFO  (Utileria.java:338)     - antes sql
+30-11-2015@11:48:37 INFO  (Utileria.java:340)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 5, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\palacio\palacio_24112015.csv', '2015-11-24', CURRENT_TIMESTAMP, 'palacio-cesarfer', '10997');
+30-11-2015@11:48:37 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:37 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:37 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 25112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:39 INFO  (PalacioInsert.java:198)     - Registros de datos de CSV Palacio a BD exitoso
+30-11-2015@11:48:39 INFO  (PalacioInsert.java:234)     - [+]Comienza Inserción de datos Palacio-Cesarfer
+30-11-2015@11:48:39 INFO  (Utileria.java:313)     - Registro de archivos en bd
+30-11-2015@11:48:39 INFO  (Utileria.java:321)     - Fecha split: 25112015
+30-11-2015@11:48:39 INFO  (Utileria.java:338)     - antes sql
+30-11-2015@11:48:39 INFO  (Utileria.java:340)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 5, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\palacio\palacio_25112015.csv', '2015-11-25', CURRENT_TIMESTAMP, 'palacio-cesarfer', '10997');
+30-11-2015@11:48:39 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:39 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:39 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 26112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:41 INFO  (PalacioInsert.java:198)     - Registros de datos de CSV Palacio a BD exitoso
+30-11-2015@11:48:41 INFO  (PalacioInsert.java:234)     - [+]Comienza Inserción de datos Palacio-Cesarfer
+30-11-2015@11:48:41 INFO  (Utileria.java:313)     - Registro de archivos en bd
+30-11-2015@11:48:41 INFO  (Utileria.java:321)     - Fecha split: 26112015
+30-11-2015@11:48:41 INFO  (Utileria.java:338)     - antes sql
+30-11-2015@11:48:41 INFO  (Utileria.java:340)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 5, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\palacio\palacio_26112015.csv', '2015-11-26', CURRENT_TIMESTAMP, 'palacio-cesarfer', '10997');
+30-11-2015@11:48:41 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:41 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:41 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 27112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:43 INFO  (PalacioInsert.java:198)     - Registros de datos de CSV Palacio a BD exitoso
+30-11-2015@11:48:43 INFO  (PalacioInsert.java:234)     - [+]Comienza Inserción de datos Palacio-Cesarfer
+30-11-2015@11:48:43 INFO  (Utileria.java:313)     - Registro de archivos en bd
+30-11-2015@11:48:43 INFO  (Utileria.java:321)     - Fecha split: 27112015
+30-11-2015@11:48:43 INFO  (Utileria.java:338)     - antes sql
+30-11-2015@11:48:43 INFO  (Utileria.java:340)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 5, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\palacio\palacio_27112015.csv', '2015-11-27', CURRENT_TIMESTAMP, 'palacio-cesarfer', '10997');
+30-11-2015@11:48:43 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:43 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:43 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 28112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:45 INFO  (PalacioInsert.java:198)     - Registros de datos de CSV Palacio a BD exitoso
+30-11-2015@11:48:45 INFO  (PalacioInsert.java:234)     - [+]Comienza Inserción de datos Palacio-Cesarfer
+30-11-2015@11:48:46 INFO  (Utileria.java:313)     - Registro de archivos en bd
+30-11-2015@11:48:46 INFO  (Utileria.java:321)     - Fecha split: 28112015
+30-11-2015@11:48:46 INFO  (Utileria.java:338)     - antes sql
+30-11-2015@11:48:46 INFO  (Utileria.java:340)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 5, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\palacio\palacio_28112015.csv', '2015-11-28', CURRENT_TIMESTAMP, 'palacio-cesarfer', '10997');
+30-11-2015@11:48:46 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:46 INFO  (PalacioInsert.java:71)     - [+]Comienza insersión de portal Palacio Cesarfer venta diaria
+30-11-2015@11:48:46 INFO  (Utileria.java:292)     - UTIL: No se renombro el archivo con fecha 29112015, ya se renombro o no existe, pasando al siguiente archivo
+30-11-2015@11:48:48 INFO  (PalacioInsert.java:198)     - Registros de datos de CSV Palacio a BD exitoso
+30-11-2015@11:48:48 INFO  (PalacioInsert.java:234)     - [+]Comienza Inserción de datos Palacio-Cesarfer
+30-11-2015@11:48:48 INFO  (Utileria.java:313)     - Registro de archivos en bd
+30-11-2015@11:48:48 INFO  (Utileria.java:321)     - Fecha split: 29112015
+30-11-2015@11:48:48 INFO  (Utileria.java:338)     - antes sql
+30-11-2015@11:48:48 INFO  (Utileria.java:340)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 5, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\palacio\palacio_29112015.csv', '2015-11-29', CURRENT_TIMESTAMP, 'palacio-cesarfer', '10997');
+30-11-2015@11:48:48 INFO  (PalacioInsert.java:78)     - [-]Termina insersión de portal Palacio Cesarfer venta diaria
+02-12-2015@12:14:28 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+02-12-2015@12:26:29 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+26-01-2016@12:14:30 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Mon Nov 30 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Tue Dec 01 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Wed Dec 02 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Thu Dec 03 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Fri Dec 04 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sat Dec 05 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sun Dec 06 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Mon Dec 07 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Tue Dec 08 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Wed Dec 09 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Thu Dec 10 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Fri Dec 11 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sat Dec 12 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sun Dec 13 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Mon Dec 14 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Tue Dec 15 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Wed Dec 16 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Thu Dec 17 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Fri Dec 18 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sat Dec 19 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sun Dec 20 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Mon Dec 21 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Tue Dec 22 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Wed Dec 23 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Thu Dec 24 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Fri Dec 25 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sat Dec 26 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sun Dec 27 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Mon Dec 28 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Tue Dec 29 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Wed Dec 30 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Thu Dec 31 00:00:00 CST 2015
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Fri Jan 01 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sat Jan 02 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sun Jan 03 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Mon Jan 04 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Tue Jan 05 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Wed Jan 06 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Thu Jan 07 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Fri Jan 08 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sat Jan 09 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sun Jan 10 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Mon Jan 11 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Tue Jan 12 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Wed Jan 13 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Thu Jan 14 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Fri Jan 15 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sat Jan 16 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sun Jan 17 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Mon Jan 18 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Tue Jan 19 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Wed Jan 20 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Thu Jan 21 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Fri Jan 22 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sat Jan 23 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Sun Jan 24 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:201)     - old date: Mon Jan 25 00:00:00 CST 2016
+26-01-2016@12:14:31 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+26-01-2016@12:14:31 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_30112015
+26-01-2016@12:14:40 INFO  (PalacioDownload.java:163)     - 30%2F11%2F2015+0%3A00%3A00&lsS2
+26-01-2016@12:14:40 INFO  (PalacioDownload.java:164)     - 30%2F11%2F2015+0%3A00%3A00&lsM3
+26-01-2016@12:14:40 INFO  (PalacioDownload.java:167)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=30%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=30%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=
+09-02-2016@18:27:11 INFO  (PalacioDownload.java:55)     - MAIN: Se ejecuta Palacio cesarfer
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Nov 30 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Dec 01 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Dec 02 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Dec 03 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Dec 04 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Dec 05 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Dec 06 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Dec 07 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Dec 08 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Dec 09 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Dec 10 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Dec 11 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Dec 12 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Dec 13 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Dec 14 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Dec 15 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Dec 16 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Dec 17 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Dec 18 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Dec 19 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Dec 20 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Dec 21 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Dec 22 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Dec 23 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Dec 24 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Dec 25 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Dec 26 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Dec 27 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Dec 28 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Dec 29 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Dec 30 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Dec 31 00:00:00 CST 2015
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Jan 01 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Jan 02 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Jan 03 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Jan 04 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Jan 05 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Jan 06 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Jan 07 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Jan 08 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Jan 09 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Jan 10 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Jan 11 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Jan 12 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Jan 13 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Jan 14 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Jan 15 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Jan 16 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Jan 17 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Jan 18 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Jan 19 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Jan 20 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Jan 21 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Jan 22 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Jan 23 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Jan 24 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Jan 25 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Jan 26 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Jan 27 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Jan 28 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Jan 29 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Jan 30 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Jan 31 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Feb 01 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Tue Feb 02 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Wed Feb 03 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Thu Feb 04 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Fri Feb 05 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sat Feb 06 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Sun Feb 07 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:201)     - old date: Mon Feb 08 00:00:00 CST 2016
+09-02-2016@18:27:13 INFO  (Utileria.java:267)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+09-02-2016@18:27:13 INFO  (PalacioDownload.java:69)     - Comienza descarga de archivo palacio_30112015
+09-02-2016@18:27:22 INFO  (PalacioDownload.java:163)     - 30%2F11%2F2015+0%3A00%3A00&lsS2
+09-02-2016@18:27:22 INFO  (PalacioDownload.java:164)     - 30%2F11%2F2015+0%3A00%3A00&lsM3
+09-02-2016@18:27:22 INFO  (PalacioDownload.java:167)     - URL! https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1302152134/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&sRefresh=N&lsS1.Fecha%20Inicio%20(Desde)=30%2F11%2F2015+0%3A00%3A00&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)=30%2F11%2F2015+0%3A00%3A00&lsM3.Canal%20de%20distribuci%C3%B3n=&lsI3.Canal%20de%20distribuci%C3%B3n=&lsM4.Centro=&lsI4.Centro=&lsS5.Negocio=&lsI5.Negocio=

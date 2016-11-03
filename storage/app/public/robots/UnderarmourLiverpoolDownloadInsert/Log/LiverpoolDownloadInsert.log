@@ -1,0 +1,1080 @@
+05-10-2016@09:30:01 INFO  (LiverpoolDownload.java:73)     - MAIN: Comienza descarga de archivo liverpool_02102016
+05-10-2016@09:30:04 INFO  (LiverpoolDownload.java:271)     - ACCESS: Entra Periodo
+05-10-2016@09:30:38 INFO  (LiverpoolDownload.java:310)     - Enviando peticion click 3
+05-10-2016@09:31:02 INFO  (LiverpoolDownload.java:449)     - GETLINES: Líneas recuperadas del archivo: 56
+05-10-2016@09:31:02 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaciÃ³n/descarga del link/archivo
+05-10-2016@09:31:02 INFO  (LiverpoolDownload.java:73)     - MAIN: Comienza descarga de archivo liverpool_03102016
+05-10-2016@09:31:06 INFO  (LiverpoolDownload.java:271)     - ACCESS: Entra Periodo
+05-10-2016@09:31:40 INFO  (LiverpoolDownload.java:310)     - Enviando peticion click 3
+05-10-2016@09:32:04 INFO  (LiverpoolDownload.java:449)     - GETLINES: Líneas recuperadas del archivo: 16
+05-10-2016@09:32:04 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaciÃ³n/descarga del link/archivo
+05-10-2016@09:32:04 INFO  (LiverpoolDownload.java:73)     - MAIN: Comienza descarga de archivo liverpool_04102016
+05-10-2016@09:32:07 INFO  (LiverpoolDownload.java:271)     - ACCESS: Entra Periodo
+05-10-2016@09:32:56 INFO  (LiverpoolDownload.java:310)     - Enviando peticion click 3
+05-10-2016@09:33:19 INFO  (LiverpoolDownload.java:449)     - GETLINES: Líneas recuperadas del archivo: 25
+05-10-2016@09:33:19 INFO  (LiverpoolDownload.java:88)     - [-]Termina ejecución del portal Liverpool Spinmaster
+05-10-2016@09:33:21 INFO  (LiverpoolInsert.java:47)     - INSERT; Se ejecuta Liverpool insert en cuenta: underarmour
+05-10-2016@09:33:22 INFO  (LiverpoolInsert.java:69)     - ultima fecha: 30062016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Jul 01 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Jul 02 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Jul 03 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Jul 04 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Jul 05 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Jul 06 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Jul 07 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Jul 08 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Jul 09 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Jul 10 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Jul 11 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Jul 12 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Jul 13 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Jul 14 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Jul 15 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Jul 16 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Jul 17 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Jul 18 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Jul 19 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Jul 20 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Jul 21 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Jul 22 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Jul 23 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Jul 24 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Jul 25 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Jul 26 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Jul 27 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Jul 28 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Jul 29 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Jul 30 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Jul 31 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Aug 01 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Aug 02 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Aug 03 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Aug 04 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Aug 05 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Aug 06 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Aug 07 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Aug 08 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Aug 09 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Aug 10 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Aug 11 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Aug 12 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Aug 13 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Aug 14 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Aug 15 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Aug 16 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Aug 17 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Aug 18 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Aug 19 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Aug 20 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Aug 21 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Aug 22 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Aug 23 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Aug 24 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Aug 25 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Aug 26 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Aug 27 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Aug 28 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Aug 29 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Aug 30 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Aug 31 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Sep 01 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Sep 02 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Sep 03 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Sep 04 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Sep 05 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Sep 06 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Sep 07 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Sep 08 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Sep 09 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Sep 10 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Sep 11 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Sep 12 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Sep 13 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Sep 14 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Sep 15 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Sep 16 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Sep 17 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Sep 18 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Sep 19 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Sep 20 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Sep 21 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Sep 22 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Sep 23 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Sep 24 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Sep 25 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Sep 26 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Sep 27 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Sep 28 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Thu Sep 29 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Fri Sep 30 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sat Oct 01 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Sun Oct 02 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Mon Oct 03 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Tue Oct 04 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (Utileria.java:387)     - old date: Wed Oct 05 00:00:00 CDT 2016
+05-10-2016@09:33:22 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:22 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01072016.csv
+05-10-2016@09:33:22 INFO  (Utileria.java:497)     - RENAME: El archivo 01072016 existe
+05-10-2016@09:33:22 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 01072016 correctamente cambiado
+05-10-2016@09:33:24 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:24 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:24 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:24 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:24 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01072016.csv', '2016-07-01', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2216');
+05-10-2016@09:33:25 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:25 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:25 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02072016.csv
+05-10-2016@09:33:25 INFO  (Utileria.java:497)     - RENAME: El archivo 02072016 existe
+05-10-2016@09:33:25 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 02072016 correctamente cambiado
+05-10-2016@09:33:27 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:27 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:27 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:27 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:27 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02072016.csv', '2016-07-02', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2873');
+05-10-2016@09:33:27 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:27 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:27 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03072016.csv
+05-10-2016@09:33:27 INFO  (Utileria.java:497)     - RENAME: El archivo 03072016 existe
+05-10-2016@09:33:27 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 03072016 correctamente cambiado
+05-10-2016@09:33:29 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:29 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:29 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:29 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:29 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03072016.csv', '2016-07-03', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3251');
+05-10-2016@09:33:29 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:29 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:29 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04072016.csv
+05-10-2016@09:33:29 INFO  (Utileria.java:497)     - RENAME: El archivo 04072016 existe
+05-10-2016@09:33:29 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 04072016 correctamente cambiado
+05-10-2016@09:33:31 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:31 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:31 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:31 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:31 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04072016.csv', '2016-07-04', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1506');
+05-10-2016@09:33:31 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:31 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:31 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05072016.csv
+05-10-2016@09:33:31 INFO  (Utileria.java:497)     - RENAME: El archivo 05072016 existe
+05-10-2016@09:33:31 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 05072016 correctamente cambiado
+05-10-2016@09:33:33 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:33 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:34 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:34 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:34 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05072016.csv', '2016-07-05', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1004');
+05-10-2016@09:33:34 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:34 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:34 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_06072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_06072016.csv
+05-10-2016@09:33:34 INFO  (Utileria.java:497)     - RENAME: El archivo 06072016 existe
+05-10-2016@09:33:34 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 06072016 correctamente cambiado
+05-10-2016@09:33:36 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:36 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:36 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:36 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:36 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_06072016.csv', '2016-07-06', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2444');
+05-10-2016@09:33:36 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:36 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:36 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_07072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_07072016.csv
+05-10-2016@09:33:36 INFO  (Utileria.java:497)     - RENAME: El archivo 07072016 existe
+05-10-2016@09:33:36 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 07072016 correctamente cambiado
+05-10-2016@09:33:38 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:38 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:38 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:38 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:38 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_07072016.csv', '2016-07-07', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1021');
+05-10-2016@09:33:38 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:38 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:38 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_08072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_08072016.csv
+05-10-2016@09:33:38 INFO  (Utileria.java:497)     - RENAME: El archivo 08072016 existe
+05-10-2016@09:33:38 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 08072016 correctamente cambiado
+05-10-2016@09:33:40 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:40 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:40 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:40 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:40 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_08072016.csv', '2016-07-08', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2157');
+05-10-2016@09:33:40 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:40 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:40 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_09072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_09072016.csv
+05-10-2016@09:33:40 INFO  (Utileria.java:497)     - RENAME: El archivo 09072016 existe
+05-10-2016@09:33:40 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 09072016 correctamente cambiado
+05-10-2016@09:33:42 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:42 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:42 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:42 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:42 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_09072016.csv', '2016-07-09', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3377');
+05-10-2016@09:33:42 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:42 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:42 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_10072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_10072016.csv
+05-10-2016@09:33:42 INFO  (Utileria.java:497)     - RENAME: El archivo 10072016 existe
+05-10-2016@09:33:42 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 10072016 correctamente cambiado
+05-10-2016@09:33:45 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:45 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:45 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:45 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:45 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_10072016.csv', '2016-07-10', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2181');
+05-10-2016@09:33:45 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:45 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:45 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_11072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_11072016.csv
+05-10-2016@09:33:45 INFO  (Utileria.java:497)     - RENAME: El archivo 11072016 existe
+05-10-2016@09:33:45 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 11072016 correctamente cambiado
+05-10-2016@09:33:47 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:47 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:47 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:47 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:47 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_11072016.csv', '2016-07-11', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2069');
+05-10-2016@09:33:47 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:47 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:47 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_12072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_12072016.csv
+05-10-2016@09:33:47 INFO  (Utileria.java:497)     - RENAME: El archivo 12072016 existe
+05-10-2016@09:33:47 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 12072016 correctamente cambiado
+05-10-2016@09:33:49 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:49 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:49 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:49 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:49 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_12072016.csv', '2016-07-12', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1253');
+05-10-2016@09:33:49 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:49 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:49 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_13072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_13072016.csv
+05-10-2016@09:33:49 INFO  (Utileria.java:497)     - RENAME: El archivo 13072016 existe
+05-10-2016@09:33:49 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 13072016 correctamente cambiado
+05-10-2016@09:33:51 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:51 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:51 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:51 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:51 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_13072016.csv', '2016-07-13', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1808');
+05-10-2016@09:33:51 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:51 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:51 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_14072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_14072016.csv
+05-10-2016@09:33:51 INFO  (Utileria.java:497)     - RENAME: El archivo 14072016 existe
+05-10-2016@09:33:51 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 14072016 correctamente cambiado
+05-10-2016@09:33:53 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:53 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:53 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:53 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:53 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_14072016.csv', '2016-07-14', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2238');
+05-10-2016@09:33:53 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:53 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:53 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_15072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_15072016.csv
+05-10-2016@09:33:53 INFO  (Utileria.java:497)     - RENAME: El archivo 15072016 existe
+05-10-2016@09:33:53 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 15072016 correctamente cambiado
+05-10-2016@09:33:55 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:55 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:55 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:55 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:55 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_15072016.csv', '2016-07-15', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2617');
+05-10-2016@09:33:55 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:55 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:55 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_16072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_16072016.csv
+05-10-2016@09:33:55 INFO  (Utileria.java:497)     - RENAME: El archivo 16072016 existe
+05-10-2016@09:33:55 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 16072016 correctamente cambiado
+05-10-2016@09:33:57 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:57 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:33:57 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:33:57 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:33:57 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_16072016.csv', '2016-07-16', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3419');
+05-10-2016@09:33:57 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:57 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:33:57 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_17072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_17072016.csv
+05-10-2016@09:33:57 INFO  (Utileria.java:497)     - RENAME: El archivo 17072016 existe
+05-10-2016@09:33:57 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 17072016 correctamente cambiado
+05-10-2016@09:33:59 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:33:59 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:00 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:00 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:00 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_17072016.csv', '2016-07-17', CURRENT_TIMESTAMP, 'liverpool-underarmour', '4705');
+05-10-2016@09:34:00 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:00 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:00 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_18072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_18072016.csv
+05-10-2016@09:34:00 INFO  (Utileria.java:497)     - RENAME: El archivo 18072016 existe
+05-10-2016@09:34:00 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 18072016 correctamente cambiado
+05-10-2016@09:34:02 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:02 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:02 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:02 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:02 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_18072016.csv', '2016-07-18', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3361');
+05-10-2016@09:34:02 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:02 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:02 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_19072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_19072016.csv
+05-10-2016@09:34:02 INFO  (Utileria.java:497)     - RENAME: El archivo 19072016 existe
+05-10-2016@09:34:02 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 19072016 correctamente cambiado
+05-10-2016@09:34:04 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:04 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:04 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:04 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:04 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_19072016.csv', '2016-07-19', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3807');
+05-10-2016@09:34:04 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:04 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:04 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_20072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_20072016.csv
+05-10-2016@09:34:04 INFO  (Utileria.java:497)     - RENAME: El archivo 20072016 existe
+05-10-2016@09:34:04 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 20072016 correctamente cambiado
+05-10-2016@09:34:06 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:06 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:06 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:06 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:06 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_20072016.csv', '2016-07-20', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3008');
+05-10-2016@09:34:06 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:06 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:06 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_21072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_21072016.csv
+05-10-2016@09:34:06 INFO  (Utileria.java:497)     - RENAME: El archivo 21072016 existe
+05-10-2016@09:34:06 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 21072016 correctamente cambiado
+05-10-2016@09:34:08 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:08 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:08 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:08 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:08 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_21072016.csv', '2016-07-21', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2176');
+05-10-2016@09:34:08 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:08 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:08 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_22072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_22072016.csv
+05-10-2016@09:34:08 INFO  (Utileria.java:497)     - RENAME: El archivo 22072016 existe
+05-10-2016@09:34:08 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 22072016 correctamente cambiado
+05-10-2016@09:34:10 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:10 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:10 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:10 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:10 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_22072016.csv', '2016-07-22', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2360');
+05-10-2016@09:34:10 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:10 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:10 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_23072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_23072016.csv
+05-10-2016@09:34:10 INFO  (Utileria.java:497)     - RENAME: El archivo 23072016 existe
+05-10-2016@09:34:10 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 23072016 correctamente cambiado
+05-10-2016@09:34:12 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:12 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:12 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:12 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:12 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_23072016.csv', '2016-07-23', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3921');
+05-10-2016@09:34:12 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:12 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:12 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_24072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_24072016.csv
+05-10-2016@09:34:12 INFO  (Utileria.java:497)     - RENAME: El archivo 24072016 existe
+05-10-2016@09:34:12 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 24072016 correctamente cambiado
+05-10-2016@09:34:15 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:15 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:15 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:15 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:15 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_24072016.csv', '2016-07-24', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2898');
+05-10-2016@09:34:15 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:15 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:15 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_25072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_25072016.csv
+05-10-2016@09:34:15 INFO  (Utileria.java:497)     - RENAME: El archivo 25072016 existe
+05-10-2016@09:34:15 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 25072016 correctamente cambiado
+05-10-2016@09:34:17 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:17 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:17 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:17 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:17 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_25072016.csv', '2016-07-25', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2686');
+05-10-2016@09:34:17 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:17 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:17 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_26072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_26072016.csv
+05-10-2016@09:34:17 INFO  (Utileria.java:497)     - RENAME: El archivo 26072016 existe
+05-10-2016@09:34:17 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 26072016 correctamente cambiado
+05-10-2016@09:34:19 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:19 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:19 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:19 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:19 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_26072016.csv', '2016-07-26', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2583');
+05-10-2016@09:34:19 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:19 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:19 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_27072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_27072016.csv
+05-10-2016@09:34:19 INFO  (Utileria.java:497)     - RENAME: El archivo 27072016 existe
+05-10-2016@09:34:19 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 27072016 correctamente cambiado
+05-10-2016@09:34:21 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:21 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:21 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:21 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:21 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_27072016.csv', '2016-07-27', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2002');
+05-10-2016@09:34:21 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:21 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:21 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_28072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_28072016.csv
+05-10-2016@09:34:21 INFO  (Utileria.java:497)     - RENAME: El archivo 28072016 existe
+05-10-2016@09:34:21 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 28072016 correctamente cambiado
+05-10-2016@09:34:23 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:23 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:23 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:23 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:23 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_28072016.csv', '2016-07-28', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2719');
+05-10-2016@09:34:23 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:23 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:23 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_29072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_29072016.csv
+05-10-2016@09:34:23 INFO  (Utileria.java:497)     - RENAME: El archivo 29072016 existe
+05-10-2016@09:34:23 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 29072016 correctamente cambiado
+05-10-2016@09:34:25 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:25 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:25 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:25 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:25 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_29072016.csv', '2016-07-29', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1933');
+05-10-2016@09:34:25 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:25 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:25 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_30072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_30072016.csv
+05-10-2016@09:34:25 INFO  (Utileria.java:497)     - RENAME: El archivo 30072016 existe
+05-10-2016@09:34:25 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 30072016 correctamente cambiado
+05-10-2016@09:34:27 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:27 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:27 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:27 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:27 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_30072016.csv', '2016-07-30', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3928');
+05-10-2016@09:34:27 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:28 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:28 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_31072016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_31072016.csv
+05-10-2016@09:34:28 INFO  (Utileria.java:497)     - RENAME: El archivo 31072016 existe
+05-10-2016@09:34:28 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 31072016 correctamente cambiado
+05-10-2016@09:34:30 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:30 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:30 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:30 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:30 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_31072016.csv', '2016-07-31', CURRENT_TIMESTAMP, 'liverpool-underarmour', '5042');
+05-10-2016@09:34:30 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:30 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:30 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01082016.csv
+05-10-2016@09:34:30 INFO  (Utileria.java:497)     - RENAME: El archivo 01082016 existe
+05-10-2016@09:34:30 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 01082016 correctamente cambiado
+05-10-2016@09:34:32 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:32 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:32 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:32 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:32 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01082016.csv', '2016-08-01', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1669');
+05-10-2016@09:34:32 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:32 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:32 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02082016.csv
+05-10-2016@09:34:32 INFO  (Utileria.java:497)     - RENAME: El archivo 02082016 existe
+05-10-2016@09:34:32 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 02082016 correctamente cambiado
+05-10-2016@09:34:34 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:34 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:34 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:34 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:34 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02082016.csv', '2016-08-02', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1416');
+05-10-2016@09:34:34 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:34 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:34 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03082016.csv
+05-10-2016@09:34:34 INFO  (Utileria.java:497)     - RENAME: El archivo 03082016 existe
+05-10-2016@09:34:34 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 03082016 correctamente cambiado
+05-10-2016@09:34:36 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:36 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:36 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:36 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:36 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03082016.csv', '2016-08-03', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1109');
+05-10-2016@09:34:36 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:36 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:36 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04082016.csv
+05-10-2016@09:34:36 INFO  (Utileria.java:497)     - RENAME: El archivo 04082016 existe
+05-10-2016@09:34:36 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 04082016 correctamente cambiado
+05-10-2016@09:34:38 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:38 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:38 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:38 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:38 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04082016.csv', '2016-08-04', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1544');
+05-10-2016@09:34:39 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:39 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:39 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05082016.csv
+05-10-2016@09:34:39 INFO  (Utileria.java:497)     - RENAME: El archivo 05082016 existe
+05-10-2016@09:34:39 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 05082016 correctamente cambiado
+05-10-2016@09:34:41 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:41 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:41 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:41 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:41 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05082016.csv', '2016-08-05', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1136');
+05-10-2016@09:34:41 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:41 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:41 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_06082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_06082016.csv
+05-10-2016@09:34:41 INFO  (Utileria.java:497)     - RENAME: El archivo 06082016 existe
+05-10-2016@09:34:41 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 06082016 correctamente cambiado
+05-10-2016@09:34:43 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:43 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:43 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:43 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:43 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_06082016.csv', '2016-08-06', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2644');
+05-10-2016@09:34:43 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:43 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:43 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_07082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_07082016.csv
+05-10-2016@09:34:43 INFO  (Utileria.java:497)     - RENAME: El archivo 07082016 existe
+05-10-2016@09:34:43 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 07082016 correctamente cambiado
+05-10-2016@09:34:45 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:45 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:45 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:45 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:45 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_07082016.csv', '2016-08-07', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1493');
+05-10-2016@09:34:45 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:45 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:45 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_08082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_08082016.csv
+05-10-2016@09:34:45 INFO  (Utileria.java:497)     - RENAME: El archivo 08082016 existe
+05-10-2016@09:34:45 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 08082016 correctamente cambiado
+05-10-2016@09:34:47 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:47 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:47 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:47 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:47 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_08082016.csv', '2016-08-08', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2154');
+05-10-2016@09:34:47 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:47 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:47 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_09082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_09082016.csv
+05-10-2016@09:34:47 INFO  (Utileria.java:497)     - RENAME: El archivo 09082016 existe
+05-10-2016@09:34:47 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 09082016 correctamente cambiado
+05-10-2016@09:34:49 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:49 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:49 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:49 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:49 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_09082016.csv', '2016-08-09', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1855');
+05-10-2016@09:34:49 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:49 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:49 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_10082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_10082016.csv
+05-10-2016@09:34:49 INFO  (Utileria.java:497)     - RENAME: El archivo 10082016 existe
+05-10-2016@09:34:49 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 10082016 correctamente cambiado
+05-10-2016@09:34:51 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:51 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:51 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:51 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:51 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_10082016.csv', '2016-08-10', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2555');
+05-10-2016@09:34:51 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:51 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:51 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_11082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_11082016.csv
+05-10-2016@09:34:51 INFO  (Utileria.java:497)     - RENAME: El archivo 11082016 existe
+05-10-2016@09:34:51 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 11082016 correctamente cambiado
+05-10-2016@09:34:53 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:53 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:54 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:54 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:54 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_11082016.csv', '2016-08-11', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1170');
+05-10-2016@09:34:54 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:54 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:54 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_12082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_12082016.csv
+05-10-2016@09:34:54 INFO  (Utileria.java:497)     - RENAME: El archivo 12082016 existe
+05-10-2016@09:34:54 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 12082016 correctamente cambiado
+05-10-2016@09:34:56 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:56 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:56 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:56 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:56 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_12082016.csv', '2016-08-12', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2532');
+05-10-2016@09:34:56 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:56 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:56 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_13082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_13082016.csv
+05-10-2016@09:34:56 INFO  (Utileria.java:497)     - RENAME: El archivo 13082016 existe
+05-10-2016@09:34:56 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 13082016 correctamente cambiado
+05-10-2016@09:34:58 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:34:58 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:34:58 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:34:58 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:34:58 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_13082016.csv', '2016-08-13', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2023');
+05-10-2016@09:34:58 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:58 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:34:58 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_14082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_14082016.csv
+05-10-2016@09:34:58 INFO  (Utileria.java:497)     - RENAME: El archivo 14082016 existe
+05-10-2016@09:34:58 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 14082016 correctamente cambiado
+05-10-2016@09:35:00 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:00 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:00 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:00 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:00 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_14082016.csv', '2016-08-14', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2038');
+05-10-2016@09:35:00 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:00 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:00 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_15082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_15082016.csv
+05-10-2016@09:35:00 INFO  (Utileria.java:497)     - RENAME: El archivo 15082016 existe
+05-10-2016@09:35:00 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 15082016 correctamente cambiado
+05-10-2016@09:35:02 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:02 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:02 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:02 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:02 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_15082016.csv', '2016-08-15', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1585');
+05-10-2016@09:35:02 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:02 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:02 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_16082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_16082016.csv
+05-10-2016@09:35:02 INFO  (Utileria.java:497)     - RENAME: El archivo 16082016 existe
+05-10-2016@09:35:02 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 16082016 correctamente cambiado
+05-10-2016@09:35:04 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:04 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:04 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:04 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:04 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_16082016.csv', '2016-08-16', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1637');
+05-10-2016@09:35:04 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:04 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:04 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_17082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_17082016.csv
+05-10-2016@09:35:04 INFO  (Utileria.java:497)     - RENAME: El archivo 17082016 existe
+05-10-2016@09:35:04 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 17082016 correctamente cambiado
+05-10-2016@09:35:06 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:06 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:06 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:06 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:06 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_17082016.csv', '2016-08-17', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1658');
+05-10-2016@09:35:06 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:06 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:06 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_18082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_18082016.csv
+05-10-2016@09:35:06 INFO  (Utileria.java:497)     - RENAME: El archivo 18082016 existe
+05-10-2016@09:35:06 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 18082016 correctamente cambiado
+05-10-2016@09:35:08 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:08 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:08 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:08 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:08 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_18082016.csv', '2016-08-18', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1686');
+05-10-2016@09:35:08 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:08 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:08 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_19082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_19082016.csv
+05-10-2016@09:35:08 INFO  (Utileria.java:497)     - RENAME: El archivo 19082016 existe
+05-10-2016@09:35:08 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 19082016 correctamente cambiado
+05-10-2016@09:35:10 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:10 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:11 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:11 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:11 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_19082016.csv', '2016-08-19', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1500');
+05-10-2016@09:35:11 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:11 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:11 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_20082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_20082016.csv
+05-10-2016@09:35:11 INFO  (Utileria.java:497)     - RENAME: El archivo 20082016 existe
+05-10-2016@09:35:11 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 20082016 correctamente cambiado
+05-10-2016@09:35:13 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:13 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:13 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:13 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:13 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_20082016.csv', '2016-08-20', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2801');
+05-10-2016@09:35:13 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:13 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:13 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_21082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_21082016.csv
+05-10-2016@09:35:13 INFO  (Utileria.java:497)     - RENAME: El archivo 21082016 existe
+05-10-2016@09:35:13 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 21082016 correctamente cambiado
+05-10-2016@09:35:15 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:15 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:15 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:15 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:15 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_21082016.csv', '2016-08-21', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2725');
+05-10-2016@09:35:15 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:15 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:15 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_22082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_22082016.csv
+05-10-2016@09:35:15 INFO  (Utileria.java:497)     - RENAME: El archivo 22082016 existe
+05-10-2016@09:35:15 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 22082016 correctamente cambiado
+05-10-2016@09:35:17 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:17 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:17 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:17 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:17 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_22082016.csv', '2016-08-22', CURRENT_TIMESTAMP, 'liverpool-underarmour', '988');
+05-10-2016@09:35:17 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:17 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:17 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_23082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_23082016.csv
+05-10-2016@09:35:17 INFO  (Utileria.java:497)     - RENAME: El archivo 23082016 existe
+05-10-2016@09:35:17 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 23082016 correctamente cambiado
+05-10-2016@09:35:19 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:19 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:19 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:19 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:19 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_23082016.csv', '2016-08-23', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2431');
+05-10-2016@09:35:19 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:19 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:19 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_24082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_24082016.csv
+05-10-2016@09:35:19 INFO  (Utileria.java:497)     - RENAME: El archivo 24082016 existe
+05-10-2016@09:35:19 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 24082016 correctamente cambiado
+05-10-2016@09:35:21 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:21 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:21 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:21 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:21 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_24082016.csv', '2016-08-24', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1390');
+05-10-2016@09:35:21 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:21 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:21 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_25082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_25082016.csv
+05-10-2016@09:35:21 INFO  (Utileria.java:497)     - RENAME: El archivo 25082016 existe
+05-10-2016@09:35:21 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 25082016 correctamente cambiado
+05-10-2016@09:35:23 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:23 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:23 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:23 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:23 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_25082016.csv', '2016-08-25', CURRENT_TIMESTAMP, 'liverpool-underarmour', '969');
+05-10-2016@09:35:23 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:23 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:23 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_26082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_26082016.csv
+05-10-2016@09:35:23 INFO  (Utileria.java:497)     - RENAME: El archivo 26082016 existe
+05-10-2016@09:35:23 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 26082016 correctamente cambiado
+05-10-2016@09:35:25 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:25 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:25 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:25 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:25 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_26082016.csv', '2016-08-26', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1924');
+05-10-2016@09:35:25 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:25 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:25 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_27082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_27082016.csv
+05-10-2016@09:35:25 INFO  (Utileria.java:497)     - RENAME: El archivo 27082016 existe
+05-10-2016@09:35:25 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 27082016 correctamente cambiado
+05-10-2016@09:35:27 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:27 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:27 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:27 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:27 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_27082016.csv', '2016-08-27', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2426');
+05-10-2016@09:35:27 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:27 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:28 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_28082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_28082016.csv
+05-10-2016@09:35:28 INFO  (Utileria.java:497)     - RENAME: El archivo 28082016 existe
+05-10-2016@09:35:28 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 28082016 correctamente cambiado
+05-10-2016@09:35:30 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:30 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:30 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:30 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:30 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_28082016.csv', '2016-08-28', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3409');
+05-10-2016@09:35:30 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:30 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:30 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_29082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_29082016.csv
+05-10-2016@09:35:30 INFO  (Utileria.java:497)     - RENAME: El archivo 29082016 existe
+05-10-2016@09:35:30 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 29082016 correctamente cambiado
+05-10-2016@09:35:32 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:32 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:32 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:32 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:32 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_29082016.csv', '2016-08-29', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1226');
+05-10-2016@09:35:32 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:32 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:32 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_30082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_30082016.csv
+05-10-2016@09:35:32 INFO  (Utileria.java:497)     - RENAME: El archivo 30082016 existe
+05-10-2016@09:35:32 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 30082016 correctamente cambiado
+05-10-2016@09:35:34 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:34 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:34 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:34 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:34 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_30082016.csv', '2016-08-30', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1142');
+05-10-2016@09:35:34 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:34 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:34 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_31082016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_31082016.csv
+05-10-2016@09:35:34 INFO  (Utileria.java:497)     - RENAME: El archivo 31082016 existe
+05-10-2016@09:35:34 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 31082016 correctamente cambiado
+05-10-2016@09:35:36 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:36 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:36 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:36 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:36 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_31082016.csv', '2016-08-31', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1973');
+05-10-2016@09:35:36 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:36 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:36 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01092016.csv
+05-10-2016@09:35:36 INFO  (Utileria.java:497)     - RENAME: El archivo 01092016 existe
+05-10-2016@09:35:36 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 01092016 correctamente cambiado
+05-10-2016@09:35:38 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:38 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:38 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:38 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:38 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01092016.csv', '2016-09-01', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1473');
+05-10-2016@09:35:38 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:38 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:38 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02092016.csv
+05-10-2016@09:35:38 INFO  (Utileria.java:497)     - RENAME: El archivo 02092016 existe
+05-10-2016@09:35:38 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 02092016 correctamente cambiado
+05-10-2016@09:35:40 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:40 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:40 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:40 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:40 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02092016.csv', '2016-09-02', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1260');
+05-10-2016@09:35:40 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:40 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:40 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03092016.csv
+05-10-2016@09:35:40 INFO  (Utileria.java:497)     - RENAME: El archivo 03092016 existe
+05-10-2016@09:35:40 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 03092016 correctamente cambiado
+05-10-2016@09:35:42 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:42 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:42 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:42 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:42 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03092016.csv', '2016-09-03', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3101');
+05-10-2016@09:35:42 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:42 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:42 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04092016.csv
+05-10-2016@09:35:42 INFO  (Utileria.java:497)     - RENAME: El archivo 04092016 existe
+05-10-2016@09:35:42 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 04092016 correctamente cambiado
+05-10-2016@09:35:44 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:44 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:44 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:44 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:44 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04092016.csv', '2016-09-04', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3482');
+05-10-2016@09:35:44 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:44 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:44 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05092016.csv
+05-10-2016@09:35:44 INFO  (Utileria.java:497)     - RENAME: El archivo 05092016 existe
+05-10-2016@09:35:44 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 05092016 correctamente cambiado
+05-10-2016@09:35:46 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:46 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:46 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:46 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:46 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05092016.csv', '2016-09-05', CURRENT_TIMESTAMP, 'liverpool-underarmour', '769');
+05-10-2016@09:35:46 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:47 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:47 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_06092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_06092016.csv
+05-10-2016@09:35:47 INFO  (Utileria.java:497)     - RENAME: El archivo 06092016 existe
+05-10-2016@09:35:47 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 06092016 correctamente cambiado
+05-10-2016@09:35:49 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:49 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:49 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:49 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:49 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_06092016.csv', '2016-09-06', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1664');
+05-10-2016@09:35:49 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:49 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:49 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_07092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_07092016.csv
+05-10-2016@09:35:49 INFO  (Utileria.java:497)     - RENAME: El archivo 07092016 existe
+05-10-2016@09:35:49 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 07092016 correctamente cambiado
+05-10-2016@09:35:51 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:51 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:51 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:51 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:51 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_07092016.csv', '2016-09-07', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1590');
+05-10-2016@09:35:51 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:51 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:51 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_08092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_08092016.csv
+05-10-2016@09:35:51 INFO  (Utileria.java:497)     - RENAME: El archivo 08092016 existe
+05-10-2016@09:35:51 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 08092016 correctamente cambiado
+05-10-2016@09:35:53 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:53 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:53 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:53 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:53 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_08092016.csv', '2016-09-08', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2474');
+05-10-2016@09:35:53 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:53 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:53 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_09092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_09092016.csv
+05-10-2016@09:35:53 INFO  (Utileria.java:497)     - RENAME: El archivo 09092016 existe
+05-10-2016@09:35:53 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 09092016 correctamente cambiado
+05-10-2016@09:35:55 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:55 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:55 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:55 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:55 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_09092016.csv', '2016-09-09', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1543');
+05-10-2016@09:35:55 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:55 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:55 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_10092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_10092016.csv
+05-10-2016@09:35:55 INFO  (Utileria.java:497)     - RENAME: El archivo 10092016 existe
+05-10-2016@09:35:55 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 10092016 correctamente cambiado
+05-10-2016@09:35:57 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:57 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:57 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:57 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:57 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_10092016.csv', '2016-09-10', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3484');
+05-10-2016@09:35:57 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:57 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:57 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_11092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_11092016.csv
+05-10-2016@09:35:57 INFO  (Utileria.java:497)     - RENAME: El archivo 11092016 existe
+05-10-2016@09:35:57 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 11092016 correctamente cambiado
+05-10-2016@09:35:59 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:35:59 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:35:59 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:35:59 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:35:59 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_11092016.csv', '2016-09-11', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3446');
+05-10-2016@09:35:59 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:59 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:35:59 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_12092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_12092016.csv
+05-10-2016@09:35:59 INFO  (Utileria.java:497)     - RENAME: El archivo 12092016 existe
+05-10-2016@09:35:59 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 12092016 correctamente cambiado
+05-10-2016@09:36:01 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:01 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:01 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:01 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:01 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_12092016.csv', '2016-09-12', CURRENT_TIMESTAMP, 'liverpool-underarmour', '349');
+05-10-2016@09:36:01 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:01 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:01 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_13092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_13092016.csv
+05-10-2016@09:36:01 INFO  (Utileria.java:497)     - RENAME: El archivo 13092016 existe
+05-10-2016@09:36:01 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 13092016 correctamente cambiado
+05-10-2016@09:36:03 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:03 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:03 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:03 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:03 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_13092016.csv', '2016-09-13', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1413');
+05-10-2016@09:36:03 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:04 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:04 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_14092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_14092016.csv
+05-10-2016@09:36:04 INFO  (Utileria.java:497)     - RENAME: El archivo 14092016 existe
+05-10-2016@09:36:04 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 14092016 correctamente cambiado
+05-10-2016@09:36:06 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:06 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:06 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:06 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:06 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_14092016.csv', '2016-09-14', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2354');
+05-10-2016@09:36:06 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:06 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:06 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_15092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_15092016.csv
+05-10-2016@09:36:06 INFO  (Utileria.java:497)     - RENAME: El archivo 15092016 existe
+05-10-2016@09:36:06 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 15092016 correctamente cambiado
+05-10-2016@09:36:08 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:08 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:08 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:08 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:08 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_15092016.csv', '2016-09-15', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1130');
+05-10-2016@09:36:08 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:08 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:08 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_16092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_16092016.csv
+05-10-2016@09:36:08 INFO  (Utileria.java:497)     - RENAME: El archivo 16092016 existe
+05-10-2016@09:36:08 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 16092016 correctamente cambiado
+05-10-2016@09:36:10 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:10 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:10 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:10 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:10 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_16092016.csv', '2016-09-16', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3670');
+05-10-2016@09:36:10 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:10 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:10 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_17092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_17092016.csv
+05-10-2016@09:36:10 INFO  (Utileria.java:497)     - RENAME: El archivo 17092016 existe
+05-10-2016@09:36:10 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 17092016 correctamente cambiado
+05-10-2016@09:36:12 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:12 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:12 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:12 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:12 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_17092016.csv', '2016-09-17', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3584');
+05-10-2016@09:36:12 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:12 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:12 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_18092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_18092016.csv
+05-10-2016@09:36:12 INFO  (Utileria.java:497)     - RENAME: El archivo 18092016 existe
+05-10-2016@09:36:12 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 18092016 correctamente cambiado
+05-10-2016@09:36:14 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:14 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:14 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:14 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:14 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_18092016.csv', '2016-09-18', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3275');
+05-10-2016@09:36:14 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:14 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:14 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_19092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_19092016.csv
+05-10-2016@09:36:14 INFO  (Utileria.java:497)     - RENAME: El archivo 19092016 existe
+05-10-2016@09:36:14 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 19092016 correctamente cambiado
+05-10-2016@09:36:16 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:16 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:16 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:16 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:16 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_19092016.csv', '2016-09-19', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1148');
+05-10-2016@09:36:16 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:16 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:16 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_20092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_20092016.csv
+05-10-2016@09:36:16 INFO  (Utileria.java:497)     - RENAME: El archivo 20092016 existe
+05-10-2016@09:36:16 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 20092016 correctamente cambiado
+05-10-2016@09:36:18 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:18 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:18 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:18 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:18 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_20092016.csv', '2016-09-20', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1346');
+05-10-2016@09:36:18 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:18 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:18 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_21092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_21092016.csv
+05-10-2016@09:36:18 INFO  (Utileria.java:497)     - RENAME: El archivo 21092016 existe
+05-10-2016@09:36:18 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 21092016 correctamente cambiado
+05-10-2016@09:36:20 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:20 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:21 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:21 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:21 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_21092016.csv', '2016-09-21', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1155');
+05-10-2016@09:36:21 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:21 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:21 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_22092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_22092016.csv
+05-10-2016@09:36:21 INFO  (Utileria.java:497)     - RENAME: El archivo 22092016 existe
+05-10-2016@09:36:21 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 22092016 correctamente cambiado
+05-10-2016@09:36:23 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:23 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:23 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:23 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:23 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_22092016.csv', '2016-09-22', CURRENT_TIMESTAMP, 'liverpool-underarmour', '463');
+05-10-2016@09:36:23 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:23 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:23 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_23092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_23092016.csv
+05-10-2016@09:36:23 INFO  (Utileria.java:497)     - RENAME: El archivo 23092016 existe
+05-10-2016@09:36:23 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 23092016 correctamente cambiado
+05-10-2016@09:36:25 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:25 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:25 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:25 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:25 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_23092016.csv', '2016-09-23', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2541');
+05-10-2016@09:36:25 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:25 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:25 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_24092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_24092016.csv
+05-10-2016@09:36:25 INFO  (Utileria.java:497)     - RENAME: El archivo 24092016 existe
+05-10-2016@09:36:25 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 24092016 correctamente cambiado
+05-10-2016@09:36:27 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:27 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:27 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:27 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:27 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_24092016.csv', '2016-09-24', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3835');
+05-10-2016@09:36:27 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:27 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:27 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_25092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_25092016.csv
+05-10-2016@09:36:27 INFO  (Utileria.java:497)     - RENAME: El archivo 25092016 existe
+05-10-2016@09:36:27 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 25092016 correctamente cambiado
+05-10-2016@09:36:29 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:29 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:29 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:29 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:29 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_25092016.csv', '2016-09-25', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1904');
+05-10-2016@09:36:29 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:29 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:29 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_26092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_26092016.csv
+05-10-2016@09:36:29 INFO  (Utileria.java:497)     - RENAME: El archivo 26092016 existe
+05-10-2016@09:36:29 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 26092016 correctamente cambiado
+05-10-2016@09:36:31 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:31 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:32 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:32 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:32 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_26092016.csv', '2016-09-26', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1115');
+05-10-2016@09:36:32 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:32 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:32 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_27092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_27092016.csv
+05-10-2016@09:36:32 INFO  (Utileria.java:497)     - RENAME: El archivo 27092016 existe
+05-10-2016@09:36:32 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 27092016 correctamente cambiado
+05-10-2016@09:36:34 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:34 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:34 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:34 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:34 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_27092016.csv', '2016-09-27', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2034');
+05-10-2016@09:36:34 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:34 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:34 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_28092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_28092016.csv
+05-10-2016@09:36:34 INFO  (Utileria.java:497)     - RENAME: El archivo 28092016 existe
+05-10-2016@09:36:34 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 28092016 correctamente cambiado
+05-10-2016@09:36:36 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:36 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:36 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:36 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:36 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_28092016.csv', '2016-09-28', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1671');
+05-10-2016@09:36:36 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:36 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:36 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_29092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_29092016.csv
+05-10-2016@09:36:36 INFO  (Utileria.java:497)     - RENAME: El archivo 29092016 existe
+05-10-2016@09:36:36 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 29092016 correctamente cambiado
+05-10-2016@09:36:38 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:38 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:38 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:38 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:38 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_29092016.csv', '2016-09-29', CURRENT_TIMESTAMP, 'liverpool-underarmour', '2147');
+05-10-2016@09:36:38 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:38 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:38 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_30092016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_30092016.csv
+05-10-2016@09:36:38 INFO  (Utileria.java:497)     - RENAME: El archivo 30092016 existe
+05-10-2016@09:36:38 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 30092016 correctamente cambiado
+05-10-2016@09:36:40 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:40 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:40 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:40 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:40 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_30092016.csv', '2016-09-30', CURRENT_TIMESTAMP, 'liverpool-underarmour', '3662');
+05-10-2016@09:36:40 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:40 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:40 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01102016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01102016.csv
+05-10-2016@09:36:40 INFO  (Utileria.java:497)     - RENAME: El archivo 01102016 existe
+05-10-2016@09:36:40 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 01102016 correctamente cambiado
+05-10-2016@09:36:42 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:42 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:42 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:42 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:42 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_01102016.csv', '2016-10-01', CURRENT_TIMESTAMP, 'liverpool-underarmour', '6115');
+05-10-2016@09:36:42 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:42 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:42 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02102016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02102016.csv
+05-10-2016@09:36:42 INFO  (Utileria.java:497)     - RENAME: El archivo 02102016 existe
+05-10-2016@09:36:42 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 02102016 correctamente cambiado
+05-10-2016@09:36:44 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:44 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:44 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:44 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:44 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_02102016.csv', '2016-10-02', CURRENT_TIMESTAMP, 'liverpool-underarmour', '4504');
+05-10-2016@09:36:44 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:44 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:44 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03102016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03102016.csv
+05-10-2016@09:36:44 INFO  (Utileria.java:497)     - RENAME: El archivo 03102016 existe
+05-10-2016@09:36:44 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 03102016 correctamente cambiado
+05-10-2016@09:36:46 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:46 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:46 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:46 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:46 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_03102016.csv', '2016-10-03', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1101');
+05-10-2016@09:36:46 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:47 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:47 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04102016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04102016.csv
+05-10-2016@09:36:47 INFO  (Utileria.java:497)     - RENAME: El archivo 04102016 existe
+05-10-2016@09:36:47 INFO  (Utileria.java:500)     - UTIL: Extencion de archivo liverpool con fecha 04102016 correctamente cambiado
+05-10-2016@09:36:49 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+05-10-2016@09:36:49 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+05-10-2016@09:36:49 INFO  (LiverpoolInsert.java:112)     - Fecha split
+05-10-2016@09:36:49 INFO  (LiverpoolInsert.java:114)     - antes sql
+05-10-2016@09:36:49 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 10, 'C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_04102016.csv', '2016-10-04', CURRENT_TIMESTAMP, 'liverpool-underarmour', '1740');
+05-10-2016@09:36:49 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:49 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserción de portal Liverpool Cesarfer venta diaria
+05-10-2016@09:36:49 INFO  (Utileria.java:494)     - Renombrando archivo C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05102016.txt a C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05102016.csv
+05-10-2016@09:36:49 INFO  (Utileria.java:506)     - UTIL: No se renombro el archivo con fecha 05102016, ya se renombro o no existe, pasando al siguiente archivo
+05-10-2016@09:36:51 INFO  (LiverpoolInsert.java:140)     - C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05102016.csv (El sistema no puede encontrar el archivo especificado)
+05-10-2016@09:36:51 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVC:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\underarmour\liverpool\486\liverpool_486_05102016.csv (El sistema no puede encontrar el archivo especificado)
+05-10-2016@09:36:51 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserción de portal Liverpool Cesarfer venta diaria
