@@ -1208,3 +1208,434 @@
 19-10-2016@11:03:58 INFO  (JuguetronInsert.java:138)     - C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\juguetron\juguetron_19102016.csv (El sistema no puede encontrar el archivo especificado)
 19-10-2016@11:03:58 INFO  (JuguetronInsert.java:118)     - LOAD: Error al executar archivo CSVC:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\juguetron\juguetron_19102016.csv (El sistema no puede encontrar el archivo especificado)
 19-10-2016@11:03:58 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:10:06 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:10:06 INFO  (Utileria.java:193)     - C:\Users\SISTEMA\Downloads\evolve-web-master\evolve-web-master\ProyectosJava\FilesData\spinmaster\juguetron
+03-11-2016@14:18:43 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:19:37 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:259)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:19:37 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:19:37 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_21102016
+03-11-2016@14:19:37 WARN  (JuguetronDownload.java:166)     - ERROR Logeo, Usuario y/o Password incorrectos 
+03-11-2016@14:25:06 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:259)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:25:06 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:25:06 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_21102016
+03-11-2016@14:25:06 WARN  (JuguetronDownload.java:166)     - ERROR Logeo, Usuario y/o Password incorrectos 
+03-11-2016@14:26:44 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:259)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:26:45 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:26:45 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_21102016
+03-11-2016@14:26:45 WARN  (JuguetronDownload.java:166)     - ERROR Logeo, Usuario y/o Password incorrectos 
+03-11-2016@14:27:16 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:259)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:27:17 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:27:17 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_21102016
+03-11-2016@14:27:17 WARN  (JuguetronDownload.java:166)     - ERROR Logeo, Usuario y/o Password incorrectos 
+03-11-2016@14:27:59 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:259)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:27:59 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:27:59 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_21102016
+03-11-2016@14:28:00 WARN  (JuguetronDownload.java:166)     - ERROR Logeo, Usuario y/o Password incorrectos 
+03-11-2016@14:28:11 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:259)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:28:11 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:28:11 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_21102016
+03-11-2016@14:28:12 WARN  (JuguetronDownload.java:166)     - ERROR Logeo, Usuario y/o Password incorrectos 
+03-11-2016@14:29:30 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:259)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:29:30 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:29:30 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_21102016
+03-11-2016@14:29:31 WARN  (JuguetronDownload.java:166)     - ERROR Logeo, Usuario y/o Password incorrectos 
+03-11-2016@14:40:40 INFO  (JuguetronDownload.java:71)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:259)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:40:40 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:40:40 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_21102016
+03-11-2016@14:40:49 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 21102016
+03-11-2016@14:40:54 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161021%2000000020161021%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:40:59 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:40:59 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:40:59 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:40:59 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_22102016
+03-11-2016@14:41:11 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 22102016
+03-11-2016@14:41:13 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161022%2000000020161022%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:41:18 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:41:18 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:41:18 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:41:18 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_23102016
+03-11-2016@14:41:31 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 23102016
+03-11-2016@14:41:32 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161023%2000000020161023%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:41:37 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:41:37 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:41:37 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:41:37 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_24102016
+03-11-2016@14:41:50 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 24102016
+03-11-2016@14:41:52 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161024%2000000020161024%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:41:57 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:41:57 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:41:57 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:41:57 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_25102016
+03-11-2016@14:42:09 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 25102016
+03-11-2016@14:42:11 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161025%2000000020161025%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:42:16 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:42:16 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:42:16 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:42:16 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_26102016
+03-11-2016@14:42:27 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 26102016
+03-11-2016@14:42:29 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161026%2000000020161026%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:42:34 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:42:34 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:42:34 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:42:34 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_27102016
+03-11-2016@14:42:47 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 27102016
+03-11-2016@14:42:49 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161027%2000000020161027%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:42:54 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:42:54 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:42:54 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:42:54 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_28102016
+03-11-2016@14:43:06 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 28102016
+03-11-2016@14:43:08 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161028%2000000020161028%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:43:13 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:43:13 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:43:13 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:43:13 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_29102016
+03-11-2016@14:43:26 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 29102016
+03-11-2016@14:43:28 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161029%2000000020161029%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:43:33 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:43:33 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:43:33 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:43:33 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_30102016
+03-11-2016@14:43:45 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 30102016
+03-11-2016@14:43:47 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161030%2000000020161030%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:43:52 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:43:52 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:43:52 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:43:52 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_31102016
+03-11-2016@14:44:05 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 31102016
+03-11-2016@14:44:07 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161031%2000000020161031%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:44:12 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:44:12 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:44:12 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:44:12 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_01112016
+03-11-2016@14:44:24 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 01112016
+03-11-2016@14:44:26 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161101%2000000020161101%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:44:31 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:44:31 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:44:31 INFO  (Utileria.java:460)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-11-2016@14:44:31 INFO  (JuguetronDownload.java:85)     - MAIN: Comienza descarga de archivo juguetron_02112016
+03-11-2016@14:44:44 INFO  (JuguetronDownload.java:171)     - Fecha de descarga: 02112016
+03-11-2016@14:44:46 INFO  (JuguetronDownload.java:186)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161102%2000000020161102%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+03-11-2016@14:44:51 INFO  (JuguetronDownload.java:372)     - Termina la descompresion del archivo Zip JuguetronProveedor.zip
+03-11-2016@14:44:51 INFO  (JuguetronDownload.java:395)     - [-]Se elimino archivo Zip de descarga JuguetronProveedor.zip
+03-11-2016@14:44:51 INFO  (JuguetronDownload.java:99)     - [-]Termina ejecuci髇 del portal Juguetron Spinmaster
+03-11-2016@14:44:51 INFO  (JuguetronInsert.java:47)     - INSERT; Se ejecuta Juguetron insert en cuenta: spinmaster
+03-11-2016@14:44:53 INFO  (JuguetronInsert.java:67)     - ultima fecha: 20102016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (Utileria.java:387)     - old date: Thu Nov 03 00:00:00 CDT 2016
+03-11-2016@14:44:53 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:44:53 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_21102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_21102016.csv
+03-11-2016@14:44:53 INFO  (Utileria.java:477)     - RENAME: El archivo 21102016 existe
+03-11-2016@14:44:53 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 21102016 correctamente cambiado
+03-11-2016@14:45:35 INFO  (JuguetronDownload.java:71)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:45:35 INFO  (JuguetronDownload.java:99)     - [-]Termina ejecuci髇 del portal Juguetron Spinmaster
+03-11-2016@14:45:35 INFO  (JuguetronInsert.java:47)     - INSERT; Se ejecuta Juguetron insert en cuenta: spinmaster
+03-11-2016@14:45:36 INFO  (JuguetronInsert.java:67)     - ultima fecha: 20102016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (Utileria.java:387)     - old date: Thu Nov 03 00:00:00 CDT 2016
+03-11-2016@14:45:36 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:45:36 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_21102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_21102016.csv
+03-11-2016@14:45:36 INFO  (Utileria.java:486)     - UTIL: No se renombro el archivo con fecha 21102016, ya se renombro o no existe, pasando al siguiente archivo
+03-11-2016@14:48:24 INFO  (JuguetronDownload.java:71)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:48:25 INFO  (JuguetronDownload.java:99)     - [-]Termina ejecuci髇 del portal Juguetron Spinmaster
+03-11-2016@14:48:25 INFO  (JuguetronInsert.java:47)     - INSERT; Se ejecuta Juguetron insert en cuenta: spinmaster
+03-11-2016@14:48:26 INFO  (JuguetronInsert.java:67)     - ultima fecha: 20102016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Fri Oct 21 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Sat Oct 22 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Sun Oct 23 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Mon Oct 24 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Tue Oct 25 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Wed Oct 26 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Thu Oct 27 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Fri Oct 28 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Sat Oct 29 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Sun Oct 30 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Mon Oct 31 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Tue Nov 01 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Wed Nov 02 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (Utileria.java:387)     - old date: Thu Nov 03 00:00:00 CDT 2016
+03-11-2016@14:48:26 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:26 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_21102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_21102016.csv
+03-11-2016@14:48:26 INFO  (Utileria.java:486)     - UTIL: No se renombro el archivo con fecha 21102016, ya se renombro o no existe, pasando al siguiente archivo
+03-11-2016@14:48:30 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:48:30 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:48:30 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:48:30 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-21' group BY x.id
+03-11-2016@14:48:30 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:48:30 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:30 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:30 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_22102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_22102016.csv
+03-11-2016@14:48:30 INFO  (Utileria.java:477)     - RENAME: El archivo 22102016 existe
+03-11-2016@14:48:30 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 22102016 correctamente cambiado
+03-11-2016@14:48:35 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:48:35 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:48:35 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:48:35 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-22' group BY x.id
+03-11-2016@14:48:35 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:48:35 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:35 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:35 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_23102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_23102016.csv
+03-11-2016@14:48:35 INFO  (Utileria.java:477)     - RENAME: El archivo 23102016 existe
+03-11-2016@14:48:35 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 23102016 correctamente cambiado
+03-11-2016@14:48:39 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:48:39 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:48:39 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:48:39 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-23' group BY x.id
+03-11-2016@14:48:39 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:48:39 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:39 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:39 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_24102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_24102016.csv
+03-11-2016@14:48:39 INFO  (Utileria.java:477)     - RENAME: El archivo 24102016 existe
+03-11-2016@14:48:39 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 24102016 correctamente cambiado
+03-11-2016@14:48:43 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:48:43 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:48:43 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:48:43 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-24' group BY x.id
+03-11-2016@14:48:43 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:48:43 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:43 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:43 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_25102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_25102016.csv
+03-11-2016@14:48:43 INFO  (Utileria.java:477)     - RENAME: El archivo 25102016 existe
+03-11-2016@14:48:43 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 25102016 correctamente cambiado
+03-11-2016@14:48:47 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:48:47 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:48:47 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:48:47 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-25' group BY x.id
+03-11-2016@14:48:47 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:48:47 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:47 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:47 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_26102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_26102016.csv
+03-11-2016@14:48:47 INFO  (Utileria.java:477)     - RENAME: El archivo 26102016 existe
+03-11-2016@14:48:47 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 26102016 correctamente cambiado
+03-11-2016@14:48:51 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:48:51 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:48:51 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:48:51 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-26' group BY x.id
+03-11-2016@14:48:51 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:48:51 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:51 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:51 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_27102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_27102016.csv
+03-11-2016@14:48:51 INFO  (Utileria.java:477)     - RENAME: El archivo 27102016 existe
+03-11-2016@14:48:51 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 27102016 correctamente cambiado
+03-11-2016@14:48:55 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:48:55 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:48:55 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:48:55 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-27' group BY x.id
+03-11-2016@14:48:55 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:48:55 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:55 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:55 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_28102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_28102016.csv
+03-11-2016@14:48:55 INFO  (Utileria.java:477)     - RENAME: El archivo 28102016 existe
+03-11-2016@14:48:55 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 28102016 correctamente cambiado
+03-11-2016@14:48:58 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:48:58 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:48:58 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:48:58 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-28' group BY x.id
+03-11-2016@14:48:58 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:48:58 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:58 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:48:58 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_29102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_29102016.csv
+03-11-2016@14:48:58 INFO  (Utileria.java:477)     - RENAME: El archivo 29102016 existe
+03-11-2016@14:48:58 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 29102016 correctamente cambiado
+03-11-2016@14:49:02 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:49:02 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:49:02 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:49:02 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-29' group BY x.id
+03-11-2016@14:49:02 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:49:02 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:02 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:02 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_30102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_30102016.csv
+03-11-2016@14:49:02 INFO  (Utileria.java:477)     - RENAME: El archivo 30102016 existe
+03-11-2016@14:49:02 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 30102016 correctamente cambiado
+03-11-2016@14:49:06 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:49:06 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:49:06 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:49:06 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-30' group BY x.id
+03-11-2016@14:49:06 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:49:06 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:06 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:06 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_31102016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_31102016.csv
+03-11-2016@14:49:06 INFO  (Utileria.java:477)     - RENAME: El archivo 31102016 existe
+03-11-2016@14:49:06 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 31102016 correctamente cambiado
+03-11-2016@14:49:10 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:49:10 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:49:10 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:49:10 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-10-31' group BY x.id
+03-11-2016@14:49:10 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:49:10 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:10 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:10 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_01112016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_01112016.csv
+03-11-2016@14:49:10 INFO  (Utileria.java:477)     - RENAME: El archivo 01112016 existe
+03-11-2016@14:49:10 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 01112016 correctamente cambiado
+03-11-2016@14:49:14 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:49:14 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:49:14 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:49:14 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-11-01' group BY x.id
+03-11-2016@14:49:14 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:49:14 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:14 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:14 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_02112016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_02112016.csv
+03-11-2016@14:49:14 INFO  (Utileria.java:477)     - RENAME: El archivo 02112016 existe
+03-11-2016@14:49:14 INFO  (Utileria.java:480)     - UTIL: Extencion de archivo juguetron con fecha 02112016 correctamente cambiado
+03-11-2016@14:49:18 INFO  (JuguetronInsert.java:210)     - LOAD: Registros de datos de CSV Juguetron Spinmaster a BD exitoso
+03-11-2016@14:49:18 INFO  (JuguetronInsert.java:246)     - INSERT: Comienza inserci髇 de datos Juguetron Spinmaster
+03-11-2016@14:49:18 INFO  (JuguetronInsert.java:259)     - Inserta concentradov spin
+03-11-2016@14:49:18 INFO  (JuguetronInsert.java:269)     - INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' FROM tempjuguetron x INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron WHERE x.fechaCreacion = '2016-11-02' group BY x.id
+03-11-2016@14:49:18 INFO  (JuguetronInsert.java:118)     - Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos.Unknown column 'x.ventasUni' in 'field list'
+03-11-2016@14:49:18 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:18 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:49:18 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_03112016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_03112016.csv
+03-11-2016@14:49:18 INFO  (Utileria.java:486)     - UTIL: No se renombro el archivo con fecha 03112016, ya se renombro o no existe, pasando al siguiente archivo
+03-11-2016@14:49:20 INFO  (JuguetronInsert.java:138)     - D:\DataRobots\spinmaster\juguetron\juguetron_03112016.csv (The system cannot find the file specified)
+03-11-2016@14:49:20 INFO  (JuguetronInsert.java:118)     - LOAD: Error al executar archivo CSVD:\DataRobots\spinmaster\juguetron\juguetron_03112016.csv (The system cannot find the file specified)
+03-11-2016@14:49:20 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:59:43 INFO  (JuguetronDownload.java:71)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@14:59:44 INFO  (JuguetronDownload.java:99)     - [-]Termina ejecuci髇 del portal Juguetron Spinmaster
+03-11-2016@14:59:44 INFO  (JuguetronInsert.java:47)     - INSERT; Se ejecuta Juguetron insert en cuenta: spinmaster
+03-11-2016@14:59:45 INFO  (JuguetronInsert.java:67)     - ultima fecha: 02112016
+03-11-2016@14:59:45 INFO  (Utileria.java:387)     - old date: Thu Nov 03 00:00:00 CDT 2016
+03-11-2016@14:59:45 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@14:59:45 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_03112016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_03112016.csv
+03-11-2016@14:59:45 INFO  (Utileria.java:486)     - UTIL: No se renombro el archivo con fecha 03112016, ya se renombro o no existe, pasando al siguiente archivo
+03-11-2016@14:59:47 INFO  (JuguetronInsert.java:138)     - D:\DataRobots\spinmaster\juguetron\juguetron_03112016.csv (The system cannot find the file specified)
+03-11-2016@14:59:47 INFO  (JuguetronInsert.java:118)     - LOAD: Error al executar archivo CSVD:\DataRobots\spinmaster\juguetron\juguetron_03112016.csv (The system cannot find the file specified)
+03-11-2016@14:59:47 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@15:02:58 INFO  (JuguetronDownload.java:71)     - MAIN: Se ejecuta Juguetron spinmaster
+03-11-2016@15:02:58 INFO  (JuguetronDownload.java:99)     - [-]Termina ejecuci髇 del portal Juguetron Spinmaster
+03-11-2016@15:02:58 INFO  (JuguetronInsert.java:47)     - INSERT; Se ejecuta Juguetron insert en cuenta: spinmaster
+03-11-2016@15:02:59 INFO  (JuguetronInsert.java:67)     - ultima fecha: 02112016
+03-11-2016@15:02:59 INFO  (Utileria.java:387)     - old date: Thu Nov 03 00:00:00 CDT 2016
+03-11-2016@15:02:59 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserci髇 de portal Juguetron Spinmaster venta diaria
+03-11-2016@15:02:59 INFO  (Utileria.java:474)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_03112016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_03112016.csv
+03-11-2016@15:02:59 INFO  (Utileria.java:486)     - UTIL: No se renombro el archivo con fecha 03112016, ya se renombro o no existe, pasando al siguiente archivo
+03-11-2016@15:03:01 INFO  (JuguetronInsert.java:138)     - D:\DataRobots\spinmaster\juguetron\juguetron_03112016.csv (The system cannot find the file specified)
+03-11-2016@15:03:01 INFO  (JuguetronInsert.java:118)     - LOAD: Error al executar archivo CSVD:\DataRobots\spinmaster\juguetron\juguetron_03112016.csv (The system cannot find the file specified)
+03-11-2016@15:03:01 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersi髇 de portal Juguetron Spinmaster venta diaria

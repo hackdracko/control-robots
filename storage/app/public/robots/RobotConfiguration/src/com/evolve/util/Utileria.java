@@ -188,9 +188,9 @@ public class Utileria {
     public ArrayList<String> getDatesFromLastReportFileFormat(String format) {
     	Configurations config = new Configurations(cuenta);
     	//obtenemos la ruta de los archivos bajados
-    	String pathFiles = "C:\\Users\\SISTEMA\\Downloads\\evolve-web-master\\evolve-web-master\\ProyectosJava\\FilesData\\"+cuenta+"\\"+portal;
-    	//String pathFiles = config.getPathFolderData()+"\\"+portal;
-    	log.info(pathFiles);
+    	//String pathFiles = "C:\\Users\\SISTEMA\\Downloads\\evolve-web-master\\evolve-web-master\\ProyectosJava\\FilesData\\"+cuenta+"\\"+portal;
+    	String pathFiles = config.getPathFolderData()+"\\"+portal;
+    	//log.info(pathFiles);
     	//Obteniendo el listado de nombres de archivos ordernados por fecha
     	File folder = new File(pathFiles);
     	File[] listOfFiles = folder.listFiles();

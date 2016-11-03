@@ -10,7 +10,7 @@ public class Configurations {
 	
 	public Configurations(String cuenta) {				
 		CUENTA = cuenta;		
-		ENVIROMENT = "development";
+		ENVIROMENT = "production";
 	}
 	
 	public String getEnviroment() {
@@ -28,7 +28,7 @@ public class Configurations {
 	
 	public String getPathFolderData() {
 		String pathDev = "C:\\Users\\SISTEMA\\Downloads\\evolve-web-master\\evolve-web-master\\ProyectosJava\\FilesData\\"+CUENTA+"\\";
-		String pathProd = "D:\\"+CUENTA+"DataRobots\\";
+		String pathProd = "D:\\DataRobots\\"+CUENTA+"\\";
 		
 		if (ENVIROMENT == "development")
 			return pathDev;
@@ -64,6 +64,7 @@ public class Configurations {
 			
 			case "spinmaster":
 				JDBC_CONNECTION_URL = "jdbc:mysql://localhost:3306/cuboSpinMaster?useUnicode=true&amp;characterEncoding=UTF-8";				
+				System.out.println(JDBC_CONNECTION_URL);
 				if (ENVIROMENT == "development") 
 					JDBC_PASSWORD = "";
 				else 

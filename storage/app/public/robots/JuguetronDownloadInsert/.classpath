@@ -5,8 +5,8 @@
 	<classpathentry kind="lib" path="lib/log4j-1.2.13.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/RobotConfiguration"/>
 	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.23-bin.jar"/>
-	<classpathentry kind="lib" path="lib/opencsv-2.4.jar"/>
 	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
-	<classpathentry kind="lib" path="lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/control-robots/storage/app/public/robots/LiverpoolDownloadInsert/lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/control-robots/storage/app/public/robots/LiverpoolDownloadInsert/lib/opencsv-2.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

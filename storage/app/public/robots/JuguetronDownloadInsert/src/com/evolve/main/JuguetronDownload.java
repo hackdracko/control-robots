@@ -64,8 +64,6 @@ public class JuguetronDownload {
 		profile.setPreference("browser.download.manager.useWindow", false);
 		profile.setPreference("services.sync.prefs.sync.browser.download.manager.showWhenStarting", false);
 		profile.setPreference("pdfjs.disabled", true);
-		
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\SISTEMA\\Downloads\\geckodriver-v0.10.0-win64\\geckodriver.exe");
 
 		WebDriver driver = new FirefoxDriver(profile);
 		JavascriptExecutor jse = (JavascriptExecutor) driver;

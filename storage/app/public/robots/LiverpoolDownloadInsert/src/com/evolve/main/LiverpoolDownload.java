@@ -36,7 +36,7 @@ import com.mysql.jdbc.Statement;
 public class LiverpoolDownload {
 		
 	static String portal = "liverpool";
-	static String cuenta;
+	static String cuenta, seccion;
 	static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(LiverpoolDownload.class);
 	static Configurations config;
 	static Properties prop = new Properties();
@@ -45,6 +45,7 @@ public class LiverpoolDownload {
 	public static void main(String[] args) {		
 		
 		cuenta = args[0];
+		seccion = args[1];
 		config = new Configurations(cuenta);
 		util = new Utileria(portal, cuenta);		
 		
@@ -70,7 +71,7 @@ public class LiverpoolDownload {
                 	log.info("MAIN: Comienza descarga de archivo " + filePrefix + oldDates.get(k));
                 	util.insertLog(cuenta, portal, "Download - Main: Comienza descarga de archivo", "success");
                     driver.manage().window().maximize();
-                    accessLiverpool(driver, jse, oldDates.get(k), counter);
+                    accessLiverpool(driver, jse, oldDates.get(k), counter, seccion);
                     counter ++;
                     
                 } 
@@ -97,7 +98,7 @@ public class LiverpoolDownload {
         }
 	}
 	
-	public static void accessLiverpool(WebDriver driver, JavascriptExecutor jse, String fecha, int count) throws FileNotFoundException, UnsupportedEncodingException {
+	public static void accessLiverpool(WebDriver driver, JavascriptExecutor jse, String fecha, int count, String seccion) throws FileNotFoundException, UnsupportedEncodingException {
 
 		int indPortalEjec = 0;     
         String user="", pass="", urlLogin, filePrefix;
@@ -156,8 +157,8 @@ public class LiverpoolDownload {
                     driver.get("https://bwsext.liverpool.com.mx/sap/bw/BEx?sap-language=es&sap-client=400&accessibility=&style_sheet=&TEMPLATE_ID=BWR_VTAS_POR_DIA_PROV");
                     TimeUnit.SECONDS.sleep(2);
                     
-                    WebElement seccion = driver.findElement(By.xpath("/html/body/form/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td/input"));
-                    seccion.sendKeys("424");
+                    WebElement seccionWeb = driver.findElement(By.xpath("/html/body/form/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td/input"));
+                    seccionWeb.sendKeys(seccion);
                     
                     driver.findElement(By.xpath("/html/body/form/table/tbody/tr/td/table/tbody/tr[5]/td"
                             + "/table/tbody/tr[1]/td[2]/table/tbody/tr/td/table/tbody/tr/td/a/nobr")).click();
