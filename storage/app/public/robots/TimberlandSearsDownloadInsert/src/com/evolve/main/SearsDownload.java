@@ -3,9 +3,7 @@ package com.evolve.main;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -22,8 +20,6 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipInputStream;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -44,7 +40,7 @@ import com.mysql.jdbc.Statement;
 public class SearsDownload {
 
 	static String portal = "sears";
-	static String cuenta;
+	static String cuenta, fechainicial, fechafinal;
 	static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(SearsDownload.class);
 	static Configurations config;
 	static Properties prop = new Properties();
@@ -53,6 +49,8 @@ public class SearsDownload {
 	public static void main(String[] args) {
 
 		cuenta = args[0];
+		fechainicial = args[1];
+		fechafinal = args[2];
 		config = new Configurations(cuenta);
 		util = new Utileria(portal, cuenta);
 		
@@ -86,7 +84,7 @@ public class SearsDownload {
 		try {
 
 			String filePrefix = prop.getProperty(portal + ".prefix");
-			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy");
+			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy", fechainicial, fechafinal);
 
 			int counter = 1;
 			for (int k = 0; k < oldDates.size(); k++) {

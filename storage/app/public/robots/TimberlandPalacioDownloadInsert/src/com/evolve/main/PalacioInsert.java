@@ -40,10 +40,10 @@ public class PalacioInsert {
 		connection = config.getConnection();				
 	}
 	
-	public static void insertarBD(String cuenta) {
+	public static void insertarBD(String cuenta, String seccion, String finicial, String ffinal) {
 		
 		setGlobalParams(cuenta);
-		
+		String nameSeccion = null;
 		log.info("INSERT; Se ejecuta Palacio insert en cuenta: "+cuenta);
 		util.insertLog(cuenta, portal, "Insert - insertarBD: insertando en bd", "success");
 		
@@ -52,11 +52,9 @@ public class PalacioInsert {
 		Statement s;
 		try {						
 			s = (Statement) connection.createStatement();
-			ResultSet rs = s.executeQuery ("SELECT date_format(fechaArchivo, '%Y-%m-%d') AS fecha FROM tempph GROUP BY fechaArchivo ORDER BY fechaArchivo DESC LIMIT 1 ;");
+			ResultSet rs = s.executeQuery ("SELECT DATE_FORMAT(fechaArchivo, '%Y-%m-%d') AS fecha FROM tempph WHERE seccion = '" + seccion + "' GROUP BY fechaArchivo ORDER BY fechaArchivo DESC LIMIT 1 ;");
 			rs.next();
 			ultimaFecha = rs.getString("fecha");
-			//ultimaFecha = "2015-12-31";
-			log.info(ultimaFecha);
 			
 			//formateando la fecha obtenida
 			String[] split = ultimaFecha.split("-");
@@ -74,9 +72,21 @@ public class PalacioInsert {
                 util.insertLog(cuenta, portal, "Insert - insertarBD: Comiensa inserción portal", "success");
                 
                 String fecha = oldDates.get(k);
-                util.renameFile(fecha, config);
+                if(seccion.equals("1")){
+                	nameSeccion = "NINOS";
+                }
+                if(seccion.equals("2")){
+                	nameSeccion = "NINAS";
+                }
+                if(seccion.equals("3")){
+                	nameSeccion = "CALZADO+BRIDGE";
+                }
+                if(seccion.equals("4")){
+                	nameSeccion = "CALZADO+CABALLEROS+Y+ACCESORIOS";
+                }
+                util.renameFileSeccionPalacioHierro(fecha, config, nameSeccion);
                 
-                readDataPalacioCesarfer(fecha);
+                readDataPalacioCesarfer(fecha, seccion);
                 log.info("[-]Termina inserción de portal Palacio Cesarfer venta diaria");
                 util.insertLog(cuenta, portal, "Insert - insertarBD: Termina Inserción en BD", "success");
             } catch (Exception e) {
@@ -85,20 +95,34 @@ public class PalacioInsert {
         }
 	}
 	
-	public static void readDataPalacioCesarfer(String fecha) {
+	public static void readDataPalacioCesarfer(String fecha, String seccion) {
 		String pathFiles = config.getPathFolderData();		
 		Properties prop = util.getPropertiesPortal();
+		String nameSeccion = null;
 		
         try {
             
             TimeUnit.SECONDS.sleep(2);
-            String[] headerRow = {"id", "fecha", "fechaarchivo", "fechacarga", "ano", "costoarticulo", "anotemporada", "canaldist", "centro", "clase", "cvecanaldist", "cvecentro", "cveclase", "cvecomprador", "cvedepartamento", "cvedivision", "cvegpoarticulos", "cvenegocio", "cveproveedor", "cvesubclase", "comprador", "departamento", "dia", "diasemana", "division", "gpoarticulos", "jerarquia", "marca", "marcaspropias", "mes", "mesano", "negocio", "proveedor", "resurtible", "semana", "subclase", "temporada", "tipostock", "trimestre", "cuponesrtl", "descuentoempleadortl", "devolucionventartl", "devolucionventaum", "rebajasmanualesrtl", "rebajasautortl", "ssmvendidortl", "ventanetacto", "ventanetaum", "ventanetacupones", "cvearticulo", "articulo", "estilo", "cfmsi", "upc", "talla", "color", "fechaprimeraentrada", "fechaultimaentrada", "bigticket", "cveestatus", "centrocomparable", "precioventacatalogo", "cvetipoarticulo", "area", "cvearea", "cvemarca", "cvemarcaspropias", "cveestilo", "cvetalla", "cvecolor", "cvebigticket", "compatibilidadcentro", "cvetalla2", "talla2", "estatus", "cvetipostock", "tipoarticulo", "modelo", "l01estilogpocompras", "l01gpocomprastechname"};
+            String[] headerRow = {"id", "fecha", "fechaarchivo", "fechacarga", "seccion", "ano", "costoarticulo", "anotemporada", "canaldist", "centro", "clase", "cvecanaldist", "cvecentro", "cveclase", "cvecomprador", "cvedepartamento", "cvedivision", "cvegpoarticulos", "cvenegocio", "cveproveedor", "cvesubclase", "comprador", "departamento", "dia", "diasemana", "division", "gpoarticulos", "jerarquia", "marca", "marcaspropias", "mes", "mesano", "negocio", "proveedor", "resurtible", "semana", "subclase", "temporada", "tipostock", "trimestre", "cuponesrtl", "descuentoempleadortl", "devolucionventartl", "devolucionventaum", "rebajasmanualesrtl", "rebajasautortl", "ssmvendidortl", "ventanetacto", "ventanetaum", "ventanetacupones", "cvearticulo", "articulo", "estilo", "cfmsi", "upc", "talla", "color", "fechaprimeraentrada", "fechaultimaentrada", "bigticket", "cveestatus", "centrocomparable", "precioventacatalogo", "cvetipoarticulo", "area", "cvearea", "cvemarca", "cvemarcaspropias", "cveestilo", "cvetalla", "cvecolor", "cvebigticket", "compatibilidadcentro", "cvetalla2", "talla2", "estatus", "cvetipostock", "tipoarticulo", "modelo", "l01estilogpocompras", "l01gpocomprastechname"};
             Boolean isDoble = false;
             
-            String urlFile = pathFiles+portal+"\\"+prop.getProperty(portal+".prefix")+fecha + ".csv";
+            if(seccion.equals("1")){
+            	nameSeccion = "NINOS";
+            }
+            if(seccion.equals("2")){
+            	nameSeccion = "NINAS";
+            }
+            if(seccion.equals("3")){
+            	nameSeccion = "CALZADO+BRIDGE";
+            }
+            if(seccion.equals("4")){
+            	nameSeccion = "CALZADO+CABALLEROS+Y+ACCESORIOS";
+            }
+            
+            String urlFile = pathFiles+portal+"\\"+nameSeccion+"\\"+prop.getProperty(portal+".prefix")+fecha + ".csv";
             File csvFile = new File(urlFile);
             
-            loadCSVPalacioCesarfer(urlFile, "tempph", true, headerRow, isDoble, fecha);
+            loadCSVPalacioCesarfer(urlFile, "tempph", true, headerRow, isDoble, fecha, seccion);
             insertDataPalacioCesarfer(fecha);
             
             //insertando log de archivos subidos
@@ -110,7 +134,7 @@ public class PalacioInsert {
     }
 	
 	@SuppressWarnings("resource")
-	public static void loadCSVPalacioCesarfer(String csvFile, String tableName, boolean truncateBeforeLoad, String[] headerRow, boolean isDoble, String fecha) throws Exception {
+	public static void loadCSVPalacioCesarfer(String csvFile, String tableName, boolean truncateBeforeLoad, String[] headerRow, boolean isDoble, String fecha, String seccion) throws Exception {
 		String SQL_INSERT = "INSERT INTO ${table}(${keys}) VALUES(${values})";
 	    String TABLE_REGEX = "\\$\\{table\\}";
 	    String KEYS_REGEX = "\\$\\{keys\\}";
@@ -173,21 +197,23 @@ public class PalacioInsert {
             while ((nextLine = csvReader.readNext()) != null) {
 
                 if (null != nextLine) {
-                    int index = 5;
+                    int index = 6;
                     for (String string : nextLine) {
                         ps.setString(1, null);
                         ps.setString(2, fechaNueva);
                         ps.setString(3, fechaNueva);
                         ps.setString(4, fechaSistema);
-                        ps.setString(15, "0");
+                        ps.setString(5, seccion);
+                        //ps.setString(16, "0");
 
                         if (string.isEmpty()) {
                             string = "0";
                         }
-                        
-                        //System.out.println(ps);
+                        if(string.contains("'")){
+                        	string = string.replaceAll("'", "");
+                        }
                         //System.out.println(index);
-                        if(index < 81){
+                        if(index < 82){
                         	ps.setString(index++, string);
                         }
                     }

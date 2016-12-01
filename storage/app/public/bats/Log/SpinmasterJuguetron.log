@@ -1,0 +1,35 @@
+01-12-2016@14:52:22 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+01-12-2016@14:52:22 INFO  (Utileria.java:257)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@14:52:22 INFO  (Utileria.java:522)     - CHECKEXIST: Archivo no encontrado...comienza la generaciÃ³n/descarga del link/archivo
+01-12-2016@14:52:22 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_30112016
+01-12-2016@14:52:40 INFO  (JuguetronDownload.java:166)     - Fecha de descarga: 30112016
+01-12-2016@14:52:40 INFO  (JuguetronDownload.java:181)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161130%2000000020161130%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+01-12-2016@14:52:45 INFO  (JuguetronDownload.java:101)     - [-]Termina ejecución del portal Juguetron Spinmaster
+01-12-2016@14:52:45 INFO  (JuguetronInsert.java:47)     - INSERT; Se ejecuta Juguetron insert en cuenta: spinmaster
+01-12-2016@14:52:52 INFO  (JuguetronInsert.java:67)     - ultima fecha: 29112016
+01-12-2016@14:52:52 INFO  (Utileria.java:449)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@14:52:52 INFO  (Utileria.java:449)     - old date: Thu Dec 01 00:00:00 CST 2016
+01-12-2016@14:52:52 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserción de portal Juguetron Spinmaster venta diaria
+01-12-2016@14:52:52 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_30112016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_30112016.csv
+01-12-2016@14:52:52 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 30112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@14:52:54 INFO  (JuguetronInsert.java:138)     - D:\DataRobots\spinmaster\juguetron\juguetron_30112016.csv (The system cannot find the file specified)
+01-12-2016@14:52:54 INFO  (JuguetronInsert.java:118)     - LOAD: Error al executar archivo CSVD:\DataRobots\spinmaster\juguetron\juguetron_30112016.csv (The system cannot find the file specified)
+01-12-2016@14:52:54 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersión de portal Juguetron Spinmaster venta diaria
+01-12-2016@14:52:54 INFO  (JuguetronInsert.java:73)     - INSERT: Comienza inserción de portal Juguetron Spinmaster venta diaria
+01-12-2016@14:52:54 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\spinmaster\juguetron\juguetron_01122016.txt a D:\DataRobots\spinmaster\juguetron\juguetron_01122016.csv
+01-12-2016@14:52:54 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 01122016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@14:52:56 INFO  (JuguetronInsert.java:138)     - D:\DataRobots\spinmaster\juguetron\juguetron_01122016.csv (The system cannot find the file specified)
+01-12-2016@14:52:56 INFO  (JuguetronInsert.java:118)     - LOAD: Error al executar archivo CSVD:\DataRobots\spinmaster\juguetron\juguetron_01122016.csv (The system cannot find the file specified)
+01-12-2016@14:52:56 INFO  (JuguetronInsert.java:78)     - INSERT: Termina insersión de portal Juguetron Spinmaster venta diaria
+01-12-2016@14:53:56 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+01-12-2016@14:53:56 INFO  (Utileria.java:257)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@14:53:56 INFO  (Utileria.java:522)     - CHECKEXIST: Archivo no encontrado...comienza la generaciÃ³n/descarga del link/archivo
+01-12-2016@14:53:56 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_30112016
+01-12-2016@14:54:09 INFO  (JuguetronDownload.java:166)     - Fecha de descarga: 30112016
+01-12-2016@14:54:09 INFO  (JuguetronDownload.java:181)     - http://kpionline5.bitam.com/fbm/mqcvs.php?query=juguetronProveedor.sql&where=20161130%2000000020161130%200000001195&file=JuguetronProveedor.csv&server=kpionline9.bitam.com:3306&dbname=fbm_dwh_1491&artuspath=gen8
+01-12-2016@14:54:14 INFO  (JuguetronDownload.java:101)     - [-]Termina ejecución del portal Juguetron Spinmaster
+01-12-2016@14:54:15 INFO  (JuguetronInsert.java:47)     - INSERT; Se ejecuta Juguetron insert en cuenta: spinmaster
+01-12-2016@14:54:24 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+01-12-2016@14:54:24 INFO  (Utileria.java:257)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@14:54:24 INFO  (Utileria.java:522)     - CHECKEXIST: Archivo no encontrado...comienza la generaciÃ³n/descarga del link/archivo
+01-12-2016@14:54:24 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_30112016

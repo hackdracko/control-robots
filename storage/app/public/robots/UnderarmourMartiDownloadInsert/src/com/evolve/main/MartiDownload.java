@@ -3,9 +3,7 @@ package com.evolve.main;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -18,8 +16,6 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipInputStream;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -35,7 +31,7 @@ import com.mysql.jdbc.Statement;
 public class MartiDownload {
 
 	static String portal = "marti";
-	static String cuenta;
+	static String cuenta, finicial, ffinal;
 	static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(MartiDownload.class);
 	static Configurations config;
 	static Properties prop = new Properties();
@@ -44,6 +40,8 @@ public class MartiDownload {
 	public static void main(String[] args) {
 
 		cuenta = args[0];
+		finicial = args[1];
+		ffinal = args[2];
 		config = new Configurations(cuenta);
 		util = new Utileria(portal, cuenta);
 		
@@ -64,20 +62,18 @@ public class MartiDownload {
 		profile.setPreference("browser.download.manager.useWindow", false);
 		profile.setPreference("services.sync.prefs.sync.browser.download.manager.showWhenStarting", false);
 		profile.setPreference("pdfjs.disabled", true);
-		
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\SISTEMA\\Downloads\\geckodriver-v0.10.0-win64\\geckodriver.exe");
 
 		WebDriver driver = new FirefoxDriver(profile);
 		JavascriptExecutor jse = (JavascriptExecutor) driver;
 
-		log.info("MAIN: Se ejecuta Juguetron " + cuenta);
+		log.info("MAIN: Se ejecuta Marti " + cuenta);
 		util.insertLog(cuenta, portal, "Download - Main: Se ejecuta Marti", "success");
 		prop = util.getPropertiesPortal();
 
 		try {
 
 			String filePrefix = prop.getProperty(portal + ".prefix");
-			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy");
+			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy", finicial, ffinal);
 
 			int counter = 1;
 			for (int k = 0; k < oldDates.size(); k++) {
@@ -106,8 +102,8 @@ public class MartiDownload {
 			MartiInsert.insertarBD(cuenta);
 
 		} catch (FileNotFoundException | UnsupportedEncodingException e) {
-			log.error("[-]Error al ejecutar Liverpool Cesarfer " + e.getMessage());
-			util.insertLog(cuenta, portal, "Download - Main: Error al ejecutar liverpool", "error");
+			log.error("[-]Error al ejecutar Marti Underarmour " + e.getMessage());
+			util.insertLog(cuenta, portal, "Download - Main: Error al ejecutar Marti", "error");
 		} catch (InterruptedException ex) {
 			Logger.getLogger(MartiDownload.class.getName()).log(Level.SEVERE, null, ex);
 		}
@@ -136,13 +132,13 @@ public class MartiDownload {
 		} catch (SQLException e) {
 			e.printStackTrace();
 			util.insertLog(cuenta, portal,
-					"GenerateLink - accessJuguetron: ERROR Logeo, Usuario y/o Password incorrectos", "error");
-			System.exit(0);
+					"GenerateLink - accessMarti: ERROR Logeo, Usuario y/o Password incorrectos", "error");
 			driver.quit();
+			System.exit(0);
 		}
 		
 		urlLogin = prop.getProperty(portal + ".urlLogin");
-		System.out.println("--------"+urlLogin);
+		//System.out.println("--------"+urlLogin);
 
 		try {
 			if (indPortalEjec == 1) {
@@ -221,9 +217,9 @@ public class MartiDownload {
 			}
 
 		} catch (Exception e) {
-			log.error("[¡] error al escribir archivo Liverpool " + e.getMessage());
+			log.error("[¡] error al escribir archivo UnderArmour Marti " + e.getMessage());
 			util.insertLog(cuenta, portal,
-					"Download - writeLiverpoolFile: Error al escribir archivo Liverpool " + e.getMessage(), "error");
+					"Download - writeUnderArmour Marti: Error al escribir archivo UnderArmour Marti " + e.getMessage(), "error");
 		}
 	}
 
@@ -240,7 +236,7 @@ public class MartiDownload {
 		} catch (Exception e) {
 			log.error("WRITEFILE: Error al generar archivo de datos " + e.getMessage());
 			util.insertLog(cuenta, portal,
-					"Download - writeFile: Error al escribir archivo Liverpool " + e.getMessage(), "error");
+					"Download - writeFile: Error al escribir archivo UnderArmour Marti " + e.getMessage(), "error");
 		} finally {
 			try {
 				if (null != fichero) {

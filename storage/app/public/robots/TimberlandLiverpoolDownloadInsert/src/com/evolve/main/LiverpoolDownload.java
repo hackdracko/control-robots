@@ -40,9 +40,9 @@ public class LiverpoolDownload {
 	static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(LiverpoolDownload.class);
 	static Configurations config;
 	static Properties prop = new Properties();
-	static Utileria util;	
+	static Utileria util;
 	
-	public static void main(String[] args) {		
+	public static void main(String[] args) {
 		
 		cuenta = args[0];
 		seccion = args[1];
@@ -63,7 +63,7 @@ public class LiverpoolDownload {
         try {
 
         	String filePrefix = prop.getProperty(portal+".prefix");									
-			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormatSeccion("ddMMyyyy", seccion);
+			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormatSeccion("ddMMyyyy", seccion, finicial, ffinal);
             
             int counter = 1;
             for(int k=0; k < oldDates.size();k++) {

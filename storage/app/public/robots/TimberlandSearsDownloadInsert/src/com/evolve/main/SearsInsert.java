@@ -188,9 +188,11 @@ public class SearsInsert {
                         ps.setString(3, fechaNueva);
                         ps.setString(4, fechaSistema);
                         ps.setString(5, "0");
-                        
+                                               
+                        if(string.contains(",")){
+                        	string = string.replaceAll(",", "");
+                        }
                         if(string.length() == 1){
-                        	//System.out.println("tamaño de uno");
                         	char c = string.charAt(0);
                         	int ascii = (int) c;
                         	//System.out.println("el ascci del espacio " + ascii);
@@ -198,7 +200,6 @@ public class SearsInsert {
                         		string = "0";
                         	}
                         }
-                       
                         
                         if (string.isEmpty() || string.equals(" ")) {
                             string = "0";

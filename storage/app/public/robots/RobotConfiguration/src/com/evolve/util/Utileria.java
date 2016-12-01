@@ -185,14 +185,13 @@ public class Utileria {
      * en formato definido por el usuario
      * @return ArrayList
      */
-    public ArrayList<String> getDatesFromLastReportFileFormat(String format) {
+    public ArrayList<String> getDatesFromLastReportFileFormat(String format, String fechainicial, String fechafinal) {
     	Configurations config = new Configurations(cuenta);
     	//obtenemos la ruta de los archivos bajados
     	//String pathFiles = "C:\\Users\\SISTEMA\\Downloads\\evolve-web-master\\evolve-web-master\\ProyectosJava\\FilesData\\"+cuenta+"\\"+portal;
     	String pathFiles = config.getPathFolderData()+"\\"+portal;
-    	//log.info(pathFiles);
     	//Obteniendo el listado de nombres de archivos ordernados por fecha
-    	File folder = new File(pathFiles);
+    	/*File folder = new File(pathFiles);
     	File[] listOfFiles = folder.listFiles();
     	Arrays.sort(listOfFiles, new Comparator<Object>() {
     	    public int compare(Object o1, Object o2) {
@@ -215,10 +214,9 @@ public class Utileria {
     	String temp = token.nextToken();
     	temp = token.nextToken();
     	token = new StringTokenizer(temp, ".");
-    	String fecha = token.nextToken();
-    	//System.out.println("------"+fecha);
-    	//System.exit(0);
-    	//String fecha = "31052016";
+    	String fecha = token.nextToken();*/
+    	
+    	String fecha = fechainicial;
     	
     	//Obteniendo los dias entre la ultima fecha de reporte y la fecha actual
     	SimpleDateFormat sdf = new SimpleDateFormat(format);    	    	      
@@ -238,9 +236,8 @@ public class Utileria {
         calendar1.setTime(oldDate);
           
         //seteando la fecha actual
-        String cd = sdf.format(calendar2.getTime());
-        //String cd = "01092016";
-        //System.out.println("<<<<<<<>>>> "+cd);
+        //String cd = sdf.format(calendar2.getTime());
+        String cd = fechafinal;
         Date currentDate = null;
 		try {
 			currentDate = sdf.parse(cd);
@@ -251,57 +248,37 @@ public class Utileria {
         calendar2.setTime(currentDate);                                       
         
         //obteniendo el rango de dias
-        int dias = daysBetween(calendar1.getTime(), calendar2.getTime());           
+        int dias = daysBetween(calendar1.getTime(), calendar2.getTime());
         
-        ArrayList<String> oldDates = new ArrayList<>();        
+        ArrayList<String> oldDates = new ArrayList<>();
+        ArrayList<String> oldDatesList = new ArrayList<>();
         for (int i = 0; i < dias; i++) {
             calendar1.add(Calendar.DATE, +1);
             log.info("old date: " + calendar1.getTime());
             oldDates.add(sdf.format(calendar1.getTime()));
         }
-        return oldDates;
+        for(String dateExist: oldDates){
+        	File fcsv = new File(pathFiles+"\\"+portal+"_"+dateExist+".csv");
+        	File ftxt = new File(pathFiles+"\\"+portal+"_"+dateExist+".txt");
+        	if((fcsv.exists() && !fcsv.isDirectory()) || (ftxt.exists() && !ftxt.isDirectory())) { 
+        		System.out.println("El archivo ya existe "+dateExist);
+        	}else{
+        		oldDatesList.add(dateExist);
+        	}
+        }
+        System.out.println("Fechas "+oldDatesList);
+        return oldDatesList;
     }
-    
     /**
      * Regresa un array con las fechas a generar el link de a cuerdo al ultimo reporte bajado
      * en formato definido por el usuario
      * @return ArrayList
      */
-    public ArrayList<String> getDatesFromLastReportFileFormatSeccion(String format, String seccion) {
+    public ArrayList<String> getDatesFromLastReportFileFormatPalacio(String format, String fechainicial, String fechafinal, String seccion) {
     	Configurations config = new Configurations(cuenta);
-    	//obtenemos la ruta de los archivos bajados
-    	String pathFiles = "C:\\Users\\SISTEMA\\Downloads\\evolve-web-master\\evolve-web-master\\ProyectosJava\\FilesData\\"+cuenta+"\\"+portal+"\\"+seccion;
-    	//String pathFiles = config.getPathFolderData()+"\\"+portal;
-    	log.info(pathFiles);
-    	//Obteniendo el listado de nombres de archivos ordernados por fecha
-    	File folder = new File(pathFiles);
-    	File[] listOfFiles = folder.listFiles();
-    	Arrays.sort(listOfFiles, new Comparator<Object>() {
-    	    public int compare(Object o1, Object o2) {
-
-    	        if (((File)o1).lastModified() > ((File)o2).lastModified()) {
-    	            return +1;
-    	        } else if (((File)o1).lastModified() < ((File)o2).lastModified()) {
-    	            return -1;
-    	        } else {
-    	            return 0;
-    	        }
-    	    }
-    	});     	
+    	String pathFiles = config.getPathFolderData()+"\\"+portal;
+    	String fecha = fechainicial;
     	
-    	//Obtniendo el nombre del ultimo archivo bajado
-    	String fileName = listOfFiles[listOfFiles.length-1].getName();
-    	
-    	//Extrayendo la fecha del archivo
-    	StringTokenizer token = new StringTokenizer(fileName, "_");
-    	String[] split = fileName.split("_");
-    	String temp = token.nextToken();
-    	token = new StringTokenizer(temp, ".");
-    	String fecha = split[2];
-    	//System.out.println("------"+fecha);
-    	//System.exit(0);
-    	//String fecha = "31052016";
-    	    	
     	//Obteniendo los dias entre la ultima fecha de reporte y la fecha actual
     	SimpleDateFormat sdf = new SimpleDateFormat(format);    	    	      
         
@@ -320,9 +297,8 @@ public class Utileria {
         calendar1.setTime(oldDate);
           
         //seteando la fecha actual
-        String cd = sdf.format(calendar2.getTime());
-        //String cd = "01092016";
-        //System.out.println("<<<<<<<>>>> "+cd);
+        //String cd = sdf.format(calendar2.getTime());
+        String cd = fechafinal;
         Date currentDate = null;
 		try {
 			currentDate = sdf.parse(cd);
@@ -335,13 +311,99 @@ public class Utileria {
         //obteniendo el rango de dias
         int dias = daysBetween(calendar1.getTime(), calendar2.getTime());           
         
-        ArrayList<String> oldDates = new ArrayList<>();        
+        ArrayList<String> oldDates = new ArrayList<>();
+        ArrayList<String> oldDatesList = new ArrayList<>();
         for (int i = 0; i < dias; i++) {
             calendar1.add(Calendar.DATE, +1);
             log.info("old date: " + calendar1.getTime());
             oldDates.add(sdf.format(calendar1.getTime()));
         }
-        return oldDates;
+        String nameSeccion = null;
+        if(seccion.equals("1")){
+        	nameSeccion = "NINOS";
+        }
+        if(seccion.equals("2")){
+        	nameSeccion = "NINAS";
+        }
+        if(seccion.equals("3")){
+        	nameSeccion = "CALZADO+BRIDGE";
+        }
+        if(seccion.equals("4")){
+        	nameSeccion = "CALZADO+CABALLEROS+Y+ACCESORIOS";
+        }
+        for(String dateExist: oldDates){
+        	File fcsv = new File(pathFiles+"\\" + nameSeccion + "\\"+portal+"_"+dateExist+".csv");
+        	File ftxt = new File(pathFiles+"\\" + nameSeccion + "\\"+portal+"_"+dateExist+".txt");
+        	if((fcsv.exists() && !fcsv.isDirectory()) || (ftxt.exists() && !ftxt.isDirectory())) { 
+        		System.out.println("El archivo ya existe "+dateExist);
+        	}else{
+        		oldDatesList.add(dateExist);
+        	}
+        }
+        System.out.println("Fechas "+oldDatesList);
+        return oldDatesList;
+    }
+    /**
+     * Regresa un array con las fechas a generar el link de a cuerdo al ultimo reporte bajado
+     * en formato definido por el usuario
+     * @return ArrayList
+     */
+    public ArrayList<String> getDatesFromLastReportFileFormatSeccion(String format, String seccion, String fechainicial, String fechafinal) {
+    	Configurations config = new Configurations(cuenta);
+    	String pathFiles = config.getPathFolderData()+"\\"+portal;
+    
+    	String fecha = fechainicial;
+    	
+    	//Obteniendo los dias entre la ultima fecha de reporte y la fecha actual
+    	SimpleDateFormat sdf = new SimpleDateFormat(format);    	    	      
+        
+    	//Calendar calendar = Calendar.getInstance();
+        Calendar calendar1 = Calendar.getInstance();
+        Calendar calendar2 = Calendar.getInstance();
+        
+        //seteando la ultima fecha
+        Date oldDate = null;
+		try {
+			oldDate = sdf.parse(fecha);
+		} catch (ParseException e) {
+			log.info("Error: no se pudo setear la ultima fecha de reporte");
+			e.printStackTrace();
+		}
+        calendar1.setTime(oldDate);
+          
+        //seteando la fecha actual
+        //String cd = sdf.format(calendar2.getTime());
+        String cd = fechafinal;
+        Date currentDate = null;
+		try {
+			currentDate = sdf.parse(cd);
+		} catch (ParseException e) {
+			log.info("Error: no se pudo setear la fecha actual");
+			e.printStackTrace();
+		}   
+        calendar2.setTime(currentDate);                                       
+        
+        //obteniendo el rango de dias
+        int dias = daysBetween(calendar1.getTime(), calendar2.getTime());           
+        
+        ArrayList<String> oldDates = new ArrayList<>();
+        ArrayList<String> oldDatesList = new ArrayList<>();
+        for (int i = 0; i < dias; i++) {
+            calendar1.add(Calendar.DATE, +1);
+            log.info("old date: " + calendar1.getTime());
+            oldDates.add(sdf.format(calendar1.getTime()));
+        }
+        for(String dateExist: oldDates){
+        	File fcsv = new File(pathFiles+"\\"+seccion+"\\"+portal+"_"+seccion+"_"+dateExist+".csv");
+        	File ftxt = new File(pathFiles+"\\"+seccion+"\\"+portal+"_"+seccion+"_"+dateExist+".txt");
+        	if((fcsv.exists() && !fcsv.isDirectory()) || (ftxt.exists() && !ftxt.isDirectory())) { 
+        		System.out.println("El archivo ya existe "+dateExist);
+        	}else{
+        		oldDatesList.add(dateExist);
+        	}
+        }
+        System.out.println("Fechas "+oldDatesList);
+        return oldDatesList;
     }
     
     /**
@@ -491,6 +553,26 @@ public class Utileria {
     	Properties prop = this.getPropertiesPortal();    	
         File file = new File(pathFiles+portal+"\\"+seccion+"\\"+prop.getProperty(portal+".prefix")+seccion+"_"+fecha+".txt");
         File file2 = new File(pathFiles+portal+"\\"+seccion+"\\"+prop.getProperty(portal+".prefix")+seccion+"_"+fecha+".csv");
+        log.info("Renombrando archivo "+file+" a "+file2);
+        
+        if (file.exists()) {
+        	log.info("RENAME: El archivo "+fecha+" existe");
+	        boolean success = file.renameTo(file2);
+	        if (success) {
+	            log.info("UTIL: Extencion de archivo "+portal+" con fecha " + fecha + " correctamente cambiado");
+	        } else {                        
+	            log.error("ERROR al cambiar extensión de archivo "+portal+" con " + fecha + " Ya se renombro o no existe");
+	        }
+        }
+        else 
+        	log.info("UTIL: No se renombro el archivo con fecha "+fecha+", ya se renombro o no existe, pasando al siguiente archivo");
+    }
+    
+    public void renameFileSeccionPalacioHierro(String fecha, Configurations conf, String seccion) {
+    	String pathFiles = conf.getPathFolderData();
+    	Properties prop = this.getPropertiesPortal();    	
+        File file = new File(pathFiles+portal+"\\"+seccion+"\\"+prop.getProperty(portal+".prefix")+fecha+".txt");
+        File file2 = new File(pathFiles+portal+"\\"+seccion+"\\"+prop.getProperty(portal+".prefix")+fecha+".csv");
         log.info("Renombrando archivo "+file+" a "+file2);
         
         if (file.exists()) {

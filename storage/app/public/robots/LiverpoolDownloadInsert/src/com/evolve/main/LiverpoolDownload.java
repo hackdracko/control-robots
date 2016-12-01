@@ -36,7 +36,7 @@ import com.mysql.jdbc.Statement;
 public class LiverpoolDownload {
 		
 	static String portal = "liverpool";
-	static String cuenta, seccion;
+	static String cuenta, seccion, fechainicial, fechafinal;
 	static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(LiverpoolDownload.class);
 	static Configurations config;
 	static Properties prop = new Properties();
@@ -46,12 +46,14 @@ public class LiverpoolDownload {
 		
 		cuenta = args[0];
 		seccion = args[1];
+		fechainicial = args[2];
+		fechafinal = args[3];
 		config = new Configurations(cuenta);
-		util = new Utileria(portal, cuenta);		
+		util = new Utileria(portal, cuenta);
 		
         ProfilesIni profile = new ProfilesIni();
         FirefoxProfile ffprofile = profile.getProfile("firefox");
-        WebDriver driver = new FirefoxDriver(ffprofile);   
+        WebDriver driver = new FirefoxDriver(ffprofile);
         JavascriptExecutor jse = (JavascriptExecutor) driver;
 		
         log.info("MAIN: Se ejecuta Liverpool "+cuenta);
@@ -61,7 +63,7 @@ public class LiverpoolDownload {
         try {
 
         	String filePrefix = prop.getProperty(portal+".prefix");									
-			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy");
+			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy", fechainicial, fechafinal);
             
             int counter = 1;
             for(int k=0; k < oldDates.size();k++) {
@@ -121,22 +123,21 @@ public class LiverpoolDownload {
 			} catch (SQLException e) {				
 				e.printStackTrace();
 				util.insertLog(cuenta, portal, "GenerateLink - accessLiverpool: ERROR Logeo, Usuario y/o Password incorrectos", "error");
-                System.exit(0);
                 driver.quit();
+                System.exit(0);
 			}
 			
 			urlLogin = prop.getProperty(portal+".urlLogin");
             filePrefix = prop.getProperty(portal+".prefix");
-
+            
             if (indPortalEjec == 1) {
-                
                 if (count == 1) {
                     System.err.println("ENTRA NUMERO : " + count);
                     driver.get(urlLogin);
                     driver.findElement(By.id("logonuidfield")).sendKeys(user);
                     driver.findElement(By.id("logonpassfield")).sendKeys(pass);
                     driver.findElement(By.name("uidPasswordLogon")).click();
-                    boolean success = driver.getPageSource().contains("AutentificaciÃ³n de usuario fallida");
+                    boolean success = driver.getPageSource().contains("Autentificación de usuario fallida");
 
                     if (success == true) {                        
                         log.warn("ACCESS: ERROR Logeo, Usuario y/o Password incorrectos ");   
@@ -331,6 +332,8 @@ public class LiverpoolDownload {
                 if (indPortalEjec == 0) {
                     log.info("[-]Portal Liverpool Cesarfer Desactivado");
                     util.insertLog(cuenta, portal, "Download - AccessLiverpool: El portal esta desactivado", "error");
+                    terminaDriver(driver);
+                    System.exit(0);
                 }
             }
 

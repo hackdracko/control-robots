@@ -19,7 +19,7 @@ public class Configurations {
 	
 	public String getPathProyect() {					
 		String pathDev = "C:\\Users\\SISTEMA\\Downloads\\evolve-web-master\\evolve-web-master\\ProyectosJava";
-		String pathProd = "C:\\Users\\Administrator\\Documents\\RobotsJava";		
+		String pathProd = "C:\\Users\\Administrator\\Desktop\\control-robots\\storage\\app\\public\\robots";		
 		if (ENVIROMENT == "development")
 			return pathDev;
 		else 
