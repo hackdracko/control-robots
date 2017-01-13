@@ -1,334 +1,234 @@
-23-11-2016@11:47:38 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:38 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:38 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_16112016.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_16112016.csv
-23-11-2016@11:47:38 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 16112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:47:40 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
-23-11-2016@11:47:40 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
-23-11-2016@11:47:40 INFO  (LiverpoolInsert.java:112)     - Fecha split
-23-11-2016@11:47:40 INFO  (LiverpoolInsert.java:114)     - antes sql
-23-11-2016@11:47:40 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\459\liverpool_459_16112016.csv', '2016-11-16', CURRENT_TIMESTAMP, 'liverpool-timberland', '827');
-23-11-2016@11:47:40 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:40 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:40 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_17112016.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_17112016.csv
-23-11-2016@11:47:40 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 17112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:47:42 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
-23-11-2016@11:47:42 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
-23-11-2016@11:47:42 INFO  (LiverpoolInsert.java:112)     - Fecha split
-23-11-2016@11:47:42 INFO  (LiverpoolInsert.java:114)     - antes sql
-23-11-2016@11:47:42 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\459\liverpool_459_17112016.csv', '2016-11-17', CURRENT_TIMESTAMP, 'liverpool-timberland', '462');
-23-11-2016@11:47:42 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:42 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:42 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_18112016.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_18112016.csv
-23-11-2016@11:47:42 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 18112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:47:44 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
-23-11-2016@11:47:44 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
-23-11-2016@11:47:44 INFO  (LiverpoolInsert.java:112)     - Fecha split
-23-11-2016@11:47:44 INFO  (LiverpoolInsert.java:114)     - antes sql
-23-11-2016@11:47:44 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\459\liverpool_459_18112016.csv', '2016-11-18', CURRENT_TIMESTAMP, 'liverpool-timberland', '15554');
-23-11-2016@11:47:44 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:44 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:44 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_19112016.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_19112016.csv
-23-11-2016@11:47:44 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 19112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:47:46 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
-23-11-2016@11:47:46 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
-23-11-2016@11:47:46 INFO  (LiverpoolInsert.java:112)     - Fecha split
-23-11-2016@11:47:46 INFO  (LiverpoolInsert.java:114)     - antes sql
-23-11-2016@11:47:46 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\459\liverpool_459_19112016.csv', '2016-11-19', CURRENT_TIMESTAMP, 'liverpool-timberland', '17359');
-23-11-2016@11:47:46 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:46 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:46 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_20112016.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_20112016.csv
-23-11-2016@11:47:46 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 20112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:47:48 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
-23-11-2016@11:47:48 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
-23-11-2016@11:47:48 INFO  (LiverpoolInsert.java:112)     - Fecha split
-23-11-2016@11:47:48 INFO  (LiverpoolInsert.java:114)     - antes sql
-23-11-2016@11:47:48 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\459\liverpool_459_20112016.csv', '2016-11-20', CURRENT_TIMESTAMP, 'liverpool-timberland', '15222');
-23-11-2016@11:47:48 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:48 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:48 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_21112016.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_21112016.csv
-23-11-2016@11:47:48 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 21112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:47:50 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
-23-11-2016@11:47:50 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
-23-11-2016@11:47:50 INFO  (LiverpoolInsert.java:112)     - Fecha split
-23-11-2016@11:47:50 INFO  (LiverpoolInsert.java:114)     - antes sql
-23-11-2016@11:47:50 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\459\liverpool_459_21112016.csv', '2016-11-21', CURRENT_TIMESTAMP, 'liverpool-timberland', '9343');
-23-11-2016@11:47:50 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:50 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:50 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_22112016.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_22112016.csv
-23-11-2016@11:47:50 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 22112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:47:52 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\459\liverpool_459_22112016.csv (The system cannot find the file specified)
-23-11-2016@11:47:52 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\459\liverpool_459_22112016.csv (The system cannot find the file specified)
-23-11-2016@11:47:52 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:52 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:47:52 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_23112016.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_23112016.csv
-23-11-2016@11:47:52 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 23112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:47:54 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\459\liverpool_459_23112016.csv (The system cannot find the file specified)
-23-11-2016@11:47:54 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\459\liverpool_459_23112016.csv (The system cannot find the file specified)
-23-11-2016@11:47:54 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:51:15 INFO  (LiverpoolDownload.java:59)     - MAIN: Se ejecuta Liverpool timberland
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sat Oct 01 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sun Oct 02 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Mon Oct 03 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Tue Oct 04 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Wed Oct 05 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Thu Oct 06 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Fri Oct 07 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sat Oct 08 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sun Oct 09 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Mon Oct 10 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Tue Oct 11 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Wed Oct 12 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Thu Oct 13 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Fri Oct 14 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sat Oct 15 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sun Oct 16 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Mon Oct 17 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Tue Oct 18 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Wed Oct 19 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Thu Oct 20 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Fri Oct 21 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sat Oct 22 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sun Oct 23 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Mon Oct 24 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Tue Oct 25 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Wed Oct 26 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Thu Oct 27 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Fri Oct 28 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sat Oct 29 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sun Oct 30 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Mon Oct 31 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Tue Nov 01 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Wed Nov 02 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Thu Nov 03 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Fri Nov 04 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sat Nov 05 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sun Nov 06 00:00:00 CDT 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Mon Nov 07 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Tue Nov 08 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Wed Nov 09 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Thu Nov 10 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Fri Nov 11 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sat Nov 12 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sun Nov 13 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Mon Nov 14 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Tue Nov 15 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Wed Nov 16 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Thu Nov 17 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Fri Nov 18 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sat Nov 19 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Sun Nov 20 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (Utileria.java:321)     - old date: Mon Nov 21 00:00:00 CST 2016
-23-11-2016@11:51:15 INFO  (LiverpoolDownload.java:88)     - [-]Termina ejecuci髇 del portal Liverpool Spinmaster
-23-11-2016@11:51:16 INFO  (LiverpoolInsert.java:47)     - INSERT; Se ejecuta Liverpool insert en cuenta: timberland
-23-11-2016@11:51:16 INFO  (LiverpoolInsert.java:69)     - ultima fecha: 20112016
-23-11-2016@11:51:16 INFO  (Utileria.java:377)     - old date: Mon Nov 21 00:00:00 CST 2016
-23-11-2016@11:51:16 INFO  (Utileria.java:377)     - old date: Tue Nov 22 00:00:00 CST 2016
-23-11-2016@11:51:16 INFO  (Utileria.java:377)     - old date: Wed Nov 23 00:00:00 CST 2016
-23-11-2016@11:51:16 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:51:16 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_21112016.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_21112016.csv
-23-11-2016@11:51:16 INFO  (Utileria.java:487)     - RENAME: El archivo 21112016 existe
-23-11-2016@11:51:16 INFO  (Utileria.java:490)     - UTIL: Extencion de archivo liverpool con fecha 21112016 correctamente cambiado
-23-11-2016@11:51:18 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
-23-11-2016@11:51:18 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
-23-11-2016@11:51:18 INFO  (LiverpoolInsert.java:112)     - Fecha split
-23-11-2016@11:51:18 INFO  (LiverpoolInsert.java:114)     - antes sql
-23-11-2016@11:51:18 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\550\liverpool_550_21112016.csv', '2016-11-21', CURRENT_TIMESTAMP, 'liverpool-timberland', '51667');
-23-11-2016@11:51:18 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:51:18 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:51:18 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_22112016.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_22112016.csv
-23-11-2016@11:51:18 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 22112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:51:20 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\550\liverpool_550_22112016.csv (The system cannot find the file specified)
-23-11-2016@11:51:20 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\550\liverpool_550_22112016.csv (The system cannot find the file specified)
-23-11-2016@11:51:20 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:51:20 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza inserci髇 de portal Liverpool Cesarfer venta diaria
-23-11-2016@11:51:20 INFO  (Utileria.java:484)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_23112016.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_23112016.csv
-23-11-2016@11:51:20 INFO  (Utileria.java:496)     - UTIL: No se renombro el archivo con fecha 23112016, ya se renombro o no existe, pasando al siguiente archivo
-23-11-2016@11:51:22 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\550\liverpool_550_23112016.csv (The system cannot find the file specified)
-23-11-2016@11:51:22 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\550\liverpool_550_23112016.csv (The system cannot find the file specified)
-23-11-2016@11:51:22 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
-29-11-2016@10:23:04 INFO  (LiverpoolDownload.java:59)     - MAIN: Se ejecuta Liverpool timberland
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sat Oct 01 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sun Oct 02 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Mon Oct 03 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Tue Oct 04 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Wed Oct 05 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Thu Oct 06 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Fri Oct 07 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sat Oct 08 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sun Oct 09 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Mon Oct 10 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Tue Oct 11 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Wed Oct 12 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Thu Oct 13 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Fri Oct 14 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sat Oct 15 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sun Oct 16 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Mon Oct 17 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Tue Oct 18 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Wed Oct 19 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Thu Oct 20 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Fri Oct 21 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sat Oct 22 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sun Oct 23 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Mon Oct 24 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Tue Oct 25 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Wed Oct 26 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Thu Oct 27 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Fri Oct 28 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sat Oct 29 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sun Oct 30 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Mon Oct 31 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Tue Nov 01 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Wed Nov 02 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Thu Nov 03 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Fri Nov 04 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sat Nov 05 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sun Nov 06 00:00:00 CDT 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Mon Nov 07 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Tue Nov 08 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Wed Nov 09 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Thu Nov 10 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Fri Nov 11 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sat Nov 12 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sun Nov 13 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Mon Nov 14 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Tue Nov 15 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Wed Nov 16 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Thu Nov 17 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Fri Nov 18 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sat Nov 19 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sun Nov 20 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Mon Nov 21 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Tue Nov 22 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Wed Nov 23 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Thu Nov 24 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Fri Nov 25 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sat Nov 26 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Sun Nov 27 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:394)     - old date: Mon Nov 28 00:00:00 CST 2016
-29-11-2016@10:23:04 INFO  (Utileria.java:523)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
-29-11-2016@10:23:04 INFO  (LiverpoolDownload.java:73)     - MAIN: Comienza descarga de archivo liverpool_22112016
-29-11-2016@10:23:13 INFO  (LiverpoolDownload.java:59)     - MAIN: Se ejecuta Liverpool timberland
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sat Oct 01 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sun Oct 02 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Mon Oct 03 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Tue Oct 04 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Wed Oct 05 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Thu Oct 06 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Fri Oct 07 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sat Oct 08 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sun Oct 09 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Mon Oct 10 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Tue Oct 11 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Wed Oct 12 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Thu Oct 13 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Fri Oct 14 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sat Oct 15 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sun Oct 16 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Mon Oct 17 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Tue Oct 18 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Wed Oct 19 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Thu Oct 20 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Fri Oct 21 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sat Oct 22 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sun Oct 23 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Mon Oct 24 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Tue Oct 25 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Wed Oct 26 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Thu Oct 27 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Fri Oct 28 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sat Oct 29 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sun Oct 30 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Mon Oct 31 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Tue Nov 01 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Wed Nov 02 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Thu Nov 03 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Fri Nov 04 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sat Nov 05 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sun Nov 06 00:00:00 CDT 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Mon Nov 07 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Tue Nov 08 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Wed Nov 09 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Thu Nov 10 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Fri Nov 11 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sat Nov 12 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sun Nov 13 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Mon Nov 14 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Tue Nov 15 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Wed Nov 16 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Thu Nov 17 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Fri Nov 18 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sat Nov 19 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sun Nov 20 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Mon Nov 21 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Tue Nov 22 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Wed Nov 23 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Thu Nov 24 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Fri Nov 25 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sat Nov 26 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Sun Nov 27 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:394)     - old date: Mon Nov 28 00:00:00 CST 2016
-29-11-2016@10:23:13 INFO  (Utileria.java:523)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
-29-11-2016@10:23:13 INFO  (LiverpoolDownload.java:73)     - MAIN: Comienza descarga de archivo liverpool_22112016
-29-11-2016@10:23:42 INFO  (LiverpoolDownload.java:59)     - MAIN: Se ejecuta Liverpool timberland
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sat Oct 01 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sun Oct 02 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Mon Oct 03 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Tue Oct 04 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Wed Oct 05 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Thu Oct 06 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Fri Oct 07 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sat Oct 08 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sun Oct 09 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Mon Oct 10 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Tue Oct 11 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Wed Oct 12 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Thu Oct 13 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Fri Oct 14 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sat Oct 15 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sun Oct 16 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Mon Oct 17 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Tue Oct 18 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Wed Oct 19 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Thu Oct 20 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Fri Oct 21 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sat Oct 22 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sun Oct 23 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Mon Oct 24 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Tue Oct 25 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Wed Oct 26 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Thu Oct 27 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Fri Oct 28 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sat Oct 29 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sun Oct 30 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Mon Oct 31 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Tue Nov 01 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Wed Nov 02 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Thu Nov 03 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Fri Nov 04 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sat Nov 05 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sun Nov 06 00:00:00 CDT 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Mon Nov 07 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Tue Nov 08 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Wed Nov 09 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Thu Nov 10 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Fri Nov 11 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sat Nov 12 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sun Nov 13 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Mon Nov 14 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Tue Nov 15 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Wed Nov 16 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Thu Nov 17 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Fri Nov 18 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sat Nov 19 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sun Nov 20 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Mon Nov 21 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Tue Nov 22 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Wed Nov 23 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Thu Nov 24 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Fri Nov 25 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sat Nov 26 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Sun Nov 27 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:394)     - old date: Mon Nov 28 00:00:00 CST 2016
-29-11-2016@10:23:43 INFO  (Utileria.java:523)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
-29-11-2016@10:23:43 INFO  (LiverpoolDownload.java:73)     - MAIN: Comienza descarga de archivo liverpool_22112016
+03-01-2017@12:25:23 INFO  (LiverpoolInsert.java:112)     - Fecha split
+03-01-2017@12:25:23 INFO  (LiverpoolInsert.java:114)     - antes sql
+03-01-2017@12:25:23 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\550\liverpool_550_27122016.csv', '2016-12-27', CURRENT_TIMESTAMP, 'liverpool-timberland', '30022');
+03-01-2017@12:25:23 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:23 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:23 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_28122016.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_28122016.csv
+03-01-2017@12:25:23 INFO  (Utileria.java:618)     - RENAME: El archivo 28122016 existe
+03-01-2017@12:25:23 INFO  (Utileria.java:621)     - UTIL: Extencion de archivo liverpool con fecha 28122016 correctamente cambiado
+03-01-2017@12:25:25 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+03-01-2017@12:25:25 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+03-01-2017@12:25:25 INFO  (LiverpoolInsert.java:112)     - Fecha split
+03-01-2017@12:25:25 INFO  (LiverpoolInsert.java:114)     - antes sql
+03-01-2017@12:25:25 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\550\liverpool_550_28122016.csv', '2016-12-28', CURRENT_TIMESTAMP, 'liverpool-timberland', '26507');
+03-01-2017@12:25:25 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:25 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:25 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_29122016.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_29122016.csv
+03-01-2017@12:25:25 INFO  (Utileria.java:618)     - RENAME: El archivo 29122016 existe
+03-01-2017@12:25:25 INFO  (Utileria.java:621)     - UTIL: Extencion de archivo liverpool con fecha 29122016 correctamente cambiado
+03-01-2017@12:25:27 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+03-01-2017@12:25:27 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+03-01-2017@12:25:27 INFO  (LiverpoolInsert.java:112)     - Fecha split
+03-01-2017@12:25:27 INFO  (LiverpoolInsert.java:114)     - antes sql
+03-01-2017@12:25:27 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\550\liverpool_550_29122016.csv', '2016-12-29', CURRENT_TIMESTAMP, 'liverpool-timberland', '27171');
+03-01-2017@12:25:27 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:27 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:27 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_30122016.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_30122016.csv
+03-01-2017@12:25:27 INFO  (Utileria.java:618)     - RENAME: El archivo 30122016 existe
+03-01-2017@12:25:27 INFO  (Utileria.java:621)     - UTIL: Extencion de archivo liverpool con fecha 30122016 correctamente cambiado
+03-01-2017@12:25:29 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+03-01-2017@12:25:29 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+03-01-2017@12:25:29 INFO  (LiverpoolInsert.java:112)     - Fecha split
+03-01-2017@12:25:29 INFO  (LiverpoolInsert.java:114)     - antes sql
+03-01-2017@12:25:29 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\550\liverpool_550_30122016.csv', '2016-12-30', CURRENT_TIMESTAMP, 'liverpool-timberland', '28067');
+03-01-2017@12:25:29 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:29 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:29 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_31122016.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_31122016.csv
+03-01-2017@12:25:29 INFO  (Utileria.java:618)     - RENAME: El archivo 31122016 existe
+03-01-2017@12:25:29 ERROR (Utileria.java:623)     - ERROR al cambiar extensi髇 de archivo liverpool con 31122016 Ya se renombro o no existe
+03-01-2017@12:25:31 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\550\liverpool_550_31122016.csv (The system cannot find the file specified)
+03-01-2017@12:25:31 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\550\liverpool_550_31122016.csv (The system cannot find the file specified)
+03-01-2017@12:25:31 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:31 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:31 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_01012017.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_01012017.csv
+03-01-2017@12:25:31 INFO  (Utileria.java:618)     - RENAME: El archivo 01012017 existe
+03-01-2017@12:25:31 ERROR (Utileria.java:623)     - ERROR al cambiar extensi髇 de archivo liverpool con 01012017 Ya se renombro o no existe
+03-01-2017@12:25:33 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\550\liverpool_550_01012017.csv (The system cannot find the file specified)
+03-01-2017@12:25:33 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\550\liverpool_550_01012017.csv (The system cannot find the file specified)
+03-01-2017@12:25:33 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:33 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:33 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_02012017.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_02012017.csv
+03-01-2017@12:25:33 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 02012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:25:35 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\550\liverpool_550_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:25:35 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\550\liverpool_550_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:25:35 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:35 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:25:35 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_03012017.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_03012017.csv
+03-01-2017@12:25:35 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 03012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:25:37 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\550\liverpool_550_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:25:37 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\550\liverpool_550_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:25:37 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:26:04 INFO  (LiverpoolDownload.java:59)     - MAIN: Se ejecuta Liverpool timberland
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Tue Dec 06 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Wed Dec 07 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Thu Dec 08 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Fri Dec 09 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Sat Dec 10 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Sun Dec 11 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Mon Dec 12 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Tue Dec 13 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Wed Dec 14 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Thu Dec 15 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Fri Dec 16 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Sat Dec 17 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Sun Dec 18 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Mon Dec 19 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Tue Dec 20 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Wed Dec 21 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Thu Dec 22 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Fri Dec 23 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Sat Dec 24 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Sun Dec 25 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Mon Dec 26 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Tue Dec 27 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Wed Dec 28 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Thu Dec 29 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Fri Dec 30 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Sat Dec 31 00:00:00 CST 2016
+03-01-2017@12:26:04 INFO  (Utileria.java:433)     - old date: Sun Jan 01 00:00:00 CST 2017
+03-01-2017@12:26:04 INFO  (LiverpoolDownload.java:88)     - [-]Termina ejecuci髇 del portal Liverpool Spinmaster
+03-01-2017@12:26:05 INFO  (LiverpoolInsert.java:47)     - INSERT; Se ejecuta Liverpool insert en cuenta: timberland
+03-01-2017@12:26:05 INFO  (LiverpoolInsert.java:69)     - ultima fecha: 30122016
+03-01-2017@12:26:05 INFO  (Utileria.java:489)     - old date: Sat Dec 31 00:00:00 CST 2016
+03-01-2017@12:26:05 INFO  (Utileria.java:489)     - old date: Sun Jan 01 00:00:00 CST 2017
+03-01-2017@12:26:05 INFO  (Utileria.java:489)     - old date: Mon Jan 02 00:00:00 CST 2017
+03-01-2017@12:26:05 INFO  (Utileria.java:489)     - old date: Tue Jan 03 00:00:00 CST 2017
+03-01-2017@12:26:05 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:26:05 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_31122016.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_31122016.csv
+03-01-2017@12:26:05 INFO  (Utileria.java:618)     - RENAME: El archivo 31122016 existe
+03-01-2017@12:26:05 INFO  (Utileria.java:621)     - UTIL: Extencion de archivo liverpool con fecha 31122016 correctamente cambiado
+03-01-2017@12:26:07 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+03-01-2017@12:26:07 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+03-01-2017@12:26:07 INFO  (LiverpoolInsert.java:112)     - Fecha split
+03-01-2017@12:26:07 INFO  (LiverpoolInsert.java:114)     - antes sql
+03-01-2017@12:26:07 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\550\liverpool_550_31122016.csv', '2016-12-31', CURRENT_TIMESTAMP, 'liverpool-timberland', '18647');
+03-01-2017@12:26:07 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:26:07 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:26:07 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_01012017.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_01012017.csv
+03-01-2017@12:26:07 INFO  (Utileria.java:618)     - RENAME: El archivo 01012017 existe
+03-01-2017@12:26:07 INFO  (Utileria.java:621)     - UTIL: Extencion de archivo liverpool con fecha 01012017 correctamente cambiado
+03-01-2017@12:26:09 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+03-01-2017@12:26:09 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+03-01-2017@12:26:09 INFO  (LiverpoolInsert.java:112)     - Fecha split
+03-01-2017@12:26:09 INFO  (LiverpoolInsert.java:114)     - antes sql
+03-01-2017@12:26:09 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\550\liverpool_550_01012017.csv', '2017-01-01', CURRENT_TIMESTAMP, 'liverpool-timberland', '886');
+03-01-2017@12:26:09 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:26:09 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:26:09 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_02012017.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_02012017.csv
+03-01-2017@12:26:09 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 02012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:26:11 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\550\liverpool_550_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:26:11 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\550\liverpool_550_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:26:11 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:26:11 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:26:11 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\550\liverpool_550_03012017.txt a D:\DataRobots\timberland\liverpool\550\liverpool_550_03012017.csv
+03-01-2017@12:26:11 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 03012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:26:13 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\550\liverpool_550_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:26:13 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\550\liverpool_550_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:26:13 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:53:23 INFO  (LiverpoolDownload.java:59)     - MAIN: Se ejecuta Liverpool timberland
+03-01-2017@12:53:24 INFO  (Utileria.java:433)     - old date: Sun Jan 01 00:00:00 CST 2017
+03-01-2017@12:53:24 INFO  (LiverpoolDownload.java:88)     - [-]Termina ejecuci髇 del portal Liverpool Spinmaster
+03-01-2017@12:53:24 INFO  (LiverpoolInsert.java:47)     - INSERT; Se ejecuta Liverpool insert en cuenta: timberland
+03-01-2017@12:53:24 INFO  (LiverpoolInsert.java:69)     - ultima fecha: 30122016
+03-01-2017@12:53:24 INFO  (Utileria.java:489)     - old date: Sat Dec 31 00:00:00 CST 2016
+03-01-2017@12:53:24 INFO  (Utileria.java:489)     - old date: Sun Jan 01 00:00:00 CST 2017
+03-01-2017@12:53:24 INFO  (Utileria.java:489)     - old date: Mon Jan 02 00:00:00 CST 2017
+03-01-2017@12:53:24 INFO  (Utileria.java:489)     - old date: Tue Jan 03 00:00:00 CST 2017
+03-01-2017@12:53:24 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:53:24 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\237\liverpool_237_31122016.txt a D:\DataRobots\timberland\liverpool\237\liverpool_237_31122016.csv
+03-01-2017@12:53:24 INFO  (Utileria.java:618)     - RENAME: El archivo 31122016 existe
+03-01-2017@12:53:24 INFO  (Utileria.java:621)     - UTIL: Extencion de archivo liverpool con fecha 31122016 correctamente cambiado
+03-01-2017@12:53:26 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+03-01-2017@12:53:26 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+03-01-2017@12:53:26 INFO  (LiverpoolInsert.java:112)     - Fecha split
+03-01-2017@12:53:26 INFO  (LiverpoolInsert.java:114)     - antes sql
+03-01-2017@12:53:26 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\237\liverpool_237_31122016.csv', '2016-12-31', CURRENT_TIMESTAMP, 'liverpool-timberland', '13501');
+03-01-2017@12:53:26 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:53:26 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:53:26 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\237\liverpool_237_01012017.txt a D:\DataRobots\timberland\liverpool\237\liverpool_237_01012017.csv
+03-01-2017@12:53:26 INFO  (Utileria.java:618)     - RENAME: El archivo 01012017 existe
+03-01-2017@12:53:26 INFO  (Utileria.java:621)     - UTIL: Extencion de archivo liverpool con fecha 01012017 correctamente cambiado
+03-01-2017@12:53:28 INFO  (LiverpoolInsert.java:220)     - LOAD: Registros de datos de CSV Liverpool Cesarfer a BD exitoso
+03-01-2017@12:53:28 INFO  (LiverpoolInsert.java:104)     - Registro de archivos en bd
+03-01-2017@12:53:28 INFO  (LiverpoolInsert.java:112)     - Fecha split
+03-01-2017@12:53:28 INFO  (LiverpoolInsert.java:114)     - antes sql
+03-01-2017@12:53:28 INFO  (LiverpoolInsert.java:116)     - El sql es: INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 13, 'D:\DataRobots\timberland\liverpool\237\liverpool_237_01012017.csv', '2017-01-01', CURRENT_TIMESTAMP, 'liverpool-timberland', '484');
+03-01-2017@12:53:28 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:53:28 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:53:28 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\237\liverpool_237_02012017.txt a D:\DataRobots\timberland\liverpool\237\liverpool_237_02012017.csv
+03-01-2017@12:53:28 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 02012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:53:30 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\237\liverpool_237_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:53:30 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\237\liverpool_237_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:53:30 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:53:30 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:53:30 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\237\liverpool_237_03012017.txt a D:\DataRobots\timberland\liverpool\237\liverpool_237_03012017.csv
+03-01-2017@12:53:30 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 03012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:53:32 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\237\liverpool_237_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:53:32 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\237\liverpool_237_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:53:32 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:54:29 INFO  (LiverpoolDownload.java:59)     - MAIN: Se ejecuta Liverpool timberland
+03-01-2017@12:54:29 INFO  (Utileria.java:433)     - old date: Sun Jan 01 00:00:00 CST 2017
+03-01-2017@12:54:29 INFO  (Utileria.java:562)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-01-2017@12:54:29 INFO  (LiverpoolDownload.java:73)     - MAIN: Comienza descarga de archivo liverpool_01012017
+03-01-2017@12:55:19 INFO  (LiverpoolDownload.java:180)     - ACCESS: Sin Periodo
+03-01-2017@12:55:19 INFO  (LiverpoolDownload.java:189)     - ACCESS: url: https://bwsext.liverpool.com.mx/sap/bw/BEx?SAP-LANGUAGE=ES&PAGENO=1&REQUEST_NO=1&CMD=PROCESS_HELP_WINDOW&DATA_PROVIDER=DATAPROVIDER_4&HELP_SERVICE=DP_VIEW_FILTER&TARGET_DATA_PROVIDER_1=DATAPROVIDER_4&IOBJNM=0CALDAY&BOOKED_VALUES=M
+03-01-2017@12:55:19 INFO  (LiverpoolDownload.java:198)     - Fecha periodo: 01.01.2017
+03-01-2017@12:55:19 INFO  (LiverpoolDownload.java:202)     - Enviando peticion click
+03-01-2017@12:56:12 WARN  (LiverpoolDownload.java:220)     - ACCESS: ERROR el portal no cargo correctamente, cerrando portal para nuevo intento
+03-01-2017@12:56:12 INFO  (LiverpoolDownload.java:88)     - [-]Termina ejecuci髇 del portal Liverpool Spinmaster
+03-01-2017@12:56:13 INFO  (LiverpoolInsert.java:47)     - INSERT; Se ejecuta Liverpool insert en cuenta: timberland
+03-01-2017@12:56:13 INFO  (LiverpoolInsert.java:69)     - ultima fecha: 31122016
+03-01-2017@12:56:13 INFO  (Utileria.java:489)     - old date: Sun Jan 01 00:00:00 CST 2017
+03-01-2017@12:56:13 INFO  (Utileria.java:489)     - old date: Mon Jan 02 00:00:00 CST 2017
+03-01-2017@12:56:13 INFO  (Utileria.java:489)     - old date: Tue Jan 03 00:00:00 CST 2017
+03-01-2017@12:56:13 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:56:13 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\405\liverpool_405_01012017.txt a D:\DataRobots\timberland\liverpool\405\liverpool_405_01012017.csv
+03-01-2017@12:56:13 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 01012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:56:15 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\405\liverpool_405_01012017.csv (The system cannot find the file specified)
+03-01-2017@12:56:15 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\405\liverpool_405_01012017.csv (The system cannot find the file specified)
+03-01-2017@12:56:15 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:56:15 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:56:15 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\405\liverpool_405_02012017.txt a D:\DataRobots\timberland\liverpool\405\liverpool_405_02012017.csv
+03-01-2017@12:56:15 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 02012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:56:17 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\405\liverpool_405_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:56:17 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\405\liverpool_405_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:56:17 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:56:17 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:56:17 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\405\liverpool_405_03012017.txt a D:\DataRobots\timberland\liverpool\405\liverpool_405_03012017.csv
+03-01-2017@12:56:17 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 03012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:56:19 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\405\liverpool_405_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:56:19 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\405\liverpool_405_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:56:19 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:56:53 INFO  (LiverpoolDownload.java:59)     - MAIN: Se ejecuta Liverpool timberland
+03-01-2017@12:56:54 INFO  (Utileria.java:433)     - old date: Sun Jan 01 00:00:00 CST 2017
+03-01-2017@12:56:54 INFO  (Utileria.java:562)     - CHECKEXIST: Archivo no encontrado...comienza la generaci贸n/descarga del link/archivo
+03-01-2017@12:56:54 INFO  (LiverpoolDownload.java:73)     - MAIN: Comienza descarga de archivo liverpool_01012017
+03-01-2017@12:57:22 INFO  (LiverpoolDownload.java:180)     - ACCESS: Sin Periodo
+03-01-2017@12:57:23 INFO  (LiverpoolDownload.java:189)     - ACCESS: url: https://bwsext.liverpool.com.mx/sap/bw/BEx?SAP-LANGUAGE=ES&PAGENO=1&REQUEST_NO=1&CMD=PROCESS_HELP_WINDOW&DATA_PROVIDER=DATAPROVIDER_4&HELP_SERVICE=DP_VIEW_FILTER&TARGET_DATA_PROVIDER_1=DATAPROVIDER_4&IOBJNM=0CALDAY&BOOKED_VALUES=M
+03-01-2017@12:57:23 INFO  (LiverpoolDownload.java:198)     - Fecha periodo: 01.01.2017
+03-01-2017@12:57:23 INFO  (LiverpoolDownload.java:202)     - Enviando peticion click
+03-01-2017@12:58:16 WARN  (LiverpoolDownload.java:220)     - ACCESS: ERROR el portal no cargo correctamente, cerrando portal para nuevo intento
+03-01-2017@12:58:16 INFO  (LiverpoolDownload.java:88)     - [-]Termina ejecuci髇 del portal Liverpool Spinmaster
+03-01-2017@12:58:16 INFO  (LiverpoolInsert.java:47)     - INSERT; Se ejecuta Liverpool insert en cuenta: timberland
+03-01-2017@12:58:16 INFO  (LiverpoolInsert.java:69)     - ultima fecha: 31122016
+03-01-2017@12:58:16 INFO  (Utileria.java:489)     - old date: Sun Jan 01 00:00:00 CST 2017
+03-01-2017@12:58:16 INFO  (Utileria.java:489)     - old date: Mon Jan 02 00:00:00 CST 2017
+03-01-2017@12:58:16 INFO  (Utileria.java:489)     - old date: Tue Jan 03 00:00:00 CST 2017
+03-01-2017@12:58:16 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:58:16 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_01012017.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_01012017.csv
+03-01-2017@12:58:16 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 01012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:58:18 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\459\liverpool_459_01012017.csv (The system cannot find the file specified)
+03-01-2017@12:58:18 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\459\liverpool_459_01012017.csv (The system cannot find the file specified)
+03-01-2017@12:58:18 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:58:18 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:58:18 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_02012017.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_02012017.csv
+03-01-2017@12:58:18 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 02012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:58:20 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\459\liverpool_459_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:58:20 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\459\liverpool_459_02012017.csv (The system cannot find the file specified)
+03-01-2017@12:58:20 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:58:20 INFO  (LiverpoolInsert.java:75)     - INSERT: Comienza insersi贸n de portal Liverpool Cesarfer venta diaria
+03-01-2017@12:58:20 INFO  (Utileria.java:615)     - Renombrando archivo D:\DataRobots\timberland\liverpool\459\liverpool_459_03012017.txt a D:\DataRobots\timberland\liverpool\459\liverpool_459_03012017.csv
+03-01-2017@12:58:20 INFO  (Utileria.java:627)     - UTIL: No se renombro el archivo con fecha 03012017, ya se renombro o no existe, pasando al siguiente archivo
+03-01-2017@12:58:22 INFO  (LiverpoolInsert.java:140)     - D:\DataRobots\timberland\liverpool\459\liverpool_459_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:58:22 INFO  (LiverpoolInsert.java:120)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\liverpool\459\liverpool_459_03012017.csv (The system cannot find the file specified)
+03-01-2017@12:58:22 INFO  (LiverpoolInsert.java:80)     - INSERT: Termina inserci髇 de portal Liverpool Cesarfer venta diaria

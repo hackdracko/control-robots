@@ -123,8 +123,8 @@ public class LiverpoolDownload {
 			} catch (SQLException e) {				
 				e.printStackTrace();
 				util.insertLog(cuenta, portal, "GenerateLink - accessLiverpool: ERROR Logeo, Usuario y/o Password incorrectos", "error");
-                System.exit(0);
                 driver.quit();
+                System.exit(0);
 			}
 			
 			urlLogin = prop.getProperty(portal+".urlLogin");
@@ -138,7 +138,7 @@ public class LiverpoolDownload {
                     driver.findElement(By.id("logonuidfield")).sendKeys(user);
                     driver.findElement(By.id("logonpassfield")).sendKeys(pass);
                     driver.findElement(By.name("uidPasswordLogon")).click();
-                    boolean success = driver.getPageSource().contains("Autentificación de usuario fallida");
+                    boolean success = driver.getPageSource().contains("Autentificaci�n de usuario fallida");
 
                     if (success == true) {                        
                         log.warn("ACCESS: ERROR Logeo, Usuario y/o Password incorrectos ");   
@@ -361,6 +361,8 @@ public class LiverpoolDownload {
                 if (indPortalEjec == 0) {
                     log.info("[-]Portal Liverpool Cesarfer Desactivado");
                     util.insertLog(cuenta, portal, "Download - AccessLiverpool: El portal esta desactivado", "error");
+                    driver.close();
+                    System.exit(0);
                 }
             }
 
@@ -395,6 +397,8 @@ public class LiverpoolDownload {
                     }
                 }
             }
+            fw.close();
+            pw.close();
 
         } catch (Exception e) {
             log.error("[¡] error al escribir archivo Liverpool " + e.getMessage());

@@ -152,12 +152,19 @@ public class PalacioDownload {
                     driver.findElement(By.name("uidPasswordLogon")).click();
 
                     TimeUnit.SECONDS.sleep(3);
-                    boolean success = driver.getPageSource().contains("AutentificaciÃ³n de usuario fallida");
+                    boolean success = driver.getPageSource().contains("Autentificación de usuario fallida");
                     if (success == true) {                        
                         log.warn("ERROR Logeo, Usuario y/o Password incorrectos");
                         util.insertLog(cuenta, portal, "Download - palacioAccess: Usuario/Password incorrectos", "error");
+                        //Desactivando el robot
+                        try {
+            				Statement s = (Statement) conn.createStatement();            				
+            				s.executeUpdate ("UPDATE proyectos_cadenas SET activo=0 WHERE nombreProyecto LIKE '%"+cuenta+"%' AND nombreCadena LIKE '%"+portal+"%'");            				            				            				
+            			} catch (SQLException e) {				
+            				e.printStackTrace();
+            			}
                         driver.quit();
-                        System.exit(0);
+    					System.exit(0);
                     } 
                     else {
                         String dia = fecha.substring(0, 2);
@@ -179,12 +186,16 @@ public class PalacioDownload {
                         	nameSeccion = "CALZADO+CABALLEROS+Y+ACCESORIOS";
                         	idSeccion = "5B0310302";
                         }
+                        if(seccion.equals("5")){
+                        	nameSeccion = "MUJER+SPORT";
+                        	idSeccion = "5B0310201";
+                        }
 
                         String url = "https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1609021408/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&lsS1.Fecha%20Inicio%20(Desde)="+dia+"%2F"+mes+"%2F"+anio+"+12%3A00%3A00+p%2Em%2E&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)="+dia+"%2F"+mes+"%2F"+anio+"+12%3A00%3A00+p%2Em%2E&lsMDepartamento="+nameSeccion+"&lsIDepartamento=%5B0CM%5FCDT3%5D%2E%"+idSeccion+"%5D";
                         log.info("URL! " + url);
                         TimeUnit.SECONDS.sleep(5);
-
                         driver.get(url);
+                        
                         WebDriverWait waitPage = new WebDriverWait(driver, 10);
                         waitPage.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt("openDocChildFrame"));
                         waitPage.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt("webiViewFrame"));
@@ -197,51 +208,58 @@ public class PalacioDownload {
                         driver.switchTo().defaultContent();
                         driver.switchTo().frame("openDocChildFrame");
                         driver.switchTo().frame("webiViewFrame");
+                        
+                        boolean exists = driver.findElements( By.id("dlg_txt_alertDlg") ).size() != 0;
+                        System.out.println("-------------");
+                        if(!exists){
 
-                        WebElement element = driver.findElement(By.id("IconImg_iconMenu_icon__dhtmlLib_264"));
-                        element.click();
-                        WebElement element2 = driver.findElement(By.id("iconMenu_menu__dhtmlLib_264_span_text__menuAutoId_24"));
-                        element2.click();
-
-                        TimeUnit.SECONDS.sleep(2);
-
-                        WebElement select = driver.findElement(By.id("cbColSep"));
-                        Select dropDown = new Select(select);
-
-                        List<WebElement> Options = dropDown.getOptions();
-                        for (WebElement option : Options) {
-                            if (option.getText().equals(";")) {
-                                option.click();
-                            }
+	                        WebElement element = driver.findElement(By.id("IconImg_iconMenu_icon__dhtmlLib_264"));
+	                        element.click();
+	                        WebElement element2 = driver.findElement(By.id("iconMenu_menu__dhtmlLib_264_span_text__menuAutoId_24"));
+	                        element2.click();
+	
+	                        TimeUnit.SECONDS.sleep(2);
+	
+	                        WebElement select = driver.findElement(By.id("cbColSep"));
+	                        Select dropDown = new Select(select);
+	
+	                        List<WebElement> Options = dropDown.getOptions();
+	                        for (WebElement option : Options) {
+	                            if (option.getText().equals(";")) {
+	                                option.click();
+	                            }
+	                        }
+	
+	                        Robot robott = new Robot();
+	                        robott.keyPress(KeyEvent.VK_ENTER);
+	
+	                        TimeUnit.SECONDS.sleep(5);
+	
+	                        WebElement button = driver.findElement(By.id("RealBtn_csvopOKButton"));
+	                        button.click();
+	
+	                        TimeUnit.SECONDS.sleep(10);
+	
+	                        //com.evolve.webbot.file.FileReader fr = new com.evolve.webbot.file.FileReader();                        
+	                        String pathFile = config.getPathFolderData() + portal + "\\" + nameSeccion + "\\" + filePrefix + fecha + ".txt";
+	                        System.out.println(pathFile);
+	                        String pathDownload = config.getPathDownloads()+"\\Ventas_Netas_diarias_Detallado.csv";
+	
+	                        File file = new File(pathDownload);
+	                        String txtFilePath = pathFile;
+	
+	                        readPalacioFile(file, txtFilePath);
+	
+	                        TimeUnit.SECONDS.sleep(5);
+	                        if (file.delete())
+	                        	   System.out.println("El fichero ha sido borrado satisfactoriamente");
+	                        	else
+	                        	   System.out.println("El fichero no puede ser borrado");
+	                        TimeUnit.SECONDS.sleep(5);
+	                        //util.checkFilePalacio();
+                        }else{
+                        	System.out.println("No existe informacion con "+fecha);
                         }
-
-                        Robot robott = new Robot();
-                        robott.keyPress(KeyEvent.VK_ENTER);
-
-                        TimeUnit.SECONDS.sleep(5);
-
-                        WebElement button = driver.findElement(By.id("RealBtn_csvopOKButton"));
-                        button.click();
-
-                        TimeUnit.SECONDS.sleep(10);
-
-                        //com.evolve.webbot.file.FileReader fr = new com.evolve.webbot.file.FileReader();                        
-                        String pathFile = config.getPathFolderData() + portal + "\\" + nameSeccion + "\\" + filePrefix + fecha + ".txt";
-                        System.out.println(pathFile);
-                        String pathDownload = config.getPathDownloads()+"\\Ventas_Netas_diarias_Detallado.csv";
-
-                        File file = new File(pathDownload);
-                        String txtFilePath = pathFile;
-
-                        readPalacioFile(file, txtFilePath);
-
-                        TimeUnit.SECONDS.sleep(5);
-                        if (file.delete())
-                        	   System.out.println("El fichero ha sido borrado satisfactoriamente");
-                        	else
-                        	   System.out.println("El fichero no puede ser borrado");
-                        TimeUnit.SECONDS.sleep(5);
-                        //util.checkFilePalacio();                        
                     }
                     
                 } 
@@ -267,6 +285,10 @@ public class PalacioDownload {
                     	nameSeccion = "CALZADO+CABALLEROS+Y+ACCESORIOS";
                     	idSeccion = "5B0310302";
                     }
+                    if(seccion.equals("5")){
+                    	nameSeccion = "MUJER+SPORT";
+                    	idSeccion = "5B0310201";
+                    }
                     
                     String url = "https://wdbop.palaciohierro.com.mx/BOE/OpenDocument/1609021408/AnalyticalReporting/opendoc/openDocument.jsp?iDocID=FknBR1Ccbw4AzHYAAEDZ5EQBAFBWvQBx&sIDType=CUID&sType=wid&lsS1.Fecha%20Inicio%20(Desde)="+dia+"%2F"+mes+"%2F"+anio+"+12%3A00%3A00+p%2Em%2E&lsS2.Fecha%20Fin%20(Hasta%2090%20d%C3%ADas)="+dia+"%2F"+mes+"%2F"+anio+"+12%3A00%3A00+p%2Em%2E&lsMDepartamento="+nameSeccion+"&lsIDepartamento=%5B0CM%5FCDT3%5D%2E%"+idSeccion+"%5D";
                     TimeUnit.SECONDS.sleep(8);
@@ -285,53 +307,58 @@ public class PalacioDownload {
                     driver.switchTo().defaultContent();
                     driver.switchTo().frame("openDocChildFrame");
                     driver.switchTo().frame("webiViewFrame");
-                    
-                    System.out.println("aqui1");
-                    TimeUnit.SECONDS.sleep(8);
-                    WebElement element = driver.findElement(By.id("IconImg_iconMenu_icon__dhtmlLib_264"));
-                    element.click();
-                    System.out.println("aqui2");
-                    WebElement element2 = driver.findElement(By.id("iconMenu_menu__dhtmlLib_264_span_text__menuAutoId_24"));
-                    element2.click();
-
-                    TimeUnit.SECONDS.sleep(2);
-
-                    WebElement select = driver.findElement(By.id("cbColSep"));
-                    Select dropDown = new Select(select);
-
-                    List<WebElement> Options = dropDown.getOptions();
-                    for (WebElement option : Options) {
-                        if (option.getText().equals(";")) {
-                            option.click();
-                        }
+                    boolean exists = driver.findElements( By.id("dlg_txt_alertDlg") ).size() != 0;
+                    System.out.println("-------------");
+                    if(!exists){
+	                    System.out.println("aqui1");
+	                    TimeUnit.SECONDS.sleep(8);
+	                    WebElement element = driver.findElement(By.id("IconImg_iconMenu_icon__dhtmlLib_264"));
+	                    element.click();
+	                    System.out.println("aqui2");
+	                    WebElement element2 = driver.findElement(By.id("iconMenu_menu__dhtmlLib_264_span_text__menuAutoId_24"));
+	                    element2.click();
+	
+	                    TimeUnit.SECONDS.sleep(2);
+	
+	                    WebElement select = driver.findElement(By.id("cbColSep"));
+	                    Select dropDown = new Select(select);
+	
+	                    List<WebElement> Options = dropDown.getOptions();
+	                    for (WebElement option : Options) {
+	                        if (option.getText().equals(";")) {
+	                            option.click();
+	                        }
+	                    }
+	
+	                    Robot robott = new Robot();
+	                    robott.keyPress(KeyEvent.VK_ENTER);
+	
+	                    TimeUnit.SECONDS.sleep(10);
+	
+	                    WebElement button = driver.findElement(By.id("RealBtn_csvopOKButton"));
+	                    button.click();
+	
+	                    TimeUnit.SECONDS.sleep(10);                        
+	
+	                    String pathFile = config.getPathFolderData() + portal + "\\" + nameSeccion + "\\" + filePrefix + fecha + ".txt";
+	                    String pathDownload = config.getPathDownloads()+"\\Ventas_Netas_diarias_Detallado.csv";
+	
+	                    File file = new File(pathDownload);
+	                    String txtFilePath = pathFile;
+	
+	                    readPalacioFile(file, txtFilePath);
+	
+	                    TimeUnit.SECONDS.sleep(5);
+	                    if (file.delete())
+	                 	   System.out.println("El fichero ha sido borrado satisfactoriamente");
+	                 	else
+	                 	   System.out.println("El fichero no puede ser borrado");
+	                    
+	                    TimeUnit.SECONDS.sleep(5);
+	                    //util.checkFilePalacio();
+                    }else{
+                    	System.out.println("No existe informacion con "+fecha);
                     }
-
-                    Robot robott = new Robot();
-                    robott.keyPress(KeyEvent.VK_ENTER);
-
-                    TimeUnit.SECONDS.sleep(10);
-
-                    WebElement button = driver.findElement(By.id("RealBtn_csvopOKButton"));
-                    button.click();
-
-                    TimeUnit.SECONDS.sleep(10);                        
-
-                    String pathFile = config.getPathFolderData() + portal + "\\" + nameSeccion + "\\" + filePrefix + fecha + ".txt";
-                    String pathDownload = config.getPathDownloads()+"\\Ventas_Netas_diarias_Detallado.csv";
-
-                    File file = new File(pathDownload);
-                    String txtFilePath = pathFile;
-
-                    readPalacioFile(file, txtFilePath);
-
-                    TimeUnit.SECONDS.sleep(5);
-                    if (file.delete())
-                 	   System.out.println("El fichero ha sido borrado satisfactoriamente");
-                 	else
-                 	   System.out.println("El fichero no puede ser borrado");
-                    
-                    TimeUnit.SECONDS.sleep(5);
-                    //util.checkFilePalacio();                        
                 }
 
             } 
@@ -339,6 +366,8 @@ public class PalacioDownload {
             	if (iIndPortalEjec == 0) {
                     log.info("[-]Portal Palacio Desactivado");
                     util.insertLog(cuenta, portal, "Download - palacioAccess: Portal desactivado", "error");
+                    driver.quit();
+					System.exit(0);
                 }
             }
 

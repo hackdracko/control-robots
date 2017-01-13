@@ -84,6 +84,9 @@ public class PalacioInsert {
                 if(seccion.equals("4")){
                 	nameSeccion = "CALZADO+CABALLEROS+Y+ACCESORIOS";
                 }
+                if(seccion.equals("5")){
+                	nameSeccion = "MUJER+SPORT";
+                }
                 util.renameFileSeccionPalacioHierro(fecha, config, nameSeccion);
                 
                 readDataPalacioCesarfer(fecha, seccion);
@@ -117,6 +120,9 @@ public class PalacioInsert {
             }
             if(seccion.equals("4")){
             	nameSeccion = "CALZADO+CABALLEROS+Y+ACCESORIOS";
+            }
+            if(seccion.equals("5")){
+            	nameSeccion = "MUJER+SPORT";
             }
             
             String urlFile = pathFiles+portal+"\\"+nameSeccion+"\\"+prop.getProperty(portal+".prefix")+fecha + ".csv";
@@ -263,7 +269,7 @@ public class PalacioInsert {
         try {
             con = connection;
             con.setAutoCommit(false);
-            log.info("[+]Comienza Inserción de datos Palacio-Cesarfer");
+            log.info("[+]Comienza Inserci�n de datos Palacio-Cesarfer");
             util.insertLog(cuenta, portal, "Insert - insertarDATA: Comienza Insercción en BD concentradov", "success");
 
             String queryInsert = "INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) \n"

@@ -21,8 +21,10 @@ import java.util.logging.Logger;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxProfile;
@@ -151,14 +153,26 @@ public class JuguetronDownload {
 				driver.findElement(By.name("user_name")).sendKeys(user);
 				driver.findElement(By.name("user_pwd")).sendKeys(pass);
 				driver.findElement(By.name("Login")).click();
+				try {
+				    Alert alert = driver.switchTo().alert();
+				    alert.accept();
+				}
+				catch (NoAlertPresentException e) {
+				}
 
 				boolean success = driver.getPageSource()
-						.contains("La dirección de correo electrónico o la contraseña son incorrectas.");
+						.contains("The Email Address or Password are incorrect.");
 
 				if (success == true) {
 					log.warn("ERROR Logeo, Usuario y/o Password incorrectos ");
 					util.insertLog(cuenta, portal, "Download - Main: Usuario/Password incorrectos", "error");
 					terminaDriver(driver);
+                    try {
+        				Statement s = (Statement) conn.createStatement();            				
+        				s.executeUpdate ("UPDATE proyectos_cadenas SET activo=0 WHERE nombreProyecto LIKE '%"+cuenta+"%' AND nombreCadena LIKE '%"+portal+"%'");            				            				            				
+        			} catch (SQLException e) {				
+        				e.printStackTrace();
+        			}
 					System.exit(0);
 				} else {
 					System.out.println("Paso->1");

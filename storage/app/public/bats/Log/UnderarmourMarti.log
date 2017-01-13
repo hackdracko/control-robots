@@ -947,3 +947,226 @@
 01-12-2016@14:43:52 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_01122016.csv (The system cannot find the file specified)
 01-12-2016@14:43:52 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_01122016.csv (The system cannot find the file specified)
 01-12-2016@14:43:52 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:09 INFO  (MartiDownload.java:69)     - MAIN: Se ejecuta Marti underarmour
+01-12-2016@20:48:09 INFO  (Utileria.java:257)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@20:48:09 INFO  (MartiDownload.java:97)     - [-]Termina ejecución del portal Juguetron Spinmaster
+01-12-2016@20:48:10 INFO  (MartiInsert.java:47)     - INSERT; Se ejecuta Marti insert en cuenta: underarmour
+01-12-2016@20:48:10 INFO  (MartiInsert.java:70)     - ultima fecha: 31102016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Tue Nov 01 00:00:00 CDT 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Wed Nov 02 00:00:00 CDT 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Thu Nov 03 00:00:00 CDT 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Fri Nov 04 00:00:00 CDT 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Sat Nov 05 00:00:00 CDT 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Sun Nov 06 00:00:00 CDT 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Mon Nov 07 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Tue Nov 08 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Wed Nov 09 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Thu Nov 10 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Fri Nov 11 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Sat Nov 12 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Sun Nov 13 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Mon Nov 14 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Tue Nov 15 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Wed Nov 16 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Thu Nov 17 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Fri Nov 18 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Sat Nov 19 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Sun Nov 20 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Mon Nov 21 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Tue Nov 22 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Wed Nov 23 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Thu Nov 24 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Fri Nov 25 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Sat Nov 26 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Sun Nov 27 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Mon Nov 28 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Tue Nov 29 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (Utileria.java:449)     - old date: Thu Dec 01 00:00:00 CST 2016
+01-12-2016@20:48:10 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:10 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_01112016.txt a D:\DataRobots\underarmour\marti\marti_01112016.csv
+01-12-2016@20:48:10 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 01112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:12 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_01112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:12 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_01112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:12 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:12 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:12 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_02112016.txt a D:\DataRobots\underarmour\marti\marti_02112016.csv
+01-12-2016@20:48:12 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 02112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:14 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_02112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:14 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_02112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:14 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:14 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:14 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_03112016.txt a D:\DataRobots\underarmour\marti\marti_03112016.csv
+01-12-2016@20:48:14 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 03112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:16 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_03112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:16 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_03112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:16 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:16 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:16 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_04112016.txt a D:\DataRobots\underarmour\marti\marti_04112016.csv
+01-12-2016@20:48:16 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 04112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:18 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_04112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:18 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_04112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:18 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:18 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:18 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_05112016.txt a D:\DataRobots\underarmour\marti\marti_05112016.csv
+01-12-2016@20:48:18 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 05112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:20 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_05112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:20 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_05112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:20 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:20 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:20 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_06112016.txt a D:\DataRobots\underarmour\marti\marti_06112016.csv
+01-12-2016@20:48:20 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 06112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:22 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_06112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:22 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_06112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:22 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:22 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:22 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_07112016.txt a D:\DataRobots\underarmour\marti\marti_07112016.csv
+01-12-2016@20:48:22 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 07112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:24 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_07112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:24 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_07112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:24 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:24 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:24 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_08112016.txt a D:\DataRobots\underarmour\marti\marti_08112016.csv
+01-12-2016@20:48:24 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 08112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:26 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_08112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:26 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_08112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:26 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:26 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:26 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_09112016.txt a D:\DataRobots\underarmour\marti\marti_09112016.csv
+01-12-2016@20:48:26 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 09112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:28 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_09112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:28 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_09112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:28 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:28 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:28 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_10112016.txt a D:\DataRobots\underarmour\marti\marti_10112016.csv
+01-12-2016@20:48:28 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 10112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:30 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_10112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:30 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_10112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:30 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:30 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:30 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_11112016.txt a D:\DataRobots\underarmour\marti\marti_11112016.csv
+01-12-2016@20:48:30 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 11112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:32 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_11112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:32 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_11112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:32 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:32 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:32 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_12112016.txt a D:\DataRobots\underarmour\marti\marti_12112016.csv
+01-12-2016@20:48:32 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 12112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:34 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_12112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:34 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_12112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:34 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:34 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:34 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_13112016.txt a D:\DataRobots\underarmour\marti\marti_13112016.csv
+01-12-2016@20:48:34 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 13112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:36 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_13112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:36 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_13112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:36 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:36 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:36 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_14112016.txt a D:\DataRobots\underarmour\marti\marti_14112016.csv
+01-12-2016@20:48:36 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 14112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:38 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_14112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:38 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_14112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:38 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:38 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:38 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_15112016.txt a D:\DataRobots\underarmour\marti\marti_15112016.csv
+01-12-2016@20:48:38 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 15112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:40 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_15112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:40 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_15112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:40 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:40 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:40 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_16112016.txt a D:\DataRobots\underarmour\marti\marti_16112016.csv
+01-12-2016@20:48:40 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 16112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:42 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_16112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:42 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_16112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:42 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:42 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:42 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_17112016.txt a D:\DataRobots\underarmour\marti\marti_17112016.csv
+01-12-2016@20:48:42 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 17112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:44 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_17112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:44 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_17112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:44 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:44 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:44 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_18112016.txt a D:\DataRobots\underarmour\marti\marti_18112016.csv
+01-12-2016@20:48:44 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 18112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:46 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_18112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:46 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_18112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:46 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:46 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:46 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_19112016.txt a D:\DataRobots\underarmour\marti\marti_19112016.csv
+01-12-2016@20:48:46 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 19112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:48 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_19112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:48 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_19112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:48 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:48 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:48 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_20112016.txt a D:\DataRobots\underarmour\marti\marti_20112016.csv
+01-12-2016@20:48:48 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 20112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:50 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_20112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:50 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_20112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:50 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:50 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:50 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_21112016.txt a D:\DataRobots\underarmour\marti\marti_21112016.csv
+01-12-2016@20:48:50 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 21112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:52 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_21112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:52 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_21112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:52 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:52 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:52 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_22112016.txt a D:\DataRobots\underarmour\marti\marti_22112016.csv
+01-12-2016@20:48:52 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 22112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:54 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_22112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:54 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_22112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:54 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:54 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:54 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_23112016.txt a D:\DataRobots\underarmour\marti\marti_23112016.csv
+01-12-2016@20:48:54 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 23112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:56 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_23112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:56 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_23112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:56 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:56 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:56 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_24112016.txt a D:\DataRobots\underarmour\marti\marti_24112016.csv
+01-12-2016@20:48:56 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 24112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:48:58 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_24112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:58 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_24112016.csv (The system cannot find the file specified)
+01-12-2016@20:48:58 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:48:58 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:48:58 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_25112016.txt a D:\DataRobots\underarmour\marti\marti_25112016.csv
+01-12-2016@20:48:58 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 25112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:49:00 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_25112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:00 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_25112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:00 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:49:00 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:49:00 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_26112016.txt a D:\DataRobots\underarmour\marti\marti_26112016.csv
+01-12-2016@20:49:00 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 26112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:49:02 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_26112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:02 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_26112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:02 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:49:02 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:49:02 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_27112016.txt a D:\DataRobots\underarmour\marti\marti_27112016.csv
+01-12-2016@20:49:02 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 27112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:49:04 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_27112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:04 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_27112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:04 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:49:04 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:49:04 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_28112016.txt a D:\DataRobots\underarmour\marti\marti_28112016.csv
+01-12-2016@20:49:04 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 28112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:49:06 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_28112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:06 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_28112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:06 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:49:06 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:49:06 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_29112016.txt a D:\DataRobots\underarmour\marti\marti_29112016.csv
+01-12-2016@20:49:06 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 29112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:49:08 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_29112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:08 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_29112016.csv (The system cannot find the file specified)
+01-12-2016@20:49:08 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:49:08 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:49:08 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_30112016.txt a D:\DataRobots\underarmour\marti\marti_30112016.csv
+01-12-2016@20:49:08 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 30112016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:49:10 INFO  (MartiInsert.java:229)     - Incorrect integer value: ' ' for column 'grupo' at row 1
+01-12-2016@20:49:10 INFO  (MartiInsert.java:230)     - Query-> com.mysql.jdbc.JDBC4PreparedStatement@45099dd3: INSERT INTO tempMarti(id,fecha,fechaarchivo,fechacarga,tienda,nombre,idMarti,descripcion,categoria,grupo,descripcion2,modelo,temporada,marca,color,talla,upc,ventas,fechaVenta,ventasNetas,precioIva,ventasPublicoSinIva,impRebaja,rebajaPorcentaje) VALUES(null,'2016-11-30','2016-11-30','2016-12-01 20:49:10','TOTALES',' ',' ','1',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ','0.00',' ','0.00',' ',' ')
+01-12-2016@20:49:10 INFO  (MartiInsert.java:121)     - Error ocurrido mientras se cargaban datos del archivo Juguetron Spinmaster a la base de datos.Incorrect integer value: ' ' for column 'grupo' at row 1
+01-12-2016@20:49:10 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria
+01-12-2016@20:49:10 INFO  (MartiInsert.java:76)     - INSERT: Comienza inserción de portal Marti Underamour venta diaria
+01-12-2016@20:49:10 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\underarmour\marti\marti_01122016.txt a D:\DataRobots\underarmour\marti\marti_01122016.csv
+01-12-2016@20:49:10 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 01122016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@20:49:12 INFO  (MartiInsert.java:141)     - D:\DataRobots\underarmour\marti\marti_01122016.csv (The system cannot find the file specified)
+01-12-2016@20:49:12 INFO  (MartiInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\underarmour\marti\marti_01122016.csv (The system cannot find the file specified)
+01-12-2016@20:49:12 INFO  (MartiInsert.java:81)     - INSERT: Termina insersión de portal Marti Underamour venta diaria

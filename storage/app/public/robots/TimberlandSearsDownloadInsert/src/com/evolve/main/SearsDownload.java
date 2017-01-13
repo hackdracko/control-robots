@@ -149,7 +149,6 @@ public class SearsDownload {
 		}
 		
 		urlLogin = prop.getProperty(portal + ".urlLogin");
-		System.out.println("--------"+urlLogin);
 
 		try {
 			if (indPortalEjec == 1) {
@@ -162,13 +161,34 @@ public class SearsDownload {
 
 				boolean success = driver.getPageSource()
 						.contains("Contraseña Incorrecta");
-
+				
+				boolean expira = driver.getPageSource()
+						.contains("Su contraseña ha expirado");
 				if (success == true) {
 					log.warn("ERROR Logeo, Usuario y/o Password incorrectos ");
 					util.insertLog(cuenta, portal, "Download - Main: Usuario/Password incorrectos", "error");
 					terminaDriver(driver);
+                    //Desactivando el robot
+                    try {
+        				Statement s = (Statement) conn.createStatement();            				
+        				s.executeUpdate ("UPDATE proyectos_cadenas SET activo=0 WHERE nombreProyecto LIKE '%"+cuenta+"%' AND nombreCadena LIKE '%"+portal+"%'");            				            				            				
+        			} catch (SQLException e) {				
+        				e.printStackTrace();
+        			}
 					System.exit(0);
-				} else {
+				}else if(expira == true){
+					log.warn("ERROR Logeo, Contraseña expirada");
+					util.insertLog(cuenta, portal, "Download - Main: Contraseña expirada", "error");
+					terminaDriver(driver);
+                    //Desactivando el robot
+                    try {
+        				Statement s = (Statement) conn.createStatement();            				
+        				s.executeUpdate ("UPDATE proyectos_cadenas SET activo=0 WHERE nombreProyecto LIKE '%"+cuenta+"%' AND nombreCadena LIKE '%"+portal+"%'");            				            				            				
+        			} catch (SQLException e) {				
+        				e.printStackTrace();
+        			}
+					System.exit(0);
+				}else {
 					System.out.println("Paso->1");
 					TimeUnit.SECONDS.sleep(3);
 					log.info("Fecha de descarga: " + fechaDownload);
@@ -450,7 +470,6 @@ public class SearsDownload {
 	    				if(checkError == true){
 	    					driver.close();
 	    					TimeUnit.SECONDS.sleep(3);
-	    					log.error("ELEMENTO--> "+s);
 	    				}else{
 		                    Document doc;
 		                    String html_content = driver.getPageSource();
@@ -475,6 +494,13 @@ public class SearsDownload {
 								    Elements tds = row.select("td");
 								    for (Element td : tds) {
 								    	lineas = td.text().concat("|");
+								    	if(countElementtd == 0){
+								    		if(lineas.length() == 1){
+								    			break;
+								    		}else{
+								    			lineas = s + "|" + lineas;
+								    		}
+								    	}
 								    	if(countElementtd == 15){
 								    		lineas = lineas.replaceAll("|", "");
 								    		lineas = lineas.concat("\n");
@@ -484,20 +510,15 @@ public class SearsDownload {
 								    	}catch (IOException e) {
 								    	    //exception handling left as an exercise for the reader
 								    	}
-								        //System.out.println(lineas); // --> This will print them indiviadually
-								        //System.out.println("+++++++++++"+countElementtd);
 								        countElementtd++;
 								    }
 								    countElementtd = 0;
-								    //System.out.println(tds.text()); // -->This will pring everything
 								}
-							                                    // in the row
 							    countElement++;
 							    
 							}
-							// System.out.println(table);
 							driver.close();
-							TimeUnit.SECONDS.sleep(3);
+							TimeUnit.SECONDS.sleep(8);
 	    				}
 						driver.switchTo().window(winHandleBefore2);
 					}
@@ -508,6 +529,8 @@ public class SearsDownload {
 				if (indPortalEjec == 0) {
 					log.info("[-]Portal Comercial Cesarfer Desactivado");
 					util.insertLog(cuenta, portal, "Download - Main: Portal comercial desactivado", "error");
+					driver.close();
+					System.exit(0);
 				}
 			}
 		} catch (Exception e) {

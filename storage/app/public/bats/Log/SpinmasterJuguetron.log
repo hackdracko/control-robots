@@ -33,3 +33,19 @@
 01-12-2016@14:54:24 INFO  (Utileria.java:257)     - old date: Wed Nov 30 00:00:00 CST 2016
 01-12-2016@14:54:24 INFO  (Utileria.java:522)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
 01-12-2016@14:54:24 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_30112016
+01-12-2016@17:11:37 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+01-12-2016@17:11:37 INFO  (Utileria.java:257)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@17:11:37 INFO  (Utileria.java:522)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+01-12-2016@17:11:37 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_30112016
+01-12-2016@17:13:09 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+01-12-2016@17:13:09 INFO  (Utileria.java:233)     - Error: no se pudo setear la ultima fecha de reporte
+01-12-2016@17:14:00 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+01-12-2016@17:14:00 INFO  (Utileria.java:233)     - Error: no se pudo setear la ultima fecha de reporte
+01-12-2016@17:16:50 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+01-12-2016@17:16:50 INFO  (Utileria.java:257)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@17:16:50 INFO  (Utileria.java:522)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+01-12-2016@17:16:50 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_30112016
+01-12-2016@17:22:55 INFO  (JuguetronDownload.java:73)     - MAIN: Se ejecuta Juguetron spinmaster
+01-12-2016@17:22:55 INFO  (Utileria.java:257)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@17:22:55 INFO  (Utileria.java:522)     - CHECKEXIST: Archivo no encontrado...comienza la generación/descarga del link/archivo
+01-12-2016@17:22:55 INFO  (JuguetronDownload.java:87)     - MAIN: Comienza descarga de archivo juguetron_30112016

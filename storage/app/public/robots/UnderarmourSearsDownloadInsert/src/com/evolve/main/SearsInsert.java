@@ -93,7 +93,7 @@ public class SearsInsert {
         try {
 
             TimeUnit.SECONDS.sleep(2);
-            String[] headerRow = {"id", "fecha", "fechaarchivo", "fechacarga", "tienda", "ean", "sku", "estilo", "descripcion", "inventario", "pedidos", "ventas", "com", "cobertura", "costo", "naturaleza", "estatusArticulo", "codigoTemporada", "modaBasico", "marca", "importacion"};
+            String[] headerRow = {"id", "fecha", "fechaarchivo", "fechacarga", "tienda", "nombreTienda", "ean", "sku", "estilo", "descripcion", "inventario", "pedidos", "ventas", "com", "cobertura", "costo", "naturaleza", "estatusArticulo", "codigoTemporada", "modaBasico", "marca", "importacion"};
             Boolean isDoble = false;
             
             String urlFile = pathFiles+portal+"\\"+prop.getProperty(portal+".prefix")+fecha + ".csv";
@@ -180,17 +180,18 @@ public class SearsInsert {
             while ((nextLine = csvReader.readNext()) != null) {
 
                 if (null != nextLine) {
-                    int index = 6;
+                    int index = 5;
                     for (String string : nextLine) {
                     	//logger.log(Level.INFO, "{0}---{1}", new Object[]{string, index});
                         ps.setString(1, null);
                         ps.setString(2, fechaNueva);
                         ps.setString(3, fechaNueva);
                         ps.setString(4, fechaSistema);
-                        ps.setString(5, "0");
-                        
+                                               
+                        if(string.contains(",")){
+                        	string = string.replaceAll(",", "");
+                        }
                         if(string.length() == 1){
-                        	//System.out.println("tamaño de uno");
                         	char c = string.charAt(0);
                         	int ascii = (int) c;
                         	//System.out.println("el ascci del espacio " + ascii);
@@ -198,13 +199,12 @@ public class SearsInsert {
                         		string = "0";
                         	}
                         }
-                       
                         
                         if (string.isEmpty() || string.equals(" ")) {
                             string = "0";
                         }
                         //System.out.println(ps);
-                        if(index < 22){
+                        if(index < 23){
                         	ps.setString(index++, string);
                         }
                     }

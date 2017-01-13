@@ -1,0 +1,509 @@
+28-10-2015@13:36:58 INFO  (Utileria.java:51)     - [Error: No se pudo cargar el archivo general.properties]
+02-11-2015@18:01:32 INFO  (WalmartDownload.java:34)     - cesarfer
+03-11-2015@11:37:48 INFO  (WalmartDownload.java:43)     - Se ejecuta Walmart download
+03-11-2015@11:37:48 INFO  (Utileria.java:118)     - old date: Mon Nov 02 11:37:48 CST 2015
+03-11-2015@11:37:48 INFO  (Utileria.java:118)     - old date: Sun Nov 01 11:37:48 CST 2015
+03-11-2015@11:37:48 INFO  (Utileria.java:118)     - old date: Sat Oct 31 11:37:48 CST 2015
+03-11-2015@11:37:48 INFO  (Utileria.java:118)     - old date: Fri Oct 30 11:37:48 CST 2015
+03-11-2015@11:37:48 INFO  (Utileria.java:118)     - old date: Thu Oct 29 11:37:48 CST 2015
+03-11-2015@11:37:48 INFO  (Utileria.java:118)     - old date: Wed Oct 28 11:37:48 CST 2015
+03-11-2015@11:37:48 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+03-11-2015@11:37:48 INFO  (WalmartDownload.java:53)     - Comienza descarga de archivo walmart_11-02-2015
+03-11-2015@13:22:25 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+03-11-2015@13:22:25 INFO  (Utileria.java:118)     - old date: Mon Nov 02 13:22:25 CST 2015
+03-11-2015@13:22:25 INFO  (Utileria.java:118)     - old date: Sun Nov 01 13:22:25 CST 2015
+03-11-2015@13:22:25 INFO  (Utileria.java:118)     - old date: Sat Oct 31 13:22:25 CST 2015
+03-11-2015@13:22:25 INFO  (Utileria.java:118)     - old date: Fri Oct 30 13:22:25 CST 2015
+03-11-2015@13:22:25 INFO  (Utileria.java:118)     - old date: Thu Oct 29 13:22:25 CST 2015
+03-11-2015@13:22:25 INFO  (Utileria.java:118)     - old date: Wed Oct 28 13:22:25 CST 2015
+03-11-2015@13:22:25 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+03-11-2015@13:22:25 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-02-2015
+03-11-2015@15:39:58 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+03-11-2015@15:39:58 INFO  (Utileria.java:118)     - old date: Mon Nov 02 15:39:58 CST 2015
+03-11-2015@15:39:58 INFO  (Utileria.java:118)     - old date: Sun Nov 01 15:39:58 CST 2015
+03-11-2015@15:39:58 INFO  (Utileria.java:118)     - old date: Sat Oct 31 15:39:58 CST 2015
+03-11-2015@15:39:58 INFO  (Utileria.java:118)     - old date: Fri Oct 30 15:39:58 CST 2015
+03-11-2015@15:39:58 INFO  (Utileria.java:118)     - old date: Thu Oct 29 15:39:58 CST 2015
+03-11-2015@15:39:58 INFO  (Utileria.java:118)     - old date: Wed Oct 28 15:39:58 CST 2015
+03-11-2015@15:39:58 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+03-11-2015@15:39:58 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-02-2015
+03-11-2015@15:40:10 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_11-02-2015
+03-11-2015@15:40:15 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound06/ces4001_444867324_5BE19B08XFD80X46E4X8A60XCFC3BA8DB486.txt
+03-11-2015@15:40:19 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+03-11-2015@15:40:22 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+03-11-2015@15:40:22 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-01-2015
+03-11-2015@15:40:31 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_11-01-2015
+03-11-2015@15:40:31 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=444867331&status=D&Extension=txt&filename=/Outbound07/ces4001_444867331_79F8FF96X78FDX44F8X85D7X625BB34780C7&reqname=evolve_webbot_11-01-2015,444867331
+03-11-2015@15:40:40 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+03-11-2015@15:40:44 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+03-11-2015@15:40:44 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-31-2015
+03-11-2015@15:40:52 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-31-2015
+03-11-2015@15:40:57 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound05/ces4001_444867342_718156CCX837EX4877X8641X267D324E7A67.txt
+03-11-2015@15:41:01 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+03-11-2015@15:41:04 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+03-11-2015@15:41:04 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-30-2015
+03-11-2015@15:41:13 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-30-2015
+03-11-2015@15:41:13 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=444867355&status=D&Extension=txt&filename=/Outbound04/ces4001_444867355_C0A35C16XAAFFX4FF4XB5F0X8D685DB83BCA&reqname=evolve_webbot_10-30-2015,444867355
+03-11-2015@15:41:21 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+03-11-2015@15:41:24 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+03-11-2015@15:41:24 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-29-2015
+03-11-2015@15:41:33 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-29-2015
+03-11-2015@15:41:33 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=444867362&status=D&Extension=txt&filename=/Outbound07/ces4001_444867362_DBA8FD49X48B3X451BXBA45XAD0CD601D892&reqname=evolve_webbot_10-29-2015,444867362
+03-11-2015@15:41:41 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+03-11-2015@15:41:44 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+03-11-2015@15:41:44 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-28-2015
+03-11-2015@15:41:52 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-28-2015
+03-11-2015@15:41:57 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound02/ces4001_444867371_B4C2F632X621EX43A2X8F46XA0B9E401FC1D.txt
+03-11-2015@15:42:00 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+03-11-2015@15:42:04 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+03-11-2015@16:03:23 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+03-11-2015@16:03:23 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+03-11-2015@16:03:25 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+03-11-2015@16:03:27 INFO  (Utileria.java:227)     - old date: Mon Nov 02 16:03:27 CST 2015
+03-11-2015@16:03:27 INFO  (Utileria.java:227)     - old date: Sun Nov 01 16:03:27 CST 2015
+03-11-2015@16:03:27 INFO  (Utileria.java:227)     - old date: Sat Oct 31 16:03:27 CST 2015
+03-11-2015@16:03:27 INFO  (Utileria.java:227)     - old date: Fri Oct 30 16:03:27 CST 2015
+03-11-2015@16:03:27 INFO  (Utileria.java:227)     - old date: Thu Oct 29 16:03:27 CST 2015
+03-11-2015@16:03:27 INFO  (Utileria.java:227)     - old date: Wed Oct 28 16:03:27 CST 2015
+03-11-2015@16:03:27 INFO  (Utileria.java:227)     - old date: Tue Oct 27 16:03:27 CST 2015
+03-11-2015@16:03:27 INFO  (Utileria.java:227)     - old date: Mon Oct 26 16:03:27 CST 2015
+03-11-2015@16:03:27 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+03-11-2015@16:03:27 INFO  (Utileria.java:267)     - RENAME: El archivo 11-02-2015 existe
+03-11-2015@16:03:27 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 11-02-2015 correctamente cambiado
+03-11-2015@16:03:29 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-02-2015 existe
+03-11-2015@16:03:29 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-02-2015.csv
+03-11-2015@16:03:46 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+03-11-2015@16:03:46 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+03-11-2015@16:03:48 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+03-11-2015@16:03:48 INFO  (Utileria.java:267)     - RENAME: El archivo 11-01-2015 existe
+03-11-2015@16:03:48 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 11-01-2015 correctamente cambiado
+03-11-2015@16:03:50 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-01-2015 existe
+03-11-2015@16:03:50 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-01-2015.csv
+03-11-2015@16:04:04 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+03-11-2015@16:04:04 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+03-11-2015@16:04:06 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+03-11-2015@16:04:06 INFO  (Utileria.java:267)     - RENAME: El archivo 10-31-2015 existe
+03-11-2015@16:04:06 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-31-2015 correctamente cambiado
+03-11-2015@16:04:08 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-31-2015 existe
+03-11-2015@16:04:08 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-31-2015.csv
+03-11-2015@16:04:21 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+03-11-2015@16:04:21 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+03-11-2015@16:04:22 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+03-11-2015@16:04:22 INFO  (Utileria.java:267)     - RENAME: El archivo 10-30-2015 existe
+03-11-2015@16:04:22 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-30-2015 correctamente cambiado
+03-11-2015@16:04:24 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-30-2015 existe
+03-11-2015@16:04:24 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-30-2015.csv
+03-11-2015@16:04:37 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+03-11-2015@16:04:37 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+03-11-2015@16:04:39 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+03-11-2015@16:04:39 INFO  (Utileria.java:267)     - RENAME: El archivo 10-29-2015 existe
+03-11-2015@16:04:39 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-29-2015 correctamente cambiado
+03-11-2015@16:04:41 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-29-2015 existe
+03-11-2015@16:04:41 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-29-2015.csv
+03-11-2015@16:04:54 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+03-11-2015@16:04:54 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+03-11-2015@16:04:56 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+03-11-2015@16:04:56 INFO  (Utileria.java:267)     - RENAME: El archivo 10-28-2015 existe
+03-11-2015@16:04:56 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-28-2015 correctamente cambiado
+03-11-2015@16:04:58 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-28-2015 existe
+03-11-2015@16:04:58 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-28-2015.csv
+03-11-2015@16:05:10 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+03-11-2015@16:05:10 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+03-11-2015@16:05:12 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+03-11-2015@16:05:12 INFO  (Utileria.java:267)     - RENAME: El archivo 10-27-2015 existe
+03-11-2015@16:05:12 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-27-2015 correctamente cambiado
+03-11-2015@16:05:14 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-27-2015 existe
+03-11-2015@16:05:14 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-27-2015.csv
+03-11-2015@16:05:14 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+03-11-2015@16:05:14 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+03-11-2015@16:05:16 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+03-11-2015@16:05:16 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 10-26-2015, ya se renombro o no existe, pasando al siguiente archivo
+03-11-2015@16:05:18 INFO  (WalmartInsert.java:108)     - READ: El archivo con fecha: 10-26-2015 no existe o no se a descargado aun. Pasando al siguiente
+03-11-2015@16:05:18 INFO  (WalmartInsert.java:87)     - [-]Termina insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@11:40:27 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+04-11-2015@11:40:27 INFO  (Utileria.java:118)     - old date: Tue Nov 03 11:40:27 CST 2015
+04-11-2015@11:40:27 INFO  (Utileria.java:118)     - old date: Mon Nov 02 11:40:27 CST 2015
+04-11-2015@11:40:27 INFO  (Utileria.java:118)     - old date: Sun Nov 01 11:40:27 CST 2015
+04-11-2015@11:40:27 INFO  (Utileria.java:118)     - old date: Sat Oct 31 11:40:27 CST 2015
+04-11-2015@11:40:27 INFO  (Utileria.java:118)     - old date: Fri Oct 30 11:40:27 CST 2015
+04-11-2015@11:40:27 INFO  (Utileria.java:118)     - old date: Thu Oct 29 11:40:27 CST 2015
+04-11-2015@11:40:27 INFO  (Utileria.java:118)     - old date: Wed Oct 28 11:40:27 CST 2015
+04-11-2015@11:40:27 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@11:40:27 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-03-2015
+04-11-2015@11:55:22 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+04-11-2015@11:55:22 INFO  (Utileria.java:118)     - old date: Tue Nov 03 11:55:22 CST 2015
+04-11-2015@11:55:22 INFO  (Utileria.java:118)     - old date: Mon Nov 02 11:55:22 CST 2015
+04-11-2015@11:55:22 INFO  (Utileria.java:118)     - old date: Sun Nov 01 11:55:22 CST 2015
+04-11-2015@11:55:22 INFO  (Utileria.java:118)     - old date: Sat Oct 31 11:55:22 CST 2015
+04-11-2015@11:55:22 INFO  (Utileria.java:118)     - old date: Fri Oct 30 11:55:22 CST 2015
+04-11-2015@11:55:22 INFO  (Utileria.java:118)     - old date: Thu Oct 29 11:55:22 CST 2015
+04-11-2015@11:55:22 INFO  (Utileria.java:118)     - old date: Wed Oct 28 11:55:22 CST 2015
+04-11-2015@11:55:22 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@11:55:22 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-03-2015
+04-11-2015@11:55:36 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_11-03-2015
+04-11-2015@11:55:41 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound05/ces4001_444979346_F32B64A6X94F3X450FX890CXB4C4A2996D76.txt
+04-11-2015@11:55:45 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@11:55:48 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@11:55:48 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-02-2015
+04-11-2015@11:55:59 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_11-02-2015
+04-11-2015@11:55:59 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=444979351&status=D&Extension=txt&filename=/Outbound05/ces4001_444979351_8B184E91X8883X4E56XB7C6XB4A14A333AB9&reqname=evolve_webbot_11-02-2015,444979351
+04-11-2015@11:56:07 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@11:56:10 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@11:56:10 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-01-2015
+04-11-2015@11:56:18 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_11-01-2015
+04-11-2015@11:56:23 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound07/ces4001_444979358_1D52C26DX77ABX4499XBE63X52E344A4AD8B.txt
+04-11-2015@11:56:28 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@11:56:31 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@11:56:31 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-31-2015
+04-11-2015@11:56:39 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-31-2015
+04-11-2015@11:56:39 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=444979367&status=D&Extension=txt&filename=/Outbound04/ces4001_444979367_BD1901A2X0C83X440BXAF01XF897786DF1BE&reqname=evolve_webbot_10-31-2015,444979367
+04-11-2015@11:56:47 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@11:56:50 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@11:56:50 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-30-2015
+04-11-2015@11:57:00 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-30-2015
+04-11-2015@11:57:00 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=444979373&status=D&Extension=txt&filename=/Outbound04/ces4001_444979373_B1F11EF1X3FBFX4B06XB8BDX34836E9F9ED2&reqname=evolve_webbot_10-30-2015,444979373
+04-11-2015@11:57:09 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@11:57:12 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@11:57:12 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-29-2015
+04-11-2015@11:57:21 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-29-2015
+04-11-2015@11:57:26 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound07/ces4001_444979387_EAE518C2X0EE0X412AXABA4X0697FDF2AD5A.txt
+04-11-2015@11:57:29 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@11:57:32 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@11:57:32 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-28-2015
+04-11-2015@11:57:41 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-28-2015
+04-11-2015@11:57:46 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound05/ces4001_444979395_DD8F12FFXC4B6X4835X97A3X747651383494.txt
+04-11-2015@11:57:49 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@11:57:53 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+04-11-2015@11:57:53 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+04-11-2015@11:57:53 INFO  (Utileria.java:227)     - old date: Tue Nov 03 11:57:53 CST 2015
+04-11-2015@11:57:53 INFO  (Utileria.java:227)     - old date: Mon Nov 02 11:57:53 CST 2015
+04-11-2015@11:57:53 INFO  (Utileria.java:227)     - old date: Sun Nov 01 11:57:53 CST 2015
+04-11-2015@11:57:53 INFO  (Utileria.java:227)     - old date: Sat Oct 31 11:57:53 CST 2015
+04-11-2015@11:57:53 INFO  (Utileria.java:227)     - old date: Fri Oct 30 11:57:53 CST 2015
+04-11-2015@11:57:53 INFO  (Utileria.java:227)     - old date: Thu Oct 29 11:57:53 CST 2015
+04-11-2015@11:57:53 INFO  (Utileria.java:227)     - old date: Wed Oct 28 11:57:53 CST 2015
+04-11-2015@11:57:53 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@11:57:53 INFO  (Utileria.java:267)     - RENAME: El archivo 11-03-2015 existe
+04-11-2015@11:57:53 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 11-03-2015 correctamente cambiado
+04-11-2015@11:57:55 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-03-2015 existe
+04-11-2015@11:57:55 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-03-2015.csv
+04-11-2015@11:58:13 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@11:58:13 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@11:58:13 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@11:58:13 INFO  (Utileria.java:267)     - RENAME: El archivo 11-02-2015 existe
+04-11-2015@11:58:13 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 11-02-2015 correctamente cambiado
+04-11-2015@11:58:15 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-02-2015 existe
+04-11-2015@11:58:15 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-02-2015.csv
+04-11-2015@11:58:28 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@11:58:28 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@11:58:29 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@11:58:29 INFO  (Utileria.java:267)     - RENAME: El archivo 11-01-2015 existe
+04-11-2015@11:58:29 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 11-01-2015 correctamente cambiado
+04-11-2015@11:58:31 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-01-2015 existe
+04-11-2015@11:58:31 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-01-2015.csv
+04-11-2015@11:58:44 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@11:58:44 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@11:58:45 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@11:58:45 INFO  (Utileria.java:267)     - RENAME: El archivo 10-31-2015 existe
+04-11-2015@11:58:45 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-31-2015 correctamente cambiado
+04-11-2015@11:58:47 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-31-2015 existe
+04-11-2015@11:58:47 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-31-2015.csv
+04-11-2015@11:59:02 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@11:59:02 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@11:59:03 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@11:59:03 INFO  (Utileria.java:267)     - RENAME: El archivo 10-30-2015 existe
+04-11-2015@11:59:03 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-30-2015 correctamente cambiado
+04-11-2015@11:59:05 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-30-2015 existe
+04-11-2015@11:59:05 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-30-2015.csv
+04-11-2015@11:59:19 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@11:59:19 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@11:59:20 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@11:59:20 INFO  (Utileria.java:267)     - RENAME: El archivo 10-29-2015 existe
+04-11-2015@11:59:20 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-29-2015 correctamente cambiado
+04-11-2015@11:59:22 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-29-2015 existe
+04-11-2015@11:59:22 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-29-2015.csv
+04-11-2015@11:59:33 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@11:59:33 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@11:59:34 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@11:59:34 INFO  (Utileria.java:267)     - RENAME: El archivo 10-28-2015 existe
+04-11-2015@11:59:34 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-28-2015 correctamente cambiado
+04-11-2015@11:59:36 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-28-2015 existe
+04-11-2015@11:59:36 INFO  (WalmartInsert.java:123)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-28-2015.csv
+04-11-2015@11:59:48 INFO  (WalmartInsert.java:206)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@11:59:48 INFO  (WalmartInsert.java:240)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@11:59:48 INFO  (WalmartInsert.java:87)     - [-]Termina insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:23:23 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+04-11-2015@12:23:23 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+04-11-2015@12:23:25 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+04-11-2015@12:23:25 INFO  (WalmartInsert.java:87)     - [-]Termina insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:27:12 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+04-11-2015@12:27:12 INFO  (Utileria.java:118)     - old date: Tue Nov 03 12:27:12 CST 2015
+04-11-2015@12:27:12 INFO  (Utileria.java:118)     - old date: Mon Nov 02 12:27:12 CST 2015
+04-11-2015@12:27:12 INFO  (Utileria.java:118)     - old date: Sun Nov 01 12:27:12 CST 2015
+04-11-2015@12:27:12 INFO  (Utileria.java:118)     - old date: Sat Oct 31 12:27:12 CST 2015
+04-11-2015@12:27:12 INFO  (Utileria.java:118)     - old date: Fri Oct 30 12:27:12 CST 2015
+04-11-2015@12:27:12 INFO  (Utileria.java:118)     - old date: Thu Oct 29 12:27:12 CST 2015
+04-11-2015@12:27:12 INFO  (Utileria.java:118)     - old date: Wed Oct 28 12:27:12 CST 2015
+04-11-2015@12:27:12 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@12:27:12 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-03-2015
+04-11-2015@12:27:27 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_11-03-2015
+04-11-2015@12:27:33 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound05/ces4001_444979346_F32B64A6X94F3X450FX890CXB4C4A2996D76.txt
+04-11-2015@12:27:37 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@12:27:41 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@12:27:41 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-02-2015
+04-11-2015@12:27:49 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_11-02-2015
+04-11-2015@12:27:54 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound05/ces4001_444979351_8B184E91X8883X4E56XB7C6XB4A14A333AB9.txt
+04-11-2015@12:27:58 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@12:28:01 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@12:28:01 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_11-01-2015
+04-11-2015@12:28:11 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_11-01-2015
+04-11-2015@12:28:16 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound07/ces4001_444979358_1D52C26DX77ABX4499XBE63X52E344A4AD8B.txt
+04-11-2015@12:28:20 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@12:28:23 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@12:28:23 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-31-2015
+04-11-2015@12:28:31 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-31-2015
+04-11-2015@12:28:32 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/decision_support/Status_retrieve_request.aspx?questionid=Q10102&applicationid=300&JobId=444979367&status=R&Extension=txt&filename=/Outbound04/ces4001_444979367_BD1901A2X0C83X440BXAF01XF897786DF1BE&reqname=evolve_webbot_10-31-2015,444979367
+04-11-2015@12:28:40 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@12:28:43 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@12:28:43 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-30-2015
+04-11-2015@12:28:51 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-30-2015
+04-11-2015@12:28:56 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound04/ces4001_444979373_B1F11EF1X3FBFX4B06XB8BDX34836E9F9ED2.txt
+04-11-2015@12:29:00 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@12:29:03 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@12:29:03 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-29-2015
+04-11-2015@12:29:11 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-29-2015
+04-11-2015@12:29:16 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound07/ces4001_444979387_EAE518C2X0EE0X412AXABA4X0697FDF2AD5A.txt
+04-11-2015@12:29:20 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@12:29:23 INFO  (Utileria.java:251)     - [+]Archivo no encontrado...comienza la generación/descarga del link/archivo
+04-11-2015@12:29:23 INFO  (WalmartDownload.java:57)     - Comienza descarga de archivo walmart_10-28-2015
+04-11-2015@12:29:32 INFO  (WalmartDownload.java:127)     - Reporte : evolve_webbot_10-28-2015
+04-11-2015@12:29:36 INFO  (WalmartDownload.java:135)     - Url : https://retaillink.wal-mart.com/Outbound05/ces4001_444979395_DD8F12FFXC4B6X4835X97A3X747651383494.txt
+04-11-2015@12:29:40 INFO  (WalmartDownload.java:150)     - [-]Termina la creación del archivo
+04-11-2015@12:29:43 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+04-11-2015@12:29:44 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+04-11-2015@12:29:44 INFO  (Utileria.java:227)     - old date: Tue Nov 03 12:29:44 CST 2015
+04-11-2015@12:29:44 INFO  (Utileria.java:227)     - old date: Mon Nov 02 12:29:44 CST 2015
+04-11-2015@12:29:44 INFO  (Utileria.java:227)     - old date: Sun Nov 01 12:29:44 CST 2015
+04-11-2015@12:29:44 INFO  (Utileria.java:227)     - old date: Sat Oct 31 12:29:44 CST 2015
+04-11-2015@12:29:44 INFO  (Utileria.java:227)     - old date: Fri Oct 30 12:29:44 CST 2015
+04-11-2015@12:29:44 INFO  (Utileria.java:227)     - old date: Thu Oct 29 12:29:44 CST 2015
+04-11-2015@12:29:44 INFO  (Utileria.java:227)     - old date: Wed Oct 28 12:29:44 CST 2015
+04-11-2015@12:29:44 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:29:44 INFO  (Utileria.java:267)     - RENAME: El archivo 11-03-2015 existe
+04-11-2015@12:29:44 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 11-03-2015 correctamente cambiado
+04-11-2015@12:29:46 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-03-2015 existe
+04-11-2015@12:29:46 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-03-2015.csv
+04-11-2015@12:29:59 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:29:59 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:30:00 INFO  (WalmartInsert.java:118)     - Can not issue data manipulation statements with executeQuery().
+04-11-2015@12:30:00 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:30:00 INFO  (Utileria.java:267)     - RENAME: El archivo 11-02-2015 existe
+04-11-2015@12:30:00 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 11-02-2015 correctamente cambiado
+04-11-2015@12:30:02 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-02-2015 existe
+04-11-2015@12:30:02 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-02-2015.csv
+04-11-2015@12:30:17 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:30:17 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:30:18 INFO  (WalmartInsert.java:118)     - Can not issue data manipulation statements with executeQuery().
+04-11-2015@12:30:18 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:30:18 INFO  (Utileria.java:267)     - RENAME: El archivo 11-01-2015 existe
+04-11-2015@12:30:18 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 11-01-2015 correctamente cambiado
+04-11-2015@12:30:20 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-01-2015 existe
+04-11-2015@12:30:20 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-01-2015.csv
+04-11-2015@12:30:32 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:30:32 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:30:33 INFO  (WalmartInsert.java:118)     - Can not issue data manipulation statements with executeQuery().
+04-11-2015@12:30:33 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:30:33 INFO  (Utileria.java:267)     - RENAME: El archivo 10-31-2015 existe
+04-11-2015@12:30:33 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-31-2015 correctamente cambiado
+04-11-2015@12:30:35 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-31-2015 existe
+04-11-2015@12:30:35 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-31-2015.csv
+04-11-2015@12:30:47 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:30:47 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:30:48 INFO  (WalmartInsert.java:118)     - Can not issue data manipulation statements with executeQuery().
+04-11-2015@12:30:48 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:30:48 INFO  (Utileria.java:267)     - RENAME: El archivo 10-30-2015 existe
+04-11-2015@12:30:48 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-30-2015 correctamente cambiado
+04-11-2015@12:30:50 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-30-2015 existe
+04-11-2015@12:30:50 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-30-2015.csv
+04-11-2015@12:31:01 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:31:01 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:31:02 INFO  (WalmartInsert.java:118)     - Can not issue data manipulation statements with executeQuery().
+04-11-2015@12:31:02 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:31:02 INFO  (Utileria.java:267)     - RENAME: El archivo 10-29-2015 existe
+04-11-2015@12:31:02 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-29-2015 correctamente cambiado
+04-11-2015@12:31:04 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-29-2015 existe
+04-11-2015@12:31:04 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-29-2015.csv
+04-11-2015@12:31:16 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:31:16 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:31:17 INFO  (WalmartInsert.java:118)     - Can not issue data manipulation statements with executeQuery().
+04-11-2015@12:31:17 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:31:17 INFO  (Utileria.java:267)     - RENAME: El archivo 10-28-2015 existe
+04-11-2015@12:31:17 INFO  (Utileria.java:270)     - UTIL: Extencion de archivo walmart con fecha 10-28-2015 correctamente cambiado
+04-11-2015@12:31:19 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-28-2015 existe
+04-11-2015@12:31:19 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-28-2015.csv
+04-11-2015@12:31:30 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:31:30 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:31:31 INFO  (WalmartInsert.java:118)     - Can not issue data manipulation statements with executeQuery().
+04-11-2015@12:31:31 INFO  (WalmartInsert.java:87)     - [-]Termina insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:34:07 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+04-11-2015@12:34:07 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+04-11-2015@12:34:09 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+04-11-2015@12:34:09 INFO  (Utileria.java:227)     - old date: Tue Nov 03 12:34:09 CST 2015
+04-11-2015@12:34:09 INFO  (Utileria.java:227)     - old date: Mon Nov 02 12:34:09 CST 2015
+04-11-2015@12:34:09 INFO  (Utileria.java:227)     - old date: Sun Nov 01 12:34:09 CST 2015
+04-11-2015@12:34:09 INFO  (Utileria.java:227)     - old date: Sat Oct 31 12:34:09 CST 2015
+04-11-2015@12:34:09 INFO  (Utileria.java:227)     - old date: Fri Oct 30 12:34:09 CST 2015
+04-11-2015@12:34:09 INFO  (Utileria.java:227)     - old date: Thu Oct 29 12:34:09 CST 2015
+04-11-2015@12:34:09 INFO  (Utileria.java:227)     - old date: Wed Oct 28 12:34:09 CST 2015
+04-11-2015@12:34:09 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:34:09 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-03-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:34:11 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-03-2015 existe
+04-11-2015@12:34:11 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-03-2015.csv
+04-11-2015@12:34:24 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:34:24 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:34:25 INFO  (WalmartInsert.java:118)     - Data truncation: Incorrect datetime value: '11-03-2015' for column 'fechaArchivo' at row 1
+04-11-2015@12:34:25 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:34:25 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-02-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:34:27 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-02-2015 existe
+04-11-2015@12:34:27 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-02-2015.csv
+04-11-2015@12:34:41 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:34:41 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:34:42 INFO  (WalmartInsert.java:118)     - Data truncation: Incorrect datetime value: '11-02-2015' for column 'fechaArchivo' at row 1
+04-11-2015@12:34:42 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:34:42 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-01-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:34:44 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-01-2015 existe
+04-11-2015@12:34:44 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-01-2015.csv
+04-11-2015@12:34:55 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:34:55 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:34:56 INFO  (WalmartInsert.java:118)     - Data truncation: Incorrect datetime value: '11-01-2015' for column 'fechaArchivo' at row 1
+04-11-2015@12:34:56 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:34:56 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 10-31-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:34:58 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-31-2015 existe
+04-11-2015@12:34:58 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-31-2015.csv
+04-11-2015@12:35:09 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:35:09 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:35:10 INFO  (WalmartInsert.java:118)     - Data truncation: Incorrect datetime value: '10-31-2015' for column 'fechaArchivo' at row 1
+04-11-2015@12:35:10 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:35:10 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 10-30-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:35:12 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-30-2015 existe
+04-11-2015@12:35:12 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-30-2015.csv
+04-11-2015@12:35:22 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:35:22 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:35:23 INFO  (WalmartInsert.java:118)     - Data truncation: Incorrect datetime value: '10-30-2015' for column 'fechaArchivo' at row 1
+04-11-2015@12:35:23 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:35:23 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 10-29-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:35:25 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-29-2015 existe
+04-11-2015@12:35:25 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-29-2015.csv
+04-11-2015@12:35:36 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:35:36 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:35:37 INFO  (WalmartInsert.java:118)     - Data truncation: Incorrect datetime value: '10-29-2015' for column 'fechaArchivo' at row 1
+04-11-2015@12:35:37 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:35:37 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 10-28-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:35:39 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-28-2015 existe
+04-11-2015@12:35:39 INFO  (WalmartInsert.java:130)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-28-2015.csv
+04-11-2015@12:35:50 INFO  (WalmartInsert.java:213)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:35:50 INFO  (WalmartInsert.java:247)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:35:51 INFO  (WalmartInsert.java:118)     - Data truncation: Incorrect datetime value: '10-28-2015' for column 'fechaArchivo' at row 1
+04-11-2015@12:35:51 INFO  (WalmartInsert.java:87)     - [-]Termina insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:38:28 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+04-11-2015@12:38:28 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+04-11-2015@12:38:30 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+04-11-2015@12:38:30 INFO  (Utileria.java:227)     - old date: Tue Nov 03 12:38:30 CST 2015
+04-11-2015@12:38:30 INFO  (Utileria.java:227)     - old date: Mon Nov 02 12:38:30 CST 2015
+04-11-2015@12:38:30 INFO  (Utileria.java:227)     - old date: Sun Nov 01 12:38:30 CST 2015
+04-11-2015@12:38:30 INFO  (Utileria.java:227)     - old date: Sat Oct 31 12:38:30 CST 2015
+04-11-2015@12:38:30 INFO  (Utileria.java:227)     - old date: Fri Oct 30 12:38:30 CST 2015
+04-11-2015@12:38:30 INFO  (Utileria.java:227)     - old date: Thu Oct 29 12:38:30 CST 2015
+04-11-2015@12:38:30 INFO  (Utileria.java:227)     - old date: Wed Oct 28 12:38:30 CST 2015
+04-11-2015@12:38:30 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:38:30 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-03-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:38:32 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-03-2015 existe
+04-11-2015@12:38:32 INFO  (WalmartInsert.java:132)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-03-2015.csv
+04-11-2015@12:38:45 INFO  (WalmartInsert.java:215)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:38:45 INFO  (WalmartInsert.java:249)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:38:45 INFO  (WalmartInsert.java:112)     - INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 1, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-03-2015.csv', '11-03-2015', CURRENT_DATE, 'walmart-cesarfer', '6504557');
+04-11-2015@12:38:45 INFO  (WalmartInsert.java:120)     - Data truncation: Incorrect datetime value: '11-03-2015' for column 'fechaArchivo' at row 1
+04-11-2015@12:38:45 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:38:45 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-02-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:38:47 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-02-2015 existe
+04-11-2015@12:38:47 INFO  (WalmartInsert.java:132)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-02-2015.csv
+04-11-2015@12:38:59 INFO  (WalmartInsert.java:215)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:38:59 INFO  (WalmartInsert.java:249)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:39:00 INFO  (WalmartInsert.java:112)     - INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 1, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-02-2015.csv', '11-02-2015', CURRENT_DATE, 'walmart-cesarfer', '6505409');
+04-11-2015@12:39:00 INFO  (WalmartInsert.java:120)     - Data truncation: Incorrect datetime value: '11-02-2015' for column 'fechaArchivo' at row 1
+04-11-2015@12:39:00 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:39:00 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-01-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:46:20 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+04-11-2015@12:46:20 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+04-11-2015@12:46:21 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+04-11-2015@12:46:22 INFO  (WalmartInsert.java:87)     - [-]Termina insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:47:09 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+04-11-2015@12:47:09 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+04-11-2015@12:47:10 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+04-11-2015@12:47:10 INFO  (Utileria.java:227)     - old date: Tue Nov 03 12:47:10 CST 2015
+04-11-2015@12:47:10 INFO  (Utileria.java:227)     - old date: Mon Nov 02 12:47:10 CST 2015
+04-11-2015@12:47:10 INFO  (Utileria.java:227)     - old date: Sun Nov 01 12:47:10 CST 2015
+04-11-2015@12:47:10 INFO  (Utileria.java:227)     - old date: Sat Oct 31 12:47:10 CST 2015
+04-11-2015@12:47:10 INFO  (Utileria.java:227)     - old date: Fri Oct 30 12:47:10 CST 2015
+04-11-2015@12:47:10 INFO  (Utileria.java:227)     - old date: Thu Oct 29 12:47:10 CST 2015
+04-11-2015@12:47:10 INFO  (Utileria.java:227)     - old date: Wed Oct 28 12:47:10 CST 2015
+04-11-2015@12:47:10 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:47:10 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-03-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:47:12 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-03-2015 existe
+04-11-2015@12:47:12 INFO  (WalmartInsert.java:137)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-03-2015.csv
+04-11-2015@12:47:26 INFO  (WalmartInsert.java:220)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:47:26 INFO  (WalmartInsert.java:254)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:47:27 INFO  (WalmartInsert.java:117)     - INSERT INTO archivoscargados(idProyecto, idCadena, archivo, fechaArchivo, fechaCarga, descripcion, tamano) VALUES(1, 1, 'C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-03-2015.csv', '2015-11-03', CURRENT_DATE, 'walmart-cesarfer', '6504557');
+04-11-2015@12:49:24 INFO  (WalmartDownload.java:47)     - Se ejecuta Walmart download
+04-11-2015@12:49:24 INFO  (WalmartDownload.java:66)     - [-]Termina ejecución del portal Walmart Cesarfer
+04-11-2015@12:49:25 INFO  (WalmartInsert.java:45)     - INSERT; Se ejecuta Walmart insert
+04-11-2015@12:49:25 INFO  (Utileria.java:227)     - old date: Tue Nov 03 12:49:25 CST 2015
+04-11-2015@12:49:25 INFO  (Utileria.java:227)     - old date: Mon Nov 02 12:49:25 CST 2015
+04-11-2015@12:49:25 INFO  (Utileria.java:227)     - old date: Sun Nov 01 12:49:25 CST 2015
+04-11-2015@12:49:25 INFO  (Utileria.java:227)     - old date: Sat Oct 31 12:49:25 CST 2015
+04-11-2015@12:49:25 INFO  (Utileria.java:227)     - old date: Fri Oct 30 12:49:25 CST 2015
+04-11-2015@12:49:25 INFO  (Utileria.java:227)     - old date: Thu Oct 29 12:49:25 CST 2015
+04-11-2015@12:49:25 INFO  (Utileria.java:227)     - old date: Wed Oct 28 12:49:25 CST 2015
+04-11-2015@12:49:25 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:49:25 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-03-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:49:27 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-03-2015 existe
+04-11-2015@12:49:27 INFO  (WalmartInsert.java:135)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-03-2015.csv
+04-11-2015@12:49:40 INFO  (WalmartInsert.java:218)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:49:40 INFO  (WalmartInsert.java:252)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:49:41 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:49:41 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-02-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:49:43 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-02-2015 existe
+04-11-2015@12:49:43 INFO  (WalmartInsert.java:135)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-02-2015.csv
+04-11-2015@12:49:55 INFO  (WalmartInsert.java:218)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:49:55 INFO  (WalmartInsert.java:252)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:49:56 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:49:56 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 11-01-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:49:58 INFO  (WalmartInsert.java:103)     - READ: El archivo 11-01-2015 existe
+04-11-2015@12:49:58 INFO  (WalmartInsert.java:135)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_11-01-2015.csv
+04-11-2015@12:50:09 INFO  (WalmartInsert.java:218)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:50:09 INFO  (WalmartInsert.java:252)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:50:10 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:50:10 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 10-31-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:50:12 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-31-2015 existe
+04-11-2015@12:50:12 INFO  (WalmartInsert.java:135)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-31-2015.csv
+04-11-2015@12:50:23 INFO  (WalmartInsert.java:218)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:50:23 INFO  (WalmartInsert.java:252)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:50:24 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:50:24 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 10-30-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:50:26 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-30-2015 existe
+04-11-2015@12:50:26 INFO  (WalmartInsert.java:135)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-30-2015.csv
+04-11-2015@12:50:36 INFO  (WalmartInsert.java:218)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:50:36 INFO  (WalmartInsert.java:252)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:50:38 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:50:38 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 10-29-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:50:40 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-29-2015 existe
+04-11-2015@12:50:40 INFO  (WalmartInsert.java:135)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-29-2015.csv
+04-11-2015@12:50:51 INFO  (WalmartInsert.java:218)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:50:51 INFO  (WalmartInsert.java:252)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:50:52 INFO  (WalmartInsert.java:68)     - INSERT: Comienza insersión de portal Walmart Cesarfer venta diaria
+04-11-2015@12:50:52 INFO  (Utileria.java:276)     - UTIL: No se renombro el archivo con fecha 10-28-2015, ya se renombro o no existe, pasando al siguiente archivo
+04-11-2015@12:50:54 INFO  (WalmartInsert.java:103)     - READ: El archivo 10-28-2015 existe
+04-11-2015@12:50:54 INFO  (WalmartInsert.java:135)     - LOAD: procesando archivo: C:\Users\Aldo\Documents\ProyectosJava\FilesData\cesarfer\walmart\walmart_10-28-2015.csv
+04-11-2015@12:51:05 INFO  (WalmartInsert.java:218)     - LOAD: Registros de datos de CSV Walmart Cesarfer a BD exitoso
+04-11-2015@12:51:05 INFO  (WalmartInsert.java:252)     - [+]Comienza Inserción de datos Walmart-Cesarfer
+04-11-2015@12:51:06 INFO  (WalmartInsert.java:87)     - [-]Termina insersión de portal Walmart Cesarfer venta diaria

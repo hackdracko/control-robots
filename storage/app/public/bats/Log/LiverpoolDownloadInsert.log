@@ -1,0 +1,161 @@
+01-12-2016@17:53:17 INFO  (SearsDownload.java:80)     - MAIN: Se ejecuta Juguetron timberland
+01-12-2016@17:53:17 INFO  (Utileria.java:257)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@17:53:17 INFO  (Utileria.java:522)     - CHECKEXIST: Archivo no encontrado...comienza la generaciÃ³n/descarga del link/archivo
+01-12-2016@17:53:17 INFO  (SearsDownload.java:94)     - MAIN: Comienza descarga de archivo sears_30112016
+01-12-2016@17:53:22 INFO  (SearsDownload.java:174)     - Fecha de descarga: 30112016
+01-12-2016@17:53:22 INFO  (SearsDownload.java:179)     - Fecha de fdDay: 30
+01-12-2016@17:53:22 INFO  (SearsDownload.java:180)     - Fecha de fdMonth: 11
+01-12-2016@17:53:22 INFO  (SearsDownload.java:181)     - Fecha de fdYear: 2016
+01-12-2016@17:53:38 ERROR (SearsDownload.java:453)     - ELEMENTO--> 207|ACAPULCO
+01-12-2016@17:53:50 ERROR (SearsDownload.java:453)     - ELEMENTO--> 231|AGUASCALIENTES ALTARIA
+01-12-2016@17:54:02 ERROR (SearsDownload.java:453)     - ELEMENTO--> 874|ALMACEN CLARO SHOP
+01-12-2016@17:54:43 ERROR (SearsDownload.java:453)     - ELEMENTO--> 220|CANCUN
+01-12-2016@17:54:55 ERROR (SearsDownload.java:453)     - ELEMENTO--> 218|CELAYA
+01-12-2016@17:55:08 ERROR (SearsDownload.java:453)     - ELEMENTO--> 245|CELAYA GALERIAS
+01-12-2016@17:55:34 ERROR (SearsDownload.java:453)     - ELEMENTO--> 256|CHIMALHUACAN
+01-12-2016@17:55:46 ERROR (SearsDownload.java:453)     - ELEMENTO--> 227|CIUDAD JUAREZ
+01-12-2016@17:55:58 ERROR (SearsDownload.java:453)     - ELEMENTO--> 116|COACALCO
+01-12-2016@17:56:11 ERROR (SearsDownload.java:453)     - ELEMENTO--> 125|COACALCO COSMOPOL
+01-12-2016@17:56:52 ERROR (SearsDownload.java:453)     - ELEMENTO--> 244|COLIMA ZENTRALIA
+01-12-2016@17:57:05 ERROR (SearsDownload.java:453)     - ELEMENTO--> 317|CORDOBA
+01-12-2016@17:57:17 ERROR (SearsDownload.java:453)     - ELEMENTO--> 121|CUAUTITLAN
+01-12-2016@17:57:30 ERROR (SearsDownload.java:453)     - ELEMENTO--> 208|CUERNAVACA
+01-12-2016@17:57:42 ERROR (SearsDownload.java:453)     - ELEMENTO--> 225|CULIACAN FORUM
+01-12-2016@17:57:55 ERROR (SearsDownload.java:453)     - ELEMENTO--> 212|CULIACAN GALERIAS
+01-12-2016@17:58:07 ERROR (SearsDownload.java:453)     - ELEMENTO--> 306|DURANGO CENTRO
+01-12-2016@17:58:35 ERROR (SearsDownload.java:453)     - ELEMENTO--> 210|GOMEZ PALACIO
+01-12-2016@17:58:47 ERROR (SearsDownload.java:453)     - ELEMENTO--> 202|GUADALAJARA CENTRO
+01-12-2016@17:59:27 ERROR (SearsDownload.java:453)     - ELEMENTO--> 216|HERMOSILLO GALERIAS MALL
+01-12-2016@17:59:54 ERROR (SearsDownload.java:453)     - ELEMENTO--> 123|INTERLOMAS
+01-12-2016@18:00:07 ERROR (SearsDownload.java:453)     - ELEMENTO--> 304|IRAPUATO
+01-12-2016@18:00:19 ERROR (SearsDownload.java:453)     - ELEMENTO--> 253|IRAPUATO CIBELES
+01-12-2016@18:00:58 ERROR (SearsDownload.java:453)     - ELEMENTO--> 247|MAZATLAN GALERIAS
+01-12-2016@18:01:11 ERROR (SearsDownload.java:453)     - ELEMENTO--> 234|MERIDA ALTABRIZA
+01-12-2016@18:01:23 ERROR (SearsDownload.java:453)     - ELEMENTO--> 311|MERIDA CENTRO
+01-12-2016@18:01:36 ERROR (SearsDownload.java:453)     - ELEMENTO--> 263|MERIDA LAS AMERICAS
+01-12-2016@18:01:48 ERROR (SearsDownload.java:453)     - ELEMENTO--> 215|MERIDA PLAZA
+01-12-2016@18:02:14 ERROR (SearsDownload.java:453)     - ELEMENTO--> 318|MINATITLAN
+01-12-2016@18:02:27 ERROR (SearsDownload.java:453)     - ELEMENTO--> 113|MONTERREY ANAHUAC
+01-12-2016@18:02:40 ERROR (SearsDownload.java:453)     - ELEMENTO--> 201|MONTERREY CENTRO
+01-12-2016@18:02:52 ERROR (SearsDownload.java:453)     - ELEMENTO--> 232|MONTERREY CITADEL
+01-12-2016@18:03:04 ERROR (SearsDownload.java:453)     - ELEMENTO--> 252|MONTERREY ESFERA
+01-12-2016@18:03:30 ERROR (SearsDownload.java:453)     - ELEMENTO--> 108|MONTERREY SAN AGUSTIN
+01-12-2016@18:04:25 ERROR (SearsDownload.java:453)     - ELEMENTO--> 214|OAXACA PLAZA
+01-12-2016@18:04:38 ERROR (SearsDownload.java:453)     - ELEMENTO--> 213|PACHUCA OUTLET
+01-12-2016@18:05:19 ERROR (SearsDownload.java:453)     - ELEMENTO--> 243|PASEO DURANGO
+01-12-2016@18:05:31 ERROR (SearsDownload.java:453)     - ELEMENTO--> 249|PASEO LOS MOCHIS
+01-12-2016@18:05:58 ERROR (SearsDownload.java:453)     - ELEMENTO--> 242|PLAYA DEL CARMEN
+01-12-2016@18:06:27 ERROR (SearsDownload.java:453)     - ELEMENTO--> 203|PUEBLA CENTRO
+01-12-2016@18:07:07 ERROR (SearsDownload.java:453)     - ELEMENTO--> 301|SAN LUIS POTOSI CENTRO
+01-12-2016@18:07:20 ERROR (SearsDownload.java:453)     - ELEMENTO--> 110|SANTA FE
+01-12-2016@18:07:48 ERROR (SearsDownload.java:453)     - ELEMENTO--> 205|TAMPICO
+01-12-2016@18:08:00 ERROR (SearsDownload.java:453)     - ELEMENTO--> 206|TANGAMANGA
+01-12-2016@18:08:40 ERROR (SearsDownload.java:453)     - ELEMENTO--> 222|TORREON
+01-12-2016@18:09:35 ERROR (SearsDownload.java:453)     - ELEMENTO--> 706|VALLEJO OUTLET
+01-12-2016@18:09:47 ERROR (SearsDownload.java:453)     - ELEMENTO--> 302|VERACRUZ CENTRO
+01-12-2016@18:10:00 ERROR (SearsDownload.java:453)     - ELEMENTO--> 219|VERACRUZ PLAZA LAS AMERICAS
+01-12-2016@18:10:12 ERROR (SearsDownload.java:453)     - ELEMENTO--> 124|VIA VALLEJO
+01-12-2016@18:11:04 ERROR (SearsDownload.java:453)     - ELEMENTO--> 250|ZACATECAS GALERIAS
+01-12-2016@18:11:04 INFO  (SearsDownload.java:108)     - [-]Termina ejecución del portal Sears Underamour
+01-12-2016@18:11:04 INFO  (SearsInsert.java:47)     - INSERT; Se ejecuta Underarmour Sears insert en cuenta: timberland
+01-12-2016@18:11:04 INFO  (SearsInsert.java:70)     - ultima fecha: 29112016
+01-12-2016@18:11:04 INFO  (Utileria.java:449)     - old date: Wed Nov 30 00:00:00 CST 2016
+01-12-2016@18:11:04 INFO  (Utileria.java:449)     - old date: Thu Dec 01 00:00:00 CST 2016
+01-12-2016@18:11:04 INFO  (SearsInsert.java:76)     - INSERT: Comienza inserción de portal Sears Underamour venta diaria
+01-12-2016@18:11:04 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\timberland\sears\sears_30112016.txt a D:\DataRobots\timberland\sears\sears_30112016.csv
+01-12-2016@18:11:04 INFO  (Utileria.java:539)     - RENAME: El archivo 30112016 existe
+01-12-2016@18:11:04 ERROR (Utileria.java:544)     - ERROR al cambiar extensión de archivo sears con 30112016 Ya se renombro o no existe
+01-12-2016@18:11:06 INFO  (SearsInsert.java:141)     - D:\DataRobots\timberland\sears\sears_30112016.csv (The system cannot find the file specified)
+01-12-2016@18:11:06 INFO  (SearsInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\sears\sears_30112016.csv (The system cannot find the file specified)
+01-12-2016@18:11:06 INFO  (SearsInsert.java:81)     - INSERT: Termina insersión de portal Sears Underamour venta diaria
+01-12-2016@18:11:06 INFO  (SearsInsert.java:76)     - INSERT: Comienza inserción de portal Sears Underamour venta diaria
+01-12-2016@18:11:06 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\timberland\sears\sears_01122016.txt a D:\DataRobots\timberland\sears\sears_01122016.csv
+01-12-2016@18:11:06 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 01122016, ya se renombro o no existe, pasando al siguiente archivo
+01-12-2016@18:11:08 INFO  (SearsInsert.java:141)     - D:\DataRobots\timberland\sears\sears_01122016.csv (The system cannot find the file specified)
+01-12-2016@18:11:08 INFO  (SearsInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\sears\sears_01122016.csv (The system cannot find the file specified)
+01-12-2016@18:11:08 INFO  (SearsInsert.java:81)     - INSERT: Termina insersión de portal Sears Underamour venta diaria
+02-12-2016@10:44:21 INFO  (SearsDownload.java:80)     - MAIN: Se ejecuta Juguetron timberland
+02-12-2016@10:44:21 INFO  (Utileria.java:257)     - old date: Thu Dec 01 00:00:00 CST 2016
+02-12-2016@10:44:21 INFO  (Utileria.java:522)     - CHECKEXIST: Archivo no encontrado...comienza la generaciÃ³n/descarga del link/archivo
+02-12-2016@10:44:21 INFO  (SearsDownload.java:94)     - MAIN: Comienza descarga de archivo sears_01122016
+02-12-2016@10:44:29 INFO  (SearsDownload.java:174)     - Fecha de descarga: 01122016
+02-12-2016@10:44:29 INFO  (SearsDownload.java:179)     - Fecha de fdDay: 01
+02-12-2016@10:44:29 INFO  (SearsDownload.java:180)     - Fecha de fdMonth: 12
+02-12-2016@10:44:29 INFO  (SearsDownload.java:181)     - Fecha de fdYear: 2016
+02-12-2016@10:44:43 ERROR (SearsDownload.java:453)     - ELEMENTO--> 207|ACAPULCO
+02-12-2016@10:44:56 ERROR (SearsDownload.java:453)     - ELEMENTO--> 231|AGUASCALIENTES ALTARIA
+02-12-2016@10:45:09 ERROR (SearsDownload.java:453)     - ELEMENTO--> 874|ALMACEN CLARO SHOP
+02-12-2016@10:45:50 ERROR (SearsDownload.java:453)     - ELEMENTO--> 220|CANCUN
+02-12-2016@10:46:04 ERROR (SearsDownload.java:453)     - ELEMENTO--> 218|CELAYA
+02-12-2016@10:46:16 ERROR (SearsDownload.java:453)     - ELEMENTO--> 245|CELAYA GALERIAS
+02-12-2016@10:46:42 ERROR (SearsDownload.java:453)     - ELEMENTO--> 256|CHIMALHUACAN
+02-12-2016@10:46:55 ERROR (SearsDownload.java:453)     - ELEMENTO--> 227|CIUDAD JUAREZ
+02-12-2016@10:47:08 ERROR (SearsDownload.java:453)     - ELEMENTO--> 116|COACALCO
+02-12-2016@10:47:20 ERROR (SearsDownload.java:453)     - ELEMENTO--> 125|COACALCO COSMOPOL
+02-12-2016@10:48:07 ERROR (SearsDownload.java:453)     - ELEMENTO--> 244|COLIMA ZENTRALIA
+02-12-2016@10:48:19 ERROR (SearsDownload.java:453)     - ELEMENTO--> 317|CORDOBA
+02-12-2016@10:48:32 ERROR (SearsDownload.java:453)     - ELEMENTO--> 121|CUAUTITLAN
+02-12-2016@10:48:44 ERROR (SearsDownload.java:453)     - ELEMENTO--> 208|CUERNAVACA
+02-12-2016@10:48:58 ERROR (SearsDownload.java:453)     - ELEMENTO--> 225|CULIACAN FORUM
+02-12-2016@10:49:11 ERROR (SearsDownload.java:453)     - ELEMENTO--> 212|CULIACAN GALERIAS
+02-12-2016@10:49:24 ERROR (SearsDownload.java:453)     - ELEMENTO--> 306|DURANGO CENTRO
+02-12-2016@10:49:51 ERROR (SearsDownload.java:453)     - ELEMENTO--> 210|GOMEZ PALACIO
+02-12-2016@10:50:04 ERROR (SearsDownload.java:453)     - ELEMENTO--> 202|GUADALAJARA CENTRO
+02-12-2016@10:50:46 ERROR (SearsDownload.java:453)     - ELEMENTO--> 216|HERMOSILLO GALERIAS MALL
+02-12-2016@10:51:12 ERROR (SearsDownload.java:453)     - ELEMENTO--> 123|INTERLOMAS
+02-12-2016@10:51:24 ERROR (SearsDownload.java:453)     - ELEMENTO--> 304|IRAPUATO
+02-12-2016@10:51:37 ERROR (SearsDownload.java:453)     - ELEMENTO--> 253|IRAPUATO CIBELES
+02-12-2016@10:52:17 ERROR (SearsDownload.java:453)     - ELEMENTO--> 247|MAZATLAN GALERIAS
+02-12-2016@10:52:30 ERROR (SearsDownload.java:453)     - ELEMENTO--> 234|MERIDA ALTABRIZA
+02-12-2016@10:52:42 ERROR (SearsDownload.java:453)     - ELEMENTO--> 311|MERIDA CENTRO
+02-12-2016@10:52:55 ERROR (SearsDownload.java:453)     - ELEMENTO--> 263|MERIDA LAS AMERICAS
+02-12-2016@10:53:08 ERROR (SearsDownload.java:453)     - ELEMENTO--> 215|MERIDA PLAZA
+02-12-2016@10:53:34 ERROR (SearsDownload.java:453)     - ELEMENTO--> 318|MINATITLAN
+02-12-2016@10:53:46 ERROR (SearsDownload.java:453)     - ELEMENTO--> 113|MONTERREY ANAHUAC
+02-12-2016@10:53:59 ERROR (SearsDownload.java:453)     - ELEMENTO--> 201|MONTERREY CENTRO
+02-12-2016@10:54:12 ERROR (SearsDownload.java:453)     - ELEMENTO--> 232|MONTERREY CITADEL
+02-12-2016@10:54:24 ERROR (SearsDownload.java:453)     - ELEMENTO--> 252|MONTERREY ESFERA
+02-12-2016@10:54:50 ERROR (SearsDownload.java:453)     - ELEMENTO--> 108|MONTERREY SAN AGUSTIN
+02-12-2016@10:55:45 ERROR (SearsDownload.java:453)     - ELEMENTO--> 214|OAXACA PLAZA
+02-12-2016@10:55:57 ERROR (SearsDownload.java:453)     - ELEMENTO--> 213|PACHUCA OUTLET
+02-12-2016@10:56:38 ERROR (SearsDownload.java:453)     - ELEMENTO--> 243|PASEO DURANGO
+02-12-2016@10:56:51 ERROR (SearsDownload.java:453)     - ELEMENTO--> 249|PASEO LOS MOCHIS
+02-12-2016@10:57:20 ERROR (SearsDownload.java:453)     - ELEMENTO--> 242|PLAYA DEL CARMEN
+02-12-2016@10:57:48 ERROR (SearsDownload.java:453)     - ELEMENTO--> 203|PUEBLA CENTRO
+02-12-2016@10:58:29 ERROR (SearsDownload.java:453)     - ELEMENTO--> 301|SAN LUIS POTOSI CENTRO
+02-12-2016@10:58:42 ERROR (SearsDownload.java:453)     - ELEMENTO--> 110|SANTA FE
+02-12-2016@10:59:10 ERROR (SearsDownload.java:453)     - ELEMENTO--> 205|TAMPICO
+02-12-2016@10:59:23 ERROR (SearsDownload.java:453)     - ELEMENTO--> 206|TANGAMANGA
+02-12-2016@11:00:02 ERROR (SearsDownload.java:453)     - ELEMENTO--> 222|TORREON
+02-12-2016@11:00:58 ERROR (SearsDownload.java:453)     - ELEMENTO--> 706|VALLEJO OUTLET
+02-12-2016@11:01:10 ERROR (SearsDownload.java:453)     - ELEMENTO--> 302|VERACRUZ CENTRO
+02-12-2016@11:01:23 ERROR (SearsDownload.java:453)     - ELEMENTO--> 219|VERACRUZ PLAZA LAS AMERICAS
+02-12-2016@11:01:36 ERROR (SearsDownload.java:453)     - ELEMENTO--> 124|VIA VALLEJO
+02-12-2016@11:02:29 ERROR (SearsDownload.java:453)     - ELEMENTO--> 250|ZACATECAS GALERIAS
+02-12-2016@11:02:29 INFO  (SearsDownload.java:108)     - [-]Termina ejecución del portal Sears Underamour
+02-12-2016@11:02:29 INFO  (SearsInsert.java:47)     - INSERT; Se ejecuta Underarmour Sears insert en cuenta: timberland
+02-12-2016@11:02:29 INFO  (SearsInsert.java:70)     - ultima fecha: 29112016
+02-12-2016@11:02:29 INFO  (Utileria.java:449)     - old date: Wed Nov 30 00:00:00 CST 2016
+02-12-2016@11:02:29 INFO  (Utileria.java:449)     - old date: Thu Dec 01 00:00:00 CST 2016
+02-12-2016@11:02:29 INFO  (Utileria.java:449)     - old date: Fri Dec 02 00:00:00 CST 2016
+02-12-2016@11:02:29 INFO  (SearsInsert.java:76)     - INSERT: Comienza inserción de portal Sears Underamour venta diaria
+02-12-2016@11:02:29 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\timberland\sears\sears_30112016.txt a D:\DataRobots\timberland\sears\sears_30112016.csv
+02-12-2016@11:02:29 INFO  (Utileria.java:539)     - RENAME: El archivo 30112016 existe
+02-12-2016@11:02:29 INFO  (Utileria.java:542)     - UTIL: Extencion de archivo sears con fecha 30112016 correctamente cambiado
+02-12-2016@11:02:32 INFO  (SearsInsert.java:225)     - Data truncated for column 'ventas' at row 1
+02-12-2016@11:02:32 INFO  (SearsInsert.java:226)     - Query-> com.mysql.jdbc.JDBC4PreparedStatement@2e53b094: INSERT INTO tempSears(id,fecha,fechaarchivo,fechacarga,tienda,ean,sku,estilo,descripcion,inventario,pedidos,ventas,com,cobertura,costo,naturaleza,estatusArticulo,codigoTemporada,modaBasico,marca,importacion) VALUES(null,'2016-11-30','2016-11-30','2016-12-02 11:02:31','0','0','0','0','TOTALES','269737.05','0','0','0','0','0','0','0','0','0','0','0')
+02-12-2016@11:02:32 INFO  (SearsInsert.java:121)     - Error ocurrido mientras se cargaban datos del archivo Juguetron Spinmaster a la base de datos.Data truncated for column 'ventas' at row 1
+02-12-2016@11:02:32 INFO  (SearsInsert.java:81)     - INSERT: Termina insersión de portal Sears Underamour venta diaria
+02-12-2016@11:02:32 INFO  (SearsInsert.java:76)     - INSERT: Comienza inserción de portal Sears Underamour venta diaria
+02-12-2016@11:02:32 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\timberland\sears\sears_01122016.txt a D:\DataRobots\timberland\sears\sears_01122016.csv
+02-12-2016@11:02:32 INFO  (Utileria.java:539)     - RENAME: El archivo 01122016 existe
+02-12-2016@11:02:32 ERROR (Utileria.java:544)     - ERROR al cambiar extensión de archivo sears con 01122016 Ya se renombro o no existe
+02-12-2016@11:02:34 INFO  (SearsInsert.java:141)     - D:\DataRobots\timberland\sears\sears_01122016.csv (The system cannot find the file specified)
+02-12-2016@11:02:34 INFO  (SearsInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\sears\sears_01122016.csv (The system cannot find the file specified)
+02-12-2016@11:02:34 INFO  (SearsInsert.java:81)     - INSERT: Termina insersión de portal Sears Underamour venta diaria
+02-12-2016@11:02:34 INFO  (SearsInsert.java:76)     - INSERT: Comienza inserción de portal Sears Underamour venta diaria
+02-12-2016@11:02:34 INFO  (Utileria.java:536)     - Renombrando archivo D:\DataRobots\timberland\sears\sears_02122016.txt a D:\DataRobots\timberland\sears\sears_02122016.csv
+02-12-2016@11:02:34 INFO  (Utileria.java:548)     - UTIL: No se renombro el archivo con fecha 02122016, ya se renombro o no existe, pasando al siguiente archivo
+02-12-2016@11:02:36 INFO  (SearsInsert.java:141)     - D:\DataRobots\timberland\sears\sears_02122016.csv (The system cannot find the file specified)
+02-12-2016@11:02:36 INFO  (SearsInsert.java:121)     - LOAD: Error al executar archivo CSVD:\DataRobots\timberland\sears\sears_02122016.csv (The system cannot find the file specified)
+02-12-2016@11:02:36 INFO  (SearsInsert.java:81)     - INSERT: Termina insersión de portal Sears Underamour venta diaria

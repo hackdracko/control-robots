@@ -85,6 +85,13 @@ public class Configurations {
 				else 
 					JDBC_PASSWORD = "eVoRooT12.34.2016";			    			    
 			break;
+			case "northface":
+				JDBC_CONNECTION_URL = "jdbc:mysql://localhost:3306/cuboNorthface?useUnicode=true&amp;characterEncoding=UTF-8";				
+				if (ENVIROMENT == "development") 
+					JDBC_PASSWORD = "";
+				else 
+					JDBC_PASSWORD = "eVoRooT12.34.2016";			    			    
+			break;
 		}		
   
         try {        	

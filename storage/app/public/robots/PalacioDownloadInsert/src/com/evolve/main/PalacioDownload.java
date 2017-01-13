@@ -35,7 +35,7 @@ import com.mysql.jdbc.Statement;
 public class PalacioDownload {
 		
 	static String portal = "palacio";
-	static String cuenta;
+	static String cuenta, finicial, ffinal;
 	static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(PalacioDownload.class);
 	static Configurations config;
 	static Properties prop = new Properties();
@@ -59,7 +59,7 @@ public class PalacioDownload {
         try {
 
         	String filePrefix = prop.getProperty(portal+".prefix");									
-			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy");
+			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy", finicial, ffinal);
             
             int counter = 1;
             for(int k=0; k < oldDates.size();k++){

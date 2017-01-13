@@ -40,7 +40,7 @@ public class LiverpoolDownload {
 	static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(LiverpoolDownload.class);
 	static Configurations config;
 	static Properties prop = new Properties();
-	static Utileria util;	
+	static Utileria util;
 	
 	public static void main(String[] args) {		
 		
@@ -368,6 +368,8 @@ public class LiverpoolDownload {
                     }
                 }
             }
+            fw.close();
+            pw.close();
 
         } catch (Exception e) {
             log.error("[¡] error al escribir archivo Liverpool " + e.getMessage());

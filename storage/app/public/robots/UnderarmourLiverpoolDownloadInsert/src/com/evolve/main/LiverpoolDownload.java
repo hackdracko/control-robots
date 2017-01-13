@@ -40,9 +40,9 @@ public class LiverpoolDownload {
 	static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(LiverpoolDownload.class);
 	static Configurations config;
 	static Properties prop = new Properties();
-	static Utileria util;	
+	static Utileria util;
 	
-	public static void main(String[] args) {		
+	public static void main(String[] args) {
 		
 		cuenta = args[0];
 		seccion = args[1];
@@ -63,7 +63,7 @@ public class LiverpoolDownload {
         try {
 
         	String filePrefix = prop.getProperty(portal+".prefix");									
-			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormatSeccion("ddMMyyyy", seccion);
+			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormatSeccion("ddMMyyyy", seccion, finicial, ffinal);
             
             int counter = 1;
             for(int k=0; k < oldDates.size();k++) {
@@ -138,7 +138,7 @@ public class LiverpoolDownload {
                     driver.findElement(By.id("logonuidfield")).sendKeys(user);
                     driver.findElement(By.id("logonpassfield")).sendKeys(pass);
                     driver.findElement(By.name("uidPasswordLogon")).click();
-                    boolean success = driver.getPageSource().contains("AutentificaciÃ³n de usuario fallida");
+                    boolean success = driver.getPageSource().contains("Autentificación de usuario fallida");
 
                     if (success == true) {                        
                         log.warn("ACCESS: ERROR Logeo, Usuario y/o Password incorrectos ");   
@@ -258,8 +258,8 @@ public class LiverpoolDownload {
                     System.out.println("ENTRA 2");
                     driver.get("https://bwsext.liverpool.com.mx/sap/bw/BEx?sap-language=es&sap-client=400&accessibility=&style_sheet=&TEMPLATE_ID=BWR_VTAS_POR_DIA_PROV");
                     TimeUnit.SECONDS.sleep(2);
-                    driver.findElement(By.xpath("//*[@id=\"VAR_VALUE_LOW_EXT_14\"]")).clear();
-                    driver.findElement(By.xpath("//*[@id=\"VAR_VALUE_HIGH_EXT_14\"]")).clear();
+                    //driver.findElement(By.xpath("//*[@id=\"VAR_VALUE_LOW_EXT_14\"]")).clear();
+                    //driver.findElement(By.xpath("//*[@id=\"VAR_VALUE_HIGH_EXT_14\"]")).clear();
                     
                     driver.findElement(By.xpath("/html/body/form/table/tbody/tr/td/table/tbody/tr[5]/td"
                             + "/table/tbody/tr[1]/td[2]/table/tbody/tr/td/table/tbody/tr/td/a/nobr")).click();

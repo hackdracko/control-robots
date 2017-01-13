@@ -3,9 +3,7 @@ package com.evolve.main;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -22,8 +20,6 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipInputStream;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -44,7 +40,7 @@ import com.mysql.jdbc.Statement;
 public class SearsDownload {
 
 	static String portal = "sears";
-	static String cuenta;
+	static String cuenta, fechainicial, fechafinal;
 	static org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(SearsDownload.class);
 	static Configurations config;
 	static Properties prop = new Properties();
@@ -53,6 +49,8 @@ public class SearsDownload {
 	public static void main(String[] args) {
 
 		cuenta = args[0];
+		fechainicial = args[1];
+		fechafinal = args[2];
 		config = new Configurations(cuenta);
 		util = new Utileria(portal, cuenta);
 		
@@ -86,7 +84,7 @@ public class SearsDownload {
 		try {
 
 			String filePrefix = prop.getProperty(portal + ".prefix");
-			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy");
+			ArrayList<String> oldDates = util.getDatesFromLastReportFileFormat("ddMMyyyy", fechainicial, fechafinal);
 
 			int counter = 1;
 			for (int k = 0; k < oldDates.size(); k++) {
@@ -151,7 +149,6 @@ public class SearsDownload {
 		}
 		
 		urlLogin = prop.getProperty(portal + ".urlLogin");
-		System.out.println("--------"+urlLogin);
 
 		try {
 			if (indPortalEjec == 1) {
@@ -164,13 +161,34 @@ public class SearsDownload {
 
 				boolean success = driver.getPageSource()
 						.contains("Contraseña Incorrecta");
-
+				
+				boolean expira = driver.getPageSource()
+						.contains("Su contraseña ha expirado");
 				if (success == true) {
 					log.warn("ERROR Logeo, Usuario y/o Password incorrectos ");
 					util.insertLog(cuenta, portal, "Download - Main: Usuario/Password incorrectos", "error");
 					terminaDriver(driver);
+                    //Desactivando el robot
+                    try {
+        				Statement s = (Statement) conn.createStatement();            				
+        				s.executeUpdate ("UPDATE proyectos_cadenas SET activo=0 WHERE nombreProyecto LIKE '%"+cuenta+"%' AND nombreCadena LIKE '%"+portal+"%'");            				            				            				
+        			} catch (SQLException e) {				
+        				e.printStackTrace();
+        			}
 					System.exit(0);
-				} else {
+				}else if(expira == true){
+					log.warn("ERROR Logeo, Contraseña expirada");
+					util.insertLog(cuenta, portal, "Download - Main: Contraseña expirada", "error");
+					terminaDriver(driver);
+                    //Desactivando el robot
+                    try {
+        				Statement s = (Statement) conn.createStatement();            				
+        				s.executeUpdate ("UPDATE proyectos_cadenas SET activo=0 WHERE nombreProyecto LIKE '%"+cuenta+"%' AND nombreCadena LIKE '%"+portal+"%'");            				            				            				
+        			} catch (SQLException e) {				
+        				e.printStackTrace();
+        			}
+					System.exit(0);
+				}else {
 					System.out.println("Paso->1");
 					TimeUnit.SECONDS.sleep(3);
 					log.info("Fecha de descarga: " + fechaDownload);
@@ -452,7 +470,6 @@ public class SearsDownload {
 	    				if(checkError == true){
 	    					driver.close();
 	    					TimeUnit.SECONDS.sleep(3);
-	    					log.error("ELEMENTO--> "+s);
 	    				}else{
 		                    Document doc;
 		                    String html_content = driver.getPageSource();
@@ -477,6 +494,13 @@ public class SearsDownload {
 								    Elements tds = row.select("td");
 								    for (Element td : tds) {
 								    	lineas = td.text().concat("|");
+								    	if(countElementtd == 0){
+								    		if(lineas.length() == 1){
+								    			break;
+								    		}else{
+								    			lineas = s + "|" + lineas;
+								    		}
+								    	}
 								    	if(countElementtd == 15){
 								    		lineas = lineas.replaceAll("|", "");
 								    		lineas = lineas.concat("\n");
@@ -486,20 +510,15 @@ public class SearsDownload {
 								    	}catch (IOException e) {
 								    	    //exception handling left as an exercise for the reader
 								    	}
-								        //System.out.println(lineas); // --> This will print them indiviadually
-								        //System.out.println("+++++++++++"+countElementtd);
 								        countElementtd++;
 								    }
 								    countElementtd = 0;
-								    //System.out.println(tds.text()); // -->This will pring everything
 								}
-							                                    // in the row
 							    countElement++;
 							    
 							}
-							// System.out.println(table);
 							driver.close();
-							TimeUnit.SECONDS.sleep(3);
+							TimeUnit.SECONDS.sleep(8);
 	    				}
 						driver.switchTo().window(winHandleBefore2);
 					}

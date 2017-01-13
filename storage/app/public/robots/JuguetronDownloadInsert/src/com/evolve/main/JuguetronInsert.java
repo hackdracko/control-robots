@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.sql.CallableStatement;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -75,6 +76,8 @@ public class JuguetronInsert {
                 String fecha = oldDates.get(k);
                 util.renameFile(fecha, config);
                 readDataJuguetron(fecha);
+                log.info("CALL: COMIENZA STORE");
+                insertDataJuguetronSpinmaster(fecha);
                 log.info("INSERT: Termina insersión de portal Juguetron Spinmaster venta diaria"); 
                 util.insertLog(cuenta, portal, "Insert - insertarBD: Termina el proceso de inserción", "success");
             } catch (Exception e) {
@@ -97,7 +100,6 @@ public class JuguetronInsert {
             File csvFile = new File(urlFile);                      
             
             loadCSVJuguetronCesarfer(urlFile, "tempJuguetron", true, headerRow, isDoble, fecha);
-            insertDataJuguetronSpinmaster(fecha);
             
             log.info("Registro de archivos en bd");
             //Registrando la carga de archivos en el historial
@@ -238,47 +240,26 @@ public class JuguetronInsert {
         //String fechaSistema = dateFormat.format(cal.getTime());
 
         Connection con = null;
-        PreparedStatement ps = null;
+        CallableStatement callableStatement = null;
+        log.info("INSERT: Comienza a Cargar el Store para concentradov -"+cuenta);
+        String tempStore = "{call concentradoTempJuguetron(?)}";
 
         try {
             con = connection;
             con.setAutoCommit(false);
-            log.info("INSERT: Comienza inserción de datos Juguetron Spinmaster");
-            
-            String queryInsert = "";
-            if (cuenta.equals("cesarfer")) {
-            	queryInsert = "INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) "+
-            			"SELECT 'cesarfer', 'LIVERPOOL', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' "+
-                        "FROM templiverpool x "+
-                        	"INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) "+
-                            "INNER JOIN catproductos p ON x.EanUPC=p.upc "+
-                        "WHERE x.fechaCreacion >= '"+fechaNueva+"' ";
-            }
-            
-            if (cuenta.equals("spinmaster")) {
-            	log.info("Inserta concentradov spin");
-            	queryInsert = "INSERT INTO concentradov (proyecto,archivoCadena,idTienda,idTiendaReal,grupo,formato,cadena,sucursal,promotoria,chksumt,idProducto,upc,item,division,categoria,subCategoria,modelo,material,chksump,nombre,costoUnidadMB,ventasUnidades,ventasImporte,existenciasUnidades,existenciasImporte,fecha,fechaCarga,idArchivoCarga,tiendaFalta,productoFalta) "+
-            		"SELECT 'spinmaster', 'SPINMASTER', t.id AS idTienda, t.idTiendaReal, t.grupo, t.formato, t.cadena, t.sucursal, t.promotoria, t.chksum, p.id, p.upc, p.item, p.division, p.categoria, p.subCategoria, p.modelo, p.material, p.chksum, p.nombre, p.costoUnidad, x.ventasUni, x.ventasImp, 0, 0, FechaCreacion, CURRENT_TIMESTAMP, '9', '0', '0' "+
-                    "FROM tempjuguetron x "+
-                    	"INNER JOIN cubogeneral.cattiendas t ON (t.grupo IN ('5') AND x.centroId=t.idTiendaReal) "+
-                        "INNER JOIN catproductos p ON x.EanUPC=p.skuJuguetron "+
-                    "WHERE x.fechaCreacion = '"+fechaNueva+"' group BY x.id";
-            }
-            
-            
-            log.info(queryInsert);
-            ps = con.prepareStatement(queryInsert);
-
-            ps.executeUpdate();
+            log.info("INSERT: Comienza Inserción de datos Liverpool-"+cuenta);
+            callableStatement = con.prepareCall(tempStore);
+            callableStatement.setInt(1, 1);
+            callableStatement.executeUpdate();
             con.commit();
             
         } catch (SQLException e) {
             con.rollback();            
             throw new Exception("Error ocurrido mientras se insertaban datos del archivo Juguetron Spinmaster a la base de datos." + e.getMessage());
         } finally {
-            if (null != ps) {
-                ps.close();
-            }            
+            if (null != callableStatement) {
+            	callableStatement.close();
+            }         
         }
     }
 	
